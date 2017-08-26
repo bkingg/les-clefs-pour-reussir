@@ -833,7 +833,7 @@ aside.widget.widget_archive {
     color: #393939; }
 
 .About_Us {
-  background: url("..//uploads/lined_paper.png");
+  background: url("../uploads/lined_paper.png");
   border-top: 1px solid #e8e8e8;
   border-bottom: 1px solid #e8e8e8; }
   .About_Us h2 {
@@ -907,7 +907,7 @@ aside.widget.widget_archive {
   padding-right: 30px; }
 
 .testimonials {
-  background: url("..//uploads/lined_paper.png");
+  background: url("../uploads/lined_paper.png");
   border-top: 1px solid #e8e8e8;
   border-bottom: 1px solid #e8e8e8; }
   .testimonials .testimonial-author {
@@ -1179,7 +1179,7 @@ aside.widget.widget_archive {
     display: none; }
 
 .Counter {
-  background: url("..//uploads/lined_paper.png");
+  background: url("../uploads/lined_paper.png");
   border-top: 1px solid #e8e8e8;
   border-bottom: 1px solid #e8e8e8;
   -webkit-transition: 0.5s;
@@ -1234,7 +1234,7 @@ aside.widget.widget_archive {
   border-radius: 3px;
   text-align: center;
   border: 1px solid #e8e8e8;
-  background: url("..//uploads/lined_paper.png");
+  background: url("../uploads/lined_paper.png");
   position: relative; }
   .newsletter-area:before, .newsletter-area:after {
     content: "";
@@ -1244,10 +1244,10 @@ aside.widget.widget_archive {
     height: 100%; }
   .newsletter-area:before {
     left: 0;
-    background: url("..//uploads/envelope.png"); }
+    background: url("../uploads/envelope.png"); }
   .newsletter-area:after {
     right: 0;
-    background: url("..//uploads/envelope.png"); }
+    background: url("../uploads/envelope.png"); }
 
 .latest_news .title-section {
   padding: 0 15px 40px;

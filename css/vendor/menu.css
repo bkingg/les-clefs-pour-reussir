@@ -454,28 +454,28 @@ Main components
   background-size: 40px 40px;
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-1::before {
-  background-image: url("../..//uploads/line-icon-1.svg");
+  background-image: url("../../uploads/line-icon-1.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-2::before {
-  background-image: url("../..//uploads/line-icon-2.svg");
+  background-image: url("../../uploads/line-icon-2.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-3::before {
-  background-image: url("../..//uploads/line-icon-3.svg");
+  background-image: url("../../uploads/line-icon-3.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-4::before {
-  background-image: url("../..//uploads/line-icon-4.svg");
+  background-image: url("../../uploads/line-icon-4.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-5::before {
-  background-image: url("../..//uploads/line-icon-5.svg");
+  background-image: url("../../uploads/line-icon-5.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-6::before {
-  background-image: url("../..//uploads/line-icon-6.svg");
+  background-image: url("../../uploads/line-icon-6.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-7::before {
-  background-image: url("../..//uploads/line-icon-7.svg");
+  background-image: url("../../uploads/line-icon-7.svg");
 }
 .rex-primary-nav .rex-nav-icons .rex-nav-item.item-8::before {
-  background-image: url("../..//uploads/line-icon-8.svg");
+  background-image: url("../../uploads/line-icon-8.svg");
 }
 @media only screen and (max-width: 1169px) {
   .rex-primary-nav {
