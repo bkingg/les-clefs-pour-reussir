@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{% if page.title != undefined %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <title>{% if page.title != undefined %}{{ page.title }} - {% endif %}Les Clefs du Succes</title>
     <meta name="description" content="{% if page.title != undefined %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -11,13 +11,13 @@
     <!-- Place favicon.ico in the root directory -->
     <link rel="icon" type="image/png" href="favicon.png">
     
-    <link rel="stylesheet" href="/css/vendor/ionicons.min.css">
-    <link rel="stylesheet" href="/css/vendor/animate.min.css">
-    <link rel="stylesheet" href="/css/vendor/mislider.css">
-    <link rel="stylesheet" href="/css/vendor/mislider-skin-cameo.css">
-    <link rel="stylesheet" href="/css/vendor/owl.transitions.css">
-    <link rel="stylesheet" href="/css/vendor/owl.carousel.css">
-    <link rel="stylesheet" href="/css/vendor/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/ionicons.min.css">
+    <link rel="stylesheet" href="/css/animate.min.css">
+    <link rel="stylesheet" href="/css/mislider.css">
+    <link rel="stylesheet" href="/css/mislider-skin-cameo.css">
+    <link rel="stylesheet" href="/css/owl.transitions.css">
+    <link rel="stylesheet" href="/css/owl.carousel.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/custom.css">
@@ -33,99 +33,3 @@
         <div class="cssload-loader"></div>
         </div>
     </div>
-
-    {% comment %}<header>
-        <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-            <div class="block">
-                <p><a href="#">My Account</a></p>
-                <!-- Extra small button group -->
-                <div class="btn-group">
-                <button class="btn btn-default btn-xs" id="lang-toggle" type="button" aria-haspopup="true" aria-expanded="false">
-                    ENGLISH <span class="caret"></span>
-                </button>
-                <ul class="dropdown-menu">
-                    <li><a href="#">English</a></li>
-                    <li><a href="#">France</a></li>
-                    <li><a href="#">Germany</a></li>
-                    <li><a href="#">Japanese</a></li>
-                </ul>
-                </div>
-            </div>
-            </div>
-            <div class="col-md-6">
-            <div class="block align-right">
-                <a href="#">Help center</a>
-                <a href="#">online support</a>
-                <!-- Register Section -->
-                <a href="#" data-toggle="modal" data-target="#registerModal" data-whatever="@mdo">register</a>
-                <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="registerlLabel">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="registerlLabel">Register Now</h4>
-                    </div>
-                    <div class="modal-body">
-                        <form class="rex-forms">
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="fast-name" placeholder="Fast Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="last-name" placeholder="Last Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control" id="email-name" placeholder="E-mail">
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" id="pass-word" placeholder="Password">
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" id="re-pass-word" placeholder="Re-Password">
-                        </div>
-                        </form>
-                    </div>
-                    <div class="modal-footer">
-                        <button class="rex-bottom-medium rex-btn-icon">
-                            <span class="rex-btn-text">registration</span>
-                            <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-                        </button>                    
-                    </div>
-                    </div>
-                </div>
-                </div>
-                <!-- <a href="#"><i class="fa fa-lock"></i>LOG in </a> -->
-                <a href="#" data-toggle="modal" data-target="#loginModal" data-whatever="@mdo"><i class="fa fa-lock"></i>LOG in </a>
-                <!-- Login Option -->
-                <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginLabel">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="loginLabel">Login</h4>
-                    </div>
-                    <div class="modal-body">
-                        <form class="rex-forms">
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="recipient-name" placeholder="Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" id="pass_word" placeholder="Password">
-                        </div>
-                        </form>
-                    </div>
-                    <div class="modal-footer">
-                        <button class="rex-bottom-medium rex-btn-icon">
-                            <span class="rex-btn-text">Login</span>
-                            <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-                        </button>  
-                    </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </div>
-    </header>{% endcomment %}
