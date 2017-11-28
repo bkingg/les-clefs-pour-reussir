@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<!-- Breadcum section -->
+
+<section class="breadcum">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h4>Programmes</h4>
+				<div class="pages">
+					<a href="index.html">Home</a> 
+					<span>&#47;</span>
+					<a href="programmes.html">Programmes</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- courses_page -->
+
+<section class="courses_page">
+	<div class="container">
+			
+		<div id="products" class="row list-group">
+			{% for programme in site.programmes %}
+				<div class="item  col-sm-12 col-md-6 col-lg-4">
+					<div class="block-content">
+						<div class="courses-img">
+							<img src="http://placehold.it/360x218" alt="">
+						</div>
+						<div class="content">
+							<a href="{{ programme.url }}"><h6>{{ programme.title }}</h6></a>
+							<p class="description">This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lore 
+							quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+						</div>
+					</div>
+				</div>
+			{% endfor %}	
+		</div>
+
+		<!-- end about list -->
+		<div class="col-md-12 courses_page_btn2">
+			<nav>
+				<ul class="pagination">
+					<li><a href="#" aria-label="Previous"><span aria-hidden="true"><i class="fa fa-angle-left"></i></span></a></li>
+					<li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</section>
+
