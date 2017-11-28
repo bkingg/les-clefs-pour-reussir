@@ -2,3 +2,12 @@ ul.main-ul {
   float: right; }
   ul.main-ul > li > a {
     font-weight: bold; }
+
+.logo {
+  padding: 0; }
+  .logo img {
+    height: 80px;
+    width: auto; }
+
+.main-menu ul.main-ul {
+  padding-left: 0; }
