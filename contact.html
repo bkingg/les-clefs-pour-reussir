@@ -3,15 +3,15 @@ layout: default
 ---
 
 <!-- Breadcum section -->
-<section class="breadcum">
+<section class="breadcum" style="background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('/uploads/contact.jpg'), no-repeat;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h4>Contact Us</h4>
+        <h4>Contactez-nous</h4>
         <div class="pages">
           <a href="/index.html">Home</a> 
           <span>&#47;</span>
-          <a href="about_page.html">Contact</a>
+          <a href="/contact.html">Contactez-nous</a>
         </div>
       </div>
     </div>
@@ -33,22 +33,21 @@ layout: default
       <div class="col-md-3">
         <div class="wow fadeIn animated" data-wow-duration="1s" data-wow-delay="1s">
           <div class="title-section">
-            <h3>stay with us</h3>
-            <p>We are happy to hear from you.</p>
+            <h3>Rejoignez-nous</h3>
+            <p>Nous serions enchantés de vous rencontrer.</p>
           </div>
-          <div class="media-link instructors-media-link">
+          <!-- <div class="media-link instructors-media-link">
             <a data-toggle="tooltip" data-placement="top" title="Go facebook Profile" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
             <a data-toggle="tooltip" data-placement="top" title="Go twitter Profile" href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
             <a data-toggle="tooltip" data-placement="top" title="Go Google plus Profile" href="https://plus.google.com/"><i class="fa fa-google-plus"></i></a>
             <a data-toggle="tooltip" data-placement="top" title="Go linkedin Profile" href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a>
-          </div>
+          </div> -->
           <div class="addres">
             <div class="addres-icon">
               <i class="fa fa-phone"></i>
             </div>
             <div class="addres-content address-phone">
-              <a href="tel:+00123456789">+00 (123) 456 789</a><br>
-              <a href="tel:+00123456789">+00 (123) 456 789</a>
+              <a href="tel:+00123456789">+1 (514) 518 6101</a><br>
             </div>
           </div>
           <div class="addres">
@@ -56,8 +55,8 @@ layout: default
               <i class="fa fa-envelope"></i>
             </div>
             <div class="addres-content">
-              <a href="mailto:email@rextheme.com">email@rextheme.com</a><br>
-              <a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
+              <a href="mailto:email@rextheme.com">cle7dor23@hotmail.com</a><br>
+              <!-- <a href="mailto:info@yourdomain.com">info@lesclefsdusucces.com</a> -->
             </div>
           </div>
           <div class="addres">
@@ -66,9 +65,9 @@ layout: default
             </div>
             <div class="addres-content">
               <p>
-                3rd Level, 43/R/13 <br>
-                Panthapath, <br>
-                Dhaka Bangladesh
+                Cote Sainte-Catherine <br>
+                Montreal, <br>
+                QC Canada
               </p>
             </div>
           </div>
@@ -78,26 +77,31 @@ layout: default
       <!-- contact form -->
       <div class="col-md-12">
         <div class="wow fadeInUp animated contact-from" data-wow-duration="1s" data-wow-delay="1.5s">
-          <h3>CONTACT US</h3>
-          <form class="rex-forms">
-            <div class="form-group col-md-4">
-              <input type="text" class="form-control"  placeholder="Your Name">
-            </div>
-            <div class="form-group col-md-4">
-              <input type="email" class="form-control" placeholder="Your Email">
-            </div>
-            <div class="form-group col-md-4">
-              <input type="text" class="form-control" placeholder="Subject">
-            </div>
-            <div class="form-group col-md-12">
-              <textarea class="form-control" placeholder="Your Message" rows="3"></textarea>
-            </div>
-            <div class="col-md-12">
-              <button class="rex-bottom-medium rex-btn-icon">
-                <span class="rex-btn-text">Send message</span>
-                <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
+          <h3>CONTACTEZ NOUS</h3>
+          <form id="contact" class="rex-forms" action="?" method="POST">
+              <input type="hidden" name="_subject" value="Contact" />
+              <input type="hidden" name="_format" value="plain" />
+              <input type="hidden" name="_language" value="fr" />
+              <input type="text" name="_gotcha" style="display:none" />
+              <div class="form-group col-md-6">
+                  <input type="text" class="form-control" name="nom"  placeholder="Votre Nom" required>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre nom.</p>
+              </div>
+              <div class="form-group col-md-6">
+                  <input type="email" class="form-control" name="email" placeholder="Votre Courriel" required>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre addresse courriel.</p>
+              </div>
+              <div class="form-group col-md-12">
+                  <textarea class="form-control" name="message" placeholder="Votre Message" rows="3" required></textarea>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre message.</p>
+              </div>
+              <button class="rex-bottom-medium rex-btn-icon" type="submit">
+                  <span class="rex-btn-text">Contactez nous</span>
+                  <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
               </button>
-            </div>
+
+              <p class="status__failure text-error" style="display: none;">Une erreur s'est produite. Veuillez réessayer.</p>
+              <p class="status__success text-success" style="display: none;">Votre message a été envoyé!</p>
           </form>
         </div>
       </div>

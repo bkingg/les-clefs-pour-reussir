@@ -28,10 +28,16 @@ ul.main-ul{
     overflow: hidden;
 }
 
-#contact-programme{
+#contact-programme,
+#contact{
     .status__success,
     .status__failure{
         padding-top: 20px;
         display: block;
     }
+}
+
+.footer-logo{
+    height: 50px;
+    width: auto;
 }
