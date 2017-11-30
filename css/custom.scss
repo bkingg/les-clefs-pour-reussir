@@ -27,3 +27,11 @@ ul.main-ul{
     display: block;
     overflow: hidden;
 }
+
+#contact-programme{
+    .status__success,
+    .status__failure{
+        padding-top: 20px;
+        display: block;
+    }
+}
