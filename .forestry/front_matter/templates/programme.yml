@@ -1,5 +1,6 @@
 ---
 pages:
+- _programmes/test 4.md
 - _programmes/test.md
 hide_body: false
 fields:
