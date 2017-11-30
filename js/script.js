@@ -321,7 +321,7 @@
     $(this).parent().toggleClass('open');
   });
 
-  $(document).on('submit', '#contact-programme', function(){
+  $(document).on('submit', '#contact-programme, #contact', function(){
     event.preventDefault();
   
     var errors = false;

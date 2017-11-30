@@ -19,6 +19,12 @@ ul.main-ul {
   overflow: hidden; }
 
 #contact-programme .status__success,
-#contact-programme .status__failure {
+#contact-programme .status__failure,
+#contact .status__success,
+#contact .status__failure {
   padding-top: 20px;
   display: block; }
+
+.footer-logo {
+  height: 50px;
+  width: auto; }
