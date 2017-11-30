@@ -11,6 +11,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: datetime
+  default: Invalid date
+  label: date
+  name: date
+  hidden: true
 - name: image
   label: Image
   type: file
