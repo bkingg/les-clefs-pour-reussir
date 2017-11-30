@@ -119,117 +119,38 @@
                             
                         </div><!-- end -->
         
-                        <!-- Share Section -->
-                        <div class="share_section">
-                            <div class="col-md-6">
-                                <a href="#" target="_self" class="rex-bottom-medium rex-btn-icon">
-                                    <span class="rex-btn-text">Contactez nous</span>
-                                    <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-                                </a>
-                            </div>
-                            <!-- <div class="col-md-6">
-                                <div class="media-section">
-                                    <h6>SHARE THIS COURSE</h6>
-                                    <div class="instructors-media-link">
-                                        <a data-toggle="tooltip" data-placement="top" title="Go facebook Profile" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                                        <a data-toggle="tooltip" data-placement="top" title="Go twitter Profile" href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
-                                        <a data-toggle="tooltip" data-placement="top" title="Go Google plus Profile" href="https://plus.google.com/"><i class="fa fa-google-plus"></i></a>
-                                        <a data-toggle="tooltip" data-placement="top" title="Go linkedin Profile" href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </div><!-- end -->
+                        
                         <div class="clearfix"></div>
-                        <div class="review">
-                            <h4>Course Reviews</h4>
-                            <div class="comments">
-                                <div class="comments-img">
-                                    <img src="http://placehold.it/82x82" alt="">
-                                </div>
-                                <div class="comments-content">
-                                    <div class="comments-title">
-                                        <h6>Ahmed Diaa</h6>
-                                        <span>2 weeks ago</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa fa-star-half-o"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </div>
-                                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aene <br>
-                                    an sollicitudin, lorem quis bibendum</p>
-                                </div>
-                            </div>
-                            <div class="comments">
-                                <div class="comments-img">
-                                    <img src="http://placehold.it/82x82" alt="">
-                                </div>
-                                <div class="comments-content">
-                                    <div class="comments-title">
-                                        <h6>Ahmed Diaa</h6>
-                                        <span>2 weeks ago</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa fa-star-half-o"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </div>
-                                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aene <br>
-                                    an sollicitudin, lorem quis bibendum</p>
-                                </div>
-                            </div>
-                            <div class="comments">
-                                <div class="comments-img">
-                                    <img src="http://placehold.it/82x82" alt="">
-                                </div>
-                                <div class="comments-content">
-                                    <div class="comments-title">
-                                        <h6>Ahmed Diaa</h6>
-                                        <span>2 weeks ago</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa fa-star-half-o"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </div>
-                                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aene <br>
-                                    an sollicitudin, lorem quis bibendum</p>
-                                </div>
-                            </div>
-                        </div>
         
                         <div class="review-form">
                             <div class="review-form-title">
-                                <h4>Write a review</h4>
+                                <h4>Contact</h4>
                             </div>
-                            <p>Your Rating</p>
-                            <div class="select-rating">
-                                <i class="fa fa fa-star-o"></i>
-                                <i class="fa fa fa-star-o"></i>
-                                <i class="fa fa fa-star-o"></i>
-                                <i class="fa fa fa-star-o"></i>
-                                <i class="fa fa fa-star-o"></i>
-                            </div>
-                            <form class="rex-forms">
+                    
+                            <form id="contact-programme" class="rex-forms" action="?" method="POST">
+                                <input type="hidden" name="_subject" value="Contact - Cours 4" />
+                                <input type="hidden" name="_format" value="plain" />
+                                <input type="hidden" name="_language" value="fr" />
+                                <input type="text" name="_gotcha" style="display:none" />
                                 <div class="form-group col-md-6">
-                                    <input type="text" class="form-control"  placeholder="Your Name">
+                                    <input type="text" class="form-control" name="nom"  placeholder="Votre Nom" required>
+                                    <p class="error text-error" style="display: none;">Veuillez entrer votre nom.</p>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="email" class="form-control" placeholder="Your Email">
+                                    <input type="email" class="form-control" name="email" placeholder="Votre Courriel" required>
+                                    <p class="error text-error" style="display: none;">Veuillez entrer votre addresse courriel.</p>
                                 </div>
                                 <div class="form-group col-md-12">
-                                    <textarea class="form-control" placeholder="Your Review" rows="3"></textarea>
+                                    <textarea class="form-control" name="message" placeholder="Votre Message" rows="3" required></textarea>
+                                    <p class="error text-error" style="display: none;">Veuillez entrer votre message.</p>
                                 </div>
-                                <button class="rex-bottom-medium rex-btn-icon">
-                                    <span class="rex-btn-text">post review</span>
+                                <button class="rex-bottom-medium rex-btn-icon" type="submit">
+                                    <span class="rex-btn-text">Contactez nous</span>
                                     <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
                                 </button>
+
+                                <p class="status__failure text-error" style="display: none;">Une erreur s'est produite. Veuillez réessayer.</p>
+                                <p class="status__success text-success" style="display: none;">Votre demande de d'inscription a été envoyée.</p>
                             </form>
                         </div>
                     </div>

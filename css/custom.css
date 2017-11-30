@@ -17,3 +17,8 @@ ul.main-ul {
   white-space: nowrap;
   display: block;
   overflow: hidden; }
+
+#contact-programme .status__success,
+#contact-programme .status__failure {
+  padding-top: 20px;
+  display: block; }
