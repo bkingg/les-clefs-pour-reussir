@@ -1,0 +1,26 @@
+---
+pages:
+- _programmes/test 4.md
+- _programmes/test.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: datetime
+  default: Invalid date
+  label: date
+  name: date
+  hidden: true
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
