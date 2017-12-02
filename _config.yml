@@ -28,6 +28,9 @@ collections:
   programmes:
     output: true
     permalink: /:collection/:title
+  slides:
+    output: true
+    permalink: /:collection/:title
 
 
 # Build settings
