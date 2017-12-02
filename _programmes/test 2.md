@@ -12,11 +12,11 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### La méthodologie du cours
 
-1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours avec le tuteur. De ce fait, l'élève sera en avance sur sa classe et pourra suivre le cours avec plus d'assurance et reprendre confiance en lui.
-2. Apprendre les méthodes clés de résolution d’exercices types avec le tuteur
-3. Consolider ses connaissances grâce aux corpus d'exercices utilisés par le tuteur.
-4. Une préparation méthodique des examens qui consiste à: apprendre à gérer son temps, à diminuer son stress et à savoir comment aborder un examen.
-5. Un examen récapitulatif de fin de chapitre en condition réelle ainsi qu'une  banque d’examens d’anciens élèves.
+1. Utilisation de fiche méthode du cours par l'enseignant : résumé de chaque chapitre en points clés dès le premier cours avec le tuteur. De ce fait, l'élève sera en avance sur sa classe et pourra suivre le cours avec plus d'assurance et reprendre confiance en lui.
+2. Apprentissage des méthodes clés de résolution d’exercices types avec l'enseignant
+3. Consolider les connaissances de l'élève grâce aux corpus d'exercices utilisés par l'enseignant.. Ces exercices ont été minutieusement sélectionnés pour couvrir tous les aspects du cours    
+4. Une préparation méthodique des examens qui consiste à: apprendre à gérer son temps, à diminuer son stress et à savoir comment aborder un examen.De plus, des examens d’anciens élèves sont utilisés comme référence ainsi que des copies d’anciens élèves pour souligner les erreurs les plus communes à éviter. 
+5. Un examen récapitulatif de fin de chapitre en condition réelle.
 
 ##### Exemple de fiche méthode : [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
