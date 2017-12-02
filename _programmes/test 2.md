@@ -8,7 +8,7 @@ image: "/uploads/thumb_IMG_3187_1024.jpg"
 
 Les clefs du succès offre un service de tutorat de haute qualité spécialisé pour les lycées français de Montréal (**Stanislas et le Collège international Marie de France**).  
 Les professeurs des clefs du succès sont entièrement  au service de l’élève et ont pour mission de faire ressortir le plein potentiel de ce dernier.  
-Les cours enseignés sont organisés par élèves de même niveaux afin de faciliter l'apprentissage des élèves (de la primaire à la terminale S,ES,L)
+Les cours enseignés sont organisés par élèves de même niveaux afin de faciliter l'apprentissage des élèves (de la primaire à la terminale S,ES,L).
 
 ### La méthodologie
 
@@ -26,9 +26,13 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### Niveaux des classes
 
-* Les classes sont organisées par niveaux allant de la 6e à la terminale **(S, ES/L).**
-* Les cours de français sont offerts pour les élèves dès la primaire.
+* Les classes sont organisées par niveaux allant de la **6e à la terminale.**
+* Les cours de français sont offerts pour les élèves de la **primaire à la terminale.**
 
 ### Durée d'un cours
 
-* Variable en fonction de la classe: de 1h à 2h
+* Variable en fonction de la classe: de 1h à 2h.
+
+### Années d'expériences
+
+* Plus de **13 années d'expériences.**
