@@ -1,0 +1,25 @@
+---
+pages:
+- _slides/slide-1.md
+- _slides/slide-2.md
+hide_body: true
+fields:
+- type: file
+  name: image
+  label: image
+  description: Image arrière plan
+- type: text
+  name: titre
+  label: titre
+- type: text
+  name: sous-titre
+  label: sous-titre
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: texte-boutton
+  label: texte-boutton
+- type: text
+  name: lien-boutton
+  label: lien-boutton
