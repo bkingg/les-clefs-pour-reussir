@@ -127,15 +127,6 @@
           </div>
           <div class="addres">
             <div class="addres-icon">
-              <i class="fa fa-envelope"></i>
-            </div>
-            <div class="addres-content">
-              <a href="mailto:email@rextheme.com">cle7dor23@hotmail.com</a><br>
-              <!-- <a href="mailto:info@yourdomain.com">info@lesclefsdusucces.com</a> -->
-            </div>
-          </div>
-          <div class="addres">
-            <div class="addres-icon">
               <i class="fa fa-home"></i>
             </div>
             <div class="addres-content">
@@ -159,15 +150,44 @@
               <input type="hidden" name="_language" value="fr" />
               <input type="text" name="_gotcha" style="display:none" />
               <div class="form-group col-md-6">
-                  <input type="text" class="form-control" name="nom"  placeholder="Votre Nom" required>
+                  <input type="text" class="form-control" name="nom"  placeholder="Votre Nom*" required>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre nom.</p>
               </div>
               <div class="form-group col-md-6">
-                  <input type="email" class="form-control" name="email" placeholder="Votre Courriel" required>
+                  <input type="email" class="form-control" name="email" placeholder="Votre Courriel*" required>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre addresse courriel.</p>
               </div>
+              <div class="form-group col-md-6">
+                  <input type="text" class="form-control" name="reference" placeholder="Votre Référence" required>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre référence.</p>
+              </div>
+              <div class="form-group col-md-6">
+                  <select name="programme" class="form-control">
+                    <option value="" selected>-- Sélectionner le programme --</option>
+                    
+                      <option value="Cours hebdomadaires">Cours hebdomadaires</option>
+                    
+                      <option value="Programme de Remise à niveau ">Programme de Remise à niveau </option>
+                    
+                      <option value="Tremplin Lycée - Cégep">Tremplin Lycée - Cégep</option>
+                    
+                      <option value="Objectif mention bac">Objectif mention bac</option>
+                    
+                      <option value="Objectif  Côte R d’excellence ">Objectif  Côte R d’excellence </option>
+                    
+                      <option value="Objectif mention brevet">Objectif mention brevet</option>
+                    
+                      <option value="Orientation - perspectives d'avenir  ">Orientation - perspectives d'avenir  </option>
+                    
+                      <option value="Programme prendre de l'avance">Programme prendre de l'avance</option>
+                    
+                      <option value="session intensive pendant les vacances">session intensive pendant les vacances</option>
+                    
+                  </select>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre programme.</p>
+              </div>
               <div class="form-group col-md-12">
-                  <textarea class="form-control" name="message" placeholder="Votre Message" rows="3" required></textarea>
+                  <textarea class="form-control" name="message" placeholder="Votre Message*" rows="3" required></textarea>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre message.</p>
               </div>
               <button class="rex-bottom-medium rex-btn-icon" type="submit">

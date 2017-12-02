@@ -2754,7 +2754,7 @@ a#grid:focus {
 .rex-forms .col-md-12 {
   padding: 0; }
 
-.rex-forms input, .rex-forms textarea {
+.rex-forms input, .rex-forms textarea, .rex-forms select {
   border-radius: 0;
   resize: none;
   border: 0;
@@ -2763,7 +2763,7 @@ a#grid:focus {
   box-shadow: none;
   padding: 20px; }
 
-.rex-forms input:focus, .rex-forms textarea:focus {
+.rex-forms input:focus, .rex-forms textarea:focus, .rex-forms select:focus {
   box-shadow: none; }
 
 .usefull-link {
@@ -4161,7 +4161,7 @@ div.loading .wrapper {
   aside.widget ul li {
     padding: 15px 18px 15px 35px; }
 
-  input {
+  input, select {
     height: 60px !important; }
 
   textarea {

@@ -28,3 +28,17 @@ ul.main-ul {
 .footer-logo {
   height: 50px;
   width: auto; }
+
+#products .courses-img {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  #products .courses-img img {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden; }
+  #products .courses-img:before {
+    background: transparent; }
+#products .content {
+  padding: 20px 10px; }
