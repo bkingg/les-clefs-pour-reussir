@@ -1,4 +1,6 @@
 ---
+pages:
+- _slides/slide-2.md
 hide_body: true
 fields:
 - type: file
