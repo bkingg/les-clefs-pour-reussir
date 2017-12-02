@@ -12,7 +12,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: programme
 - name: title
   label: Title
   type: text
