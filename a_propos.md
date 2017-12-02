@@ -1,5 +1,3 @@
 ---
 layout: a_propos
 ---
-
-<h1>test</h1>
