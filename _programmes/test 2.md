@@ -7,6 +7,8 @@ image: "/uploads/thumb_IMG_3187_1024.jpg"
 ### Objectifs
 
 * Comprendre et réviser les notions vues en classe régulièrement.
+
+
 * S’entraîner via des exercices de difficulté croissante.
 * Acquérir une méthodologie de travail.
 
