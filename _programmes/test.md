@@ -1,6 +1,6 @@
 ---
 layout: programme
-title: objectif mention bac
+title: Objectif mention bac
 date: 2017-07-29 00:00:00 +0000
 image: "/uploads/5.jpg"
 ---
