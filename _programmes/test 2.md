@@ -17,7 +17,7 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 4. Préparation méthodique des examens: apprendre à gérer son temps,  apprendre à diminuer son stress, apprendre comment aborder un examen.
 5. Examens récapitulatif  en condition réelle et banques d’examens d’anciens élèves.
 
-### Exemple de fiche méthode du cours
+### Exemple de fiche méthode du cours de terminale S
 
 [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
