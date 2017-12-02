@@ -29,13 +29,9 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 * Les classes sont organisées par niveaux allant de la **6e à la terminale.**
 * Les cours de français sont offerts pour les élèves de la **primaire à la terminale.**
 
-### Durée d'un cours
+### Durée du cours
 
-* Variable en fonction de la classe: de 1h à 2h.
-
-### Années d'expériences
-
-* Plus de **13 années d'expériences.**
+* 4 cours de 1 à 2h par mois en fonction du niveau de l'élève.
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
