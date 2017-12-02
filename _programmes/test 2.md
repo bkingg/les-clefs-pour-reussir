@@ -38,3 +38,5 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 * Plus de **13 années d'expériences.**
 
 ### **Les inscriptions sont possibles tout au long de l’année**
+
+Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous contacter dans les plus brefs délais.
