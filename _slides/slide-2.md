@@ -1,7 +1,9 @@
 ---
 titre: Collège/Lycée français 2
 sous-titre: Soutien scolaire de Mathématiques 2
-description: "Apprendre les méthodes clés\nCorpus de 50 exercices par chapitre "
+description: |-
+  Apprendre les méthodes clés
+  Corpus de 50 exercices par chapitre
 alignement: 
 image: "/uploads/slide-2.jpg"
 texte_boutton: Découvrez les clefs du succès
