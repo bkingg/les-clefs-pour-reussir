@@ -9,7 +9,7 @@ Les clefs du succès offre un service de tutorat de haute qualité spécialisé 
 Les professeurs des clefs du succès sont entièrement  au service de l’élève et ont pour mission de faire ressortir le plein potentiel de ce dernier.  
 Les cours enseignés sont organisés par élèves de même niveaux afin de faciliter l'apprentissage des élèves (de la primaire à la terminale S,ES,L)
 
-### La Méthodologie
+### La méthodologie
 
 1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours pour être en avance sur sa classe.
 2. Apprendre les méthodes clés de résolution d’exercices types.
@@ -26,6 +26,6 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 * Les classes sont organisées par niveaux allant de la 6e à la terminale **(S, ES/L).**
 * Les cours de français sont offerts pour les élèves dès la primaire.
 
-### Durée du cours
+### Durée d'un cours
 
 * Variable en fonction de la classe: de 1h à 2h
