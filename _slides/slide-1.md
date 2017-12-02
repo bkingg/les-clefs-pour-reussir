@@ -9,6 +9,4 @@ image: "/uploads/slide-1.jpg"
 texte-boutton: Découvrez les clefs du succès
 lien-boutton: "/index.html"
 date: 2017-12-02 00:26:32 +0000
-texte-boutton: ''
-lien-boutton: ''
 ---
