@@ -31,6 +31,9 @@ collections:
   slides:
     output: true
     permalink: /:collection/:title
+  temoignages:
+    output: true
+    permalink: /:collection/:title
 
 
 # Build settings

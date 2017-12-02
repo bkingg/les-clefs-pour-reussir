@@ -13,4 +13,66 @@ $color-brand: #337ab7;
 @import 'vendor/font-awesome.min';
 @import 'vendor/bootstrap';
 @import 'main';
-@import 'custom';
+
+
+// Custom Styles
+ul.main-ul{
+    float: right;
+    > li > a{
+        font-weight: bold;
+    }
+}
+
+.logo{
+    padding: 0;
+    img{
+        height: 80px;
+        width: auto;
+    }
+}
+
+.main-menu ul.main-ul{
+    padding-left: 0;
+}
+
+.courses_page .block-content h6{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+}
+
+#contact-programme,
+#contact{
+    .status__success,
+    .status__failure{
+        padding-top: 20px;
+        display: block;
+    }
+}
+
+.footer-logo{
+    height: 50px;
+    width: auto;
+}
+
+#products{
+    .courses-img{
+        display: block;
+        height: 200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        img{
+            position: absolute;
+            opacity: 0;
+            visibility: hidden;
+        }
+        &:before{
+            background: transparent;
+        }
+    }
+    .content{
+        padding: 20px 10px;
+    }
+}
