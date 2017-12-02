@@ -33,7 +33,7 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
 
-* 4 cours de 1 à 2h par mois en fonction de la classe l'élève.
+* Généralement l'élève suivra 4 cours de 1 à 2h par mois en fonction de la classe l'élève. À celle-ci peuvent s'ajouter des classes de remise à niveau  en fonction des besoins de l'élève
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
