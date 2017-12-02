@@ -19,7 +19,7 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### Exemple de fiche méthode du cours
 
-[snipet-Fonctions.pdf](/uploads/snipet-Fonctions.pdf "snipet-Fonctions.pdf")
+[TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
 ### Matières enseignées
 
