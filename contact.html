@@ -52,15 +52,6 @@ layout: default
           </div>
           <div class="addres">
             <div class="addres-icon">
-              <i class="fa fa-envelope"></i>
-            </div>
-            <div class="addres-content">
-              <a href="mailto:email@rextheme.com">cle7dor23@hotmail.com</a><br>
-              <!-- <a href="mailto:info@yourdomain.com">info@lesclefsdusucces.com</a> -->
-            </div>
-          </div>
-          <div class="addres">
-            <div class="addres-icon">
               <i class="fa fa-home"></i>
             </div>
             <div class="addres-content">
@@ -84,15 +75,28 @@ layout: default
               <input type="hidden" name="_language" value="fr" />
               <input type="text" name="_gotcha" style="display:none" />
               <div class="form-group col-md-6">
-                  <input type="text" class="form-control" name="nom"  placeholder="Votre Nom" required>
+                  <input type="text" class="form-control" name="nom"  placeholder="Votre Nom*" required>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre nom.</p>
               </div>
               <div class="form-group col-md-6">
-                  <input type="email" class="form-control" name="email" placeholder="Votre Courriel" required>
+                  <input type="email" class="form-control" name="email" placeholder="Votre Courriel*" required>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre addresse courriel.</p>
               </div>
+              <div class="form-group col-md-6">
+                  <input type="text" class="form-control" name="reference" placeholder="Votre Référence" required>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre référence.</p>
+              </div>
+              <div class="form-group col-md-6">
+                  <select name="programme" class="form-control">
+                    <option value="" selected>-- Sélectionner le programme --</option>
+                    {% for programme in site.programmes %}
+                      <option value="{{ programme.title }}">{{ programme.title }}</option>
+                    {% endfor %}
+                  </select>
+                  <p class="error text-error" style="display: none;">Veuillez entrer votre programme.</p>
+              </div>
               <div class="form-group col-md-12">
-                  <textarea class="form-control" name="message" placeholder="Votre Message" rows="3" required></textarea>
+                  <textarea class="form-control" name="message" placeholder="Votre Message*" rows="3" required></textarea>
                   <p class="error text-error" style="display: none;">Veuillez entrer votre message.</p>
               </div>
               <button class="rex-bottom-medium rex-btn-icon" type="submit">

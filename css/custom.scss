@@ -41,3 +41,23 @@ ul.main-ul{
     height: 50px;
     width: auto;
 }
+
+#products{
+    .courses-img{
+        height: 200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        img{
+            position: absolute;
+            opacity: 0;
+            visibility: hidden;
+        }
+        &:before{
+            background: transparent;
+        }
+    }
+    .content{
+        padding: 20px 10px;
+    }
+}

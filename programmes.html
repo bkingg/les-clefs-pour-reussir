@@ -29,7 +29,7 @@ layout: default
 				<div class="item  col-sm-12 col-md-6 col-lg-4">
 					<div class="block-content">
 						
-						<div class="courses-img">
+						<div class="courses-img" style="background-image: url({% if programme.image %}{{ programme.image }}{% else %}/uploads/programme.png{% endif %});">
 							<img src="{% if programme.image %}{{ programme.image }}{% else %}/uploads/programme.png{% endif %}" alt="{{ programme.title | escape }}">
 						</div>
 						
