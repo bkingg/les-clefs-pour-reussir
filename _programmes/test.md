@@ -1,8 +1,8 @@
 ---
 layout: programme
-title: Cours 1
+title: Objectif mention bac
 date: 2017-07-29 00:00:00 +0000
-image: "/uploads/programme.jpg"
+image: "/uploads/5.jpg"
 ---
 ### A Web Of Words[![Link](https://www.smashingmagazine.com/images/link.svg)](https://www.smashingmagazine.com/2011/11/the-perfect-paragraph/#a-web-of-words)
 
