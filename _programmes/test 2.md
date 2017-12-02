@@ -10,13 +10,13 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### La méthodologie
 
-1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours pour être en avance sur sa classe.
+1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours pour être en avance sur sa classe:
+
+   #####  Exemple de fiche méthode : [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 2. Apprendre les méthodes clés de résolution d’exercices types.
 3. Consolidation des connaissance: Utilisation du corpus d' exercices.
 4. Préparation méthodique des examens: apprendre à gérer son temps,  apprendre à diminuer son stress, apprendre comment aborder un examen.
 5. Examens récapitulatif  en condition réelle et banques d’examens d’anciens élèves.
-
-###### Exemple de fiche méthode : [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
 ### Matières enseignées
 
