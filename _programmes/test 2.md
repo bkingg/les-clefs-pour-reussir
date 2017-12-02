@@ -31,8 +31,10 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### Durée du cours
 
+Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
+
 * 4 cours de 1 à 2h par mois en fonction du niveau de l'élève.
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous contacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
