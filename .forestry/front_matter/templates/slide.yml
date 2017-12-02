@@ -1,0 +1,7 @@
+---
+hide_body: true
+fields:
+- type: file
+  name: image
+  label: image
+  description: Image arrière plan
