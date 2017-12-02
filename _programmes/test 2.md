@@ -18,7 +18,7 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 ### Exemple de fiche méthode du cours de terminale S
 
-[TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
+# [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
 ### Matières enseignées
 
