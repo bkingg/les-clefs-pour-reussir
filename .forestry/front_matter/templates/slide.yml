@@ -1,5 +1,6 @@
 ---
 pages:
+- _slides/slide-1.md
 - _slides/slide-2.md
 hide_body: true
 fields:
