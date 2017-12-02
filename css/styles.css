@@ -17682,12 +17682,6 @@ ul.main-ul {
 .main-menu ul.main-ul {
   padding-left: 0; }
 
-.courses_page .block-content h6 {
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  display: block;
-  overflow: hidden; }
-
 #contact-programme .status__success,
 #contact-programme .status__failure,
 #contact .status__success,
@@ -17699,17 +17693,27 @@ ul.main-ul {
   height: 50px;
   width: auto; }
 
-#products .courses-img {
+#products .courses-img,
+#popular_courses .courses-img {
   display: block;
   height: 200px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
-  #products .courses-img img {
+  #products .courses-img img,
+  #popular_courses .courses-img img {
     position: absolute;
     opacity: 0;
     visibility: hidden; }
-  #products .courses-img:before {
+  #products .courses-img:before,
+  #popular_courses .courses-img:before {
     background: transparent; }
-#products .content {
+#products .content,
+#popular_courses .content {
   padding: 20px 10px; }
+  #products .content .block-content h6,
+  #popular_courses .content .block-content h6 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden; }
