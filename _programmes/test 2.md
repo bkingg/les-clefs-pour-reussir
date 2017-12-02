@@ -10,13 +10,13 @@ Les clefs du succès offre un service de tutorat de haute qualité spécialisé 
 Les professeurs des clefs du succès sont entièrement  au service de l’élève et ont pour mission de faire ressortir le plein potentiel de ce dernier.  
 Les cours enseignés sont organisés par élèves de même niveaux afin de faciliter l'apprentissage des élèves (de la primaire à la terminale S,ES,L).
 
-### La méthodologie
+### La méthodologie du cours
 
-1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours pour être en avance sur sa classe.
-2. Apprendre les méthodes clés de résolution d’exercices types.
-3. Consolidation des connaissance: Utilisation du corpus d' exercices.
-4. Préparation méthodique des examens: apprendre à gérer son temps,  apprendre à diminuer son stress, apprendre comment aborder un examen.
-5. Examens récapitulatif  en condition réelle et banques d’examens d’anciens élèves.
+1. Fiche méthode du cours : résumé de chaque chapitre en points clés dès le premier cours avec le tuteur. De ce fait, l'élève sera en avance sur sa classe et pourra suivre le cours avec plus d'assurance et reprendre confiance en lui.
+2. Apprendre les méthodes clés de résolution d’exercices types avec le tuteur
+3. Consolider ses connaissances grâce aux corpus d'exercices utilisés par le tuteur.
+4. Une préparation méthodique des examens qui consiste à: apprendre à gérer son temps, à diminuer son stress et à savoir comment aborder un examen.
+5. Un examen récapitulatif de fin de chapitre en condition réelle ainsi qu'une  banque d’examens d’anciens élèves.
 
 ##### Exemple de fiche méthode : [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
 
@@ -33,7 +33,7 @@ Les cours enseignés sont organisés par élèves de même niveaux afin de facil
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
 
-* 4 cours de 1 à 2h par mois en fonction du niveau de l'élève.
+* 4 cours de 1 à 2h par mois en fonction de la classe l'élève.
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
