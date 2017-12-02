@@ -35,8 +35,7 @@ layout: default
 						
 						<div class="content">
 							<a href="{{ programme.url }}"><h6>{{ programme.title }}</h6></a>
-							<p class="description">This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lore 
-							quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+							<p class="description">{{ programme.content | strip_html | truncatewords: 20, '...' }}</p>
 						</div>
 					</div>
 				</div>
