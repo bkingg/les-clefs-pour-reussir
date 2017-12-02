@@ -1,6 +1,6 @@
 ---
 layout: programme
-title: Cours 2 tressss lonnnnnnnng titre exemple test
+title: Cours hebdomadaires
 date: 2017-07-29 00:00:00 +0000
-image: "/uploads/programme.jpg"
+image: "/uploads/thumb_IMG_3187_1024.jpg"
 ---
