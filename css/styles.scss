@@ -2,7 +2,10 @@
 ---
 @charset "UTF-8";
 
-$color-brand: #337ab7;
+$color-brand: #fbae39;
+$color-brand-light: #FFC400;
+$color-orange: #FB7D39;
+$white: #FFFFFF;
 
 @import 'vendor/ionicons.min';
 @import 'vendor/animate.min';
@@ -74,5 +77,24 @@ ul.main-ul{
             display: block;
             overflow: hidden;
         }
+    }
+}
+
+footer{
+    background: $color-orange;
+    h3{
+        font-weight: bold;
+    }
+    a{
+        text-decoration: underline;
+    }
+    li{
+        list-style-type: none;
+    }
+    p, a, ul, li{
+        color: $white !important;
+    }
+    .copyright{
+        border-top: 1px solid $white;
     }
 }

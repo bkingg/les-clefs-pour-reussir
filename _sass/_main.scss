@@ -878,7 +878,7 @@ aside.widget.widget_archive {
 .popular_courses .block-content:hover {
   -webkit-transform: translateY(0);
           transform: translateY(0);
-  border-color: #01B3EE; }
+  border-color: $color-brand; }
   .popular_courses .block-content:hover .courses-overlay {
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
@@ -1381,7 +1381,7 @@ aside.widget.widget_archive {
 .courses_page .block-content:hover {
   -webkit-transform: translateY(0);
           transform: translateY(0);
-  border-color: #01B3EE;
+  border-color: $color-brand;
   box-shadow: none; }
   .courses_page .block-content:hover .courses-overlay {
     opacity: 1;
@@ -2364,7 +2364,7 @@ a#grid:focus {
       height: 0;
       border-style: solid;
       border-width: 6px 6px 0 6px;
-      border-color: #01B3EE transparent transparent transparent;
+      border-color: $color-brand transparent transparent transparent;
       z-index: 10;
       -webkit-transform: translateX(-50%);
               transform: translateX(-50%); }
@@ -2485,7 +2485,7 @@ a#grid:focus {
         width: 8px;
         height: 8px;
         border-radius: 100%;
-        background: #515f67;
+        background: $white;
         -webkit-transform: translate(0%, -50%);
                 transform: translate(0%, -50%); }
 
@@ -2736,7 +2736,7 @@ a#grid:focus {
   content: ""; }
 
 .cssload-loader:before {
-  border: 1px solid #0db3eb;
+  border: 1px solid $color-brand;
   top: -1px;
   left: -1px;
   opacity: 0;
@@ -2747,7 +2747,7 @@ a#grid:focus {
   -moz-animation-name: cssload-pulse; }
 
 .cssload-loader:after {
-  background-color: rgba(13, 179, 235, 0.66);
+  background-color: $color-orange;
   animation-name: cssload-pulse-2;
   -o-animation-name: cssload-pulse-2;
   -ms-animation-name: cssload-pulse-2;
@@ -2857,7 +2857,7 @@ div.loading .wrapper {
     border-radius: 0 3px 3px 0;
     position: relative;
     overflow: hidden;
-    border-left: 1px solid #1bc1f5; }
+    border-left: 1px solid $color-brand-light; }
     .rex-bottom-small .rex-btn-text-icon:before, .rex-bottom-medium .rex-btn-text-icon:before, .rex-bottom-large .rex-btn-text-icon:before, .rex-bottom-x-large.rex-btn-icon .rex-btn-text-icon:before {
       display: inline-block;
       width: 100%;
