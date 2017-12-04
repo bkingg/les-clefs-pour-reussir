@@ -15,6 +15,10 @@ Existant depuis plus de 13 années, Les clefs du succès possèdent un réseau d
 * Réaliser un plan de carrière.
 * Développer les forces de l'élève.
 
+### La durée du cours
+
+Des rencontres hebdomadaires de 1h seront organisés entre l'enseignant et l'élève et/ou ses parents. Entre chaque séance, des objectifs à atteindre seront identifiés et des pistes de recherche seront déterminées en concertation avec l'élève et/ou ses parents. Par la suite, l'enseignant sera en mesure d'aider l'élève à trouver le programme qui convient le plus à ses ambitions.
+
 ### **Les inscriptions sont possibles tout au long de l’année**
 
 Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
