@@ -6,25 +6,27 @@ image: "/uploads/22.jpg"
 ---
 ### Nos programmes de remise à niveau pour les lycées ou collèges français
 
-Votre enfant a des lacunes qui le suivent et 
+Les lacunes sont les bêtes noires des étudiants. Difficile à combler, elles peuvent vous suivre durant tout votre cursus scolaire. Sans un programme adapté à vos besoins, il sera très difficile de vous en débarrasser. 
 
-Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs du succès se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
+Les programmes de remise à niveau chez Les clefs du succès utilisent le méthode de dynamique positive. Au sein d'un petit groupe de même niveau, l'étudiant reprendra confiance en lui en observant d'autres élèves ayant les mêmes difficultés que lui.  
+Après une analyse approfondie de vos besoins,  nous trouverons ensemble le programme qui vous fera progresser à votre rythme.
 
 ### Les objectifs
 
-* Combler ses lacunes.
-* Apprendre de nouvelles méthodologies.
-* Améliorer ses techniques d'apprentissage
-* Apprendre comment rédiger un contrôle.
 * Révision et approfondissement du cours ou trimestre.
+* Comprendre et apprendre les méthodes de réflexion. 
+* Combler ses lacunes au sein d'un petit groupe encadré par un professeur.
+* Apprendre comment rédiger un contrôle.
+* Améliorer ses techniques d'apprentissage.
 * Gagner en autonomie.
-* Comprendre et apprendre la méthode de réflexion. 
+* Apprendre à répondre aux questions classiques d'examens.
+* Reprendre  confiance en soi.
 
 ### Nos comptes-rendues
 
 * Bilan des progrès de l'étudiant.
-* Points à approfondir de l'étudiant.
-* Orientation en fonction des besoins de l'élève. 
+* Récapitulatif des points à approfondir.
+* Elaboration d'un plan d'action post-programme. 
 
 ### Les matières enseignées
 
