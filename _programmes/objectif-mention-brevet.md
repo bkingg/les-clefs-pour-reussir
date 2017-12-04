@@ -29,7 +29,7 @@ Suivi par une équipe de professeur de qualité, le contrôle de leur avancement
 ### Les détail du programme
 
 * Programme sur-mesure en fonction des besoins des étudiants
-* Nombre de cours de 2h par semaine à déterminer en fonction des objectifs de carrières des élèves (médecins, avocats, dentistes, chirurgiens, finance, actuaire, classes préparatoires françaises... )
+* Nombre de cours par semaine à déterminer en fonction des objectifs de carrières des élèves (médecins, avocats, dentistes, chirurgiens, finance, actuaire, classes préparatoires françaises... )
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
