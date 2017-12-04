@@ -6,14 +6,14 @@ image: "/uploads/22.jpg"
 ---
 ### Nos programmes de remise à niveau pour les lycées ou collèges français
 
-Les lacunes sont les bêtes noires des étudiants. Difficile à combler, elles peuvent vous suivre durant tout votre cursus scolaire. Sans un programme adapté à vos besoins, il sera très difficile de vous en débarrasser. 
+Les lacunes sont les bêtes noires des étudiants. Difficile à combler, elles peuvent vous suivre durant tout votre cursus scolaire. Sans un programme adapté à vos besoins, il sera très difficile de vous en débarrasser.
 
 Les programmes de remise à niveau chez Les clefs du succès utilisent le méthode de dynamique positive. Après une analyse approfondie de vos besoins, nous trouverons ensemble le programme qui vous fera progresser à votre rythme. Au sein d'un petit groupe de même niveau, l'étudiant apprendra non seulement à combler ses lacunes mais aussi à retrouver sa confiance en soi en observant d'autres élèves ayant les mêmes difficultés que lui.
 
 ### Les objectifs
 
 * Révision et approfondissement du trimestre/semestre.
-* Comprendre et apprendre les méthodes de réflexion. 
+* Comprendre et apprendre les méthodes de réflexion.
 * Combler ses lacunes au sein d'un petit groupe encadré par un professeur.
 * Apprendre comment rédiger un contrôle.
 * Améliorer ses techniques d'apprentissages.
@@ -25,7 +25,7 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 
 * Bilan des progrès de l'étudiant.
 * Récapitulatif des points à approfondir.
-* Elaboration d'un plan d'action post-programme. 
+* Elaboration d'un plan d'action post-programme.
 
 ### Les matières enseignées
 
@@ -35,7 +35,15 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 
 **Français.**
 
- **Complément québécois (Mathématiques, Physique-chimie).** 
+**Complément québécois (Mathématiques, Physique-chimie).**
+
+### Le détail des programmes 
+
+* 1 matière enseignée par programme.
+* Durée : variable en fonction des besoins de l'élève.
+* Classe de même niveau de la 6e à la terminale (S, ES/L).
+* Fiches de cours récapitulatives en points clés.
+* Test récapitulatif de fin de stage.
 
 ### Le niveaux des classes
 
