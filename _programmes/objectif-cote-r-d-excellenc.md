@@ -4,9 +4,9 @@ layout: programme
 date: 2017-12-03 00:00:00 +0000
 image: "/uploads/slide-3.jpg"
 ---
-### Objectif mention bac et cote R d'excellence en petit groupe de même niveaux
+### Objectif mention bac et cote R d'excellence en petit groupe de même niveaux (places limitées)
 
-Ce programme s'adresse uniquement aux élèves exigeants des classes de  2nd ,1er et terminale S et ES. Un entretien sera réalisé avant toute admission. 
+Ce programme s'adresse uniquement aux élèves exigeants des classes de  2nd ,1er et terminale S et ES. . Un entretien sur les motivations de l'élève sera réalisé avant toute admission.
 
 Au sein d'un groupe restreint de même niveau, ils pourront profiter d'un environnement sain propice pour assouvir leurs ambitions.
 
@@ -31,7 +31,7 @@ Suivi par une équipe de professeur de qualité,  le contrôle de leur avancemen
 
 * Les classes sont organisées par niveaux allant de la **2nd à la terminale {S, ES}.**
 
-### Les détail du programme
+### Les détails du programme
 
 * Programme sur-mesure en fonction des besoins des étudiants
 * Nombre de cours de 2h par semaine à déterminer en fonction des objectifs de carrières des élèves (médecins, avocats, dentistes, chirurgiens, finance, actuaire, classes préparatoires françaises... )
