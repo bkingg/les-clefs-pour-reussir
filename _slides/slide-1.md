@@ -1,9 +1,7 @@
 ---
-titre: Collège/Lycée français
-sous-titre: Soutien scolaire de Mathématiques
-description: |-
-  Apprendre les méthodes clés
-  Corpus de 50 exercices par chapitre
+titre: Lycée français de Montréal
+sous-titre: 'Soutien scolaire '
+description: "Stanislas et Marie de France \nCorpus de 50 exercices par chapitre"
 alignement: 
 image: "/uploads/slide-1.jpg"
 texte-boutton: Découvrez les clefs du succès
