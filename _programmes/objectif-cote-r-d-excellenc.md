@@ -6,30 +6,32 @@ image: "/uploads/slide-3.jpg"
 ---
 ### Objectif mention bac et cote R d'excellence en petit groupe de même niveaux
 
-Les clefs du succès offre un service de tutorat de haute qualité spécialisé pour les lycées français de Montréal (**Stanislas et le Collège international Marie de France**).  
-Les professeurs des clefs du succès sont entièrement au service de l’élève et ont pour mission de faire ressortir le plein potentiel de ce dernier.  
-Les cours enseignés sont organisés par élèves de même niveaux afin de faciliter l'apprentissage des élèves (de la primaire à la terminale S,ES,L).
+Ce programme s'adresse uniquement aux élèves exigeants des classes de 3e,  2nd ,1er et terminale S et ES. Un entretien sera réalisé avant toute admission. 
+
+Au sein d'un groupe restreint de même niveau, ils pourront profiter d'un environnement sain propice pour assouvir leurs ambitions.
+
+Suivi par une équipe de professeur de qualité,  le contrôle de leur avancement constituera leur priorité numéro 1.
 
 ### Les objectifs
 
 * Voir le programme en avance pour aborder l'année sereinement.
 * Permettre aux élèves d'obtenir la meilleure mention possible.
-* Permettre aux élèves d'être admis dans les meilleurs programmes des universités.
+* Permettre aux élèves d'être admis dans les meilleurs programmes universitaires.
 * Renforcer sa méthodologie pour gagner en rapidité et clarté.
 
 ### Les matières enseignées
 
 **Mathématiques.**
 
- **Physique-chimie.**
+**Physique-chimie.**
 
 **Complément québécois (Mathématiques, Physique-chimie).**
 
 ### Le niveaux des classes
 
-* Les classes sont organisées par niveaux allant de la **6e à la terminale {S, ES/L}.**
+* Les classes sont organisées par niveaux allant de la **3e à la terminale {S, ES}.**
 
-### Les détail du programme 
+### Les détail du programme
 
 * Programme sur-mesure en fonction des besoins des étudiants
 * Nombre de cours de 2h par semaine à déterminer en fonction des objectifs de carrières des élèves (médecins, avocats, dentistes, chirurgiens, finance, actuaire, classes préparatoires françaises... )
