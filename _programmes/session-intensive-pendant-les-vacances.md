@@ -6,7 +6,7 @@ image: "/uploads/IMG_3499.JPG"
 ---
 ### Nos sessions intensives pour les lycées ou collèges français
 
-Idéal pour la préparation du brevet ou du baccalauréat et pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs du succès se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
+Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs du succès se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
 
 ### Les objectifs
 
@@ -21,13 +21,13 @@ Idéal pour la préparation du brevet ou du baccalauréat et pour une révision 
 
 * 1 matière enseignées par stage.
 * Classe de même niveau de la 6e à la terminale (S, ES/L).
-* Pendant les vacances scolaires.
+* Partage d'expériences entre élèves. 
+* Test récapitulatif de fin de stage
 
 ### Les sessions intensives du brevet (12h)
 
 * 1 matière enseignées par stage.
 * Classe pour les élèves de 3e.
-* Pendant les vacances scolaires.
 * Brevet blanc récapitulatif de fin session
 * Partage d'expériences entre élèves 
 
@@ -35,7 +35,6 @@ Idéal pour la préparation du brevet ou du baccalauréat et pour une révision 
 
 * 1 matière enseignées par stage.
 * Classe de terminale S ou de terminale ES/L.
-* Pendant les vacances scolaires.
 * Baccalauréat blanc récapitulatif de fin session.
 * Partage d'expériences entre élèves. 
 
