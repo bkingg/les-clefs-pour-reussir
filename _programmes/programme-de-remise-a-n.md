@@ -8,15 +8,15 @@ image: "/uploads/22.jpg"
 
 Les lacunes sont les bêtes noires des étudiants. Difficile à combler, elles peuvent vous suivre durant tout votre cursus scolaire. Sans un programme adapté à vos besoins, il sera très difficile de vous en débarrasser. 
 
-Les programmes de remise à niveau chez Les clefs du succès utilisent le méthode de dynamique positive. Après une analyse approfondie de vos besoins, nous trouverons ensemble le programme qui vous fera progresser à votre rythme. Au sein d'un petit groupe de même niveau, l'étudiant apprendra à avoir confiance en lui en observant d'autres élèves ayant les mêmes difficultés que lui.
+Les programmes de remise à niveau chez Les clefs du succès utilisent le méthode de dynamique positive. Après une analyse approfondie de vos besoins, nous trouverons ensemble le programme qui vous fera progresser à votre rythme. Au sein d'un petit groupe de même niveau, l'étudiant apprendra non seulement à combler ses lacunes mais aussi à retrouver sa confiance en soi en observant d'autres élèves ayant les mêmes difficultés que lui.
 
 ### Les objectifs
 
-* Révision et approfondissement du cours ou trimestre.
+* Révision et approfondissement du trimestre/semestre.
 * Comprendre et apprendre les méthodes de réflexion. 
 * Combler ses lacunes au sein d'un petit groupe encadré par un professeur.
 * Apprendre comment rédiger un contrôle.
-* Améliorer ses techniques d'apprentissage.
+* Améliorer ses techniques d'apprentissages.
 * Gagner en autonomie.
 * Apprendre à répondre aux questions classiques d'examens.
 * Reprendre  confiance en soi.
