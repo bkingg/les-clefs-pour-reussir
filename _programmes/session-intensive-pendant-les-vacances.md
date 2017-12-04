@@ -19,24 +19,24 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 
 ### Stage de révisions pré-rentrée (10h)
 
-* 1 matière enseignées par stage.
+* 1 matière enseignée par stage.
 * Classe de même niveau de la 6e à la terminale (S, ES/L).
-* Partage d'expériences entre élèves. 
+* Partage d'expériences entre élèves.
 * Test récapitulatif de fin de stage
 
 ### Les sessions intensives du brevet (12h)
 
-* 1 matière enseignées par stage.
+* 1 matière enseignée par stage.
 * Classe pour les élèves de 3e.
 * Brevet blanc récapitulatif de fin session
-* Partage d'expériences entre élèves 
+* Partage d'expériences entre élèves
 
 ### Les sessions intensives du baccalauréat (15h)
 
-* 1 matière enseignées par stage.
+* 1 matière enseignée par stage.
 * Classe de terminale S ou de terminale ES/L.
 * Baccalauréat blanc récapitulatif de fin session.
-* Partage d'expériences entre élèves. 
+* Partage d'expériences entre élèves.
 
 ### Les matières enseignées
 
@@ -46,7 +46,7 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 
 **Français.**
 
- **Complément québécois (Mathématiques, Physique-chimie).** 
+**Complément québécois (Mathématiques, Physique-chimie).**
 
 ### Le niveaux des classes
 
