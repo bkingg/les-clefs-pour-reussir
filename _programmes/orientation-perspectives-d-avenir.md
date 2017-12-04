@@ -10,9 +10,8 @@ Existant depuis plus de 13 années, Les clefs du succès possèdent un réseau d
 
 ### Objectifs
 
-* Aider l'élève à trouver sa voie.
+* Orienter et aider l'élève à trouver sa voie.
 * Echange d'expériences entre étudiants.
-* Développement personnel.
 * Réaliser un plan de carrière.
 * Développer les forces de l'élève.
 
