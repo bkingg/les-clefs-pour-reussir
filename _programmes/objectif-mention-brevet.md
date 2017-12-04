@@ -8,9 +8,6 @@ image: "/uploads/IMG_3490.JPG"
 
 Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un entretien sur les motivations de l'élève sera réalisé avant toute admission.
 
-Au sein d'un groupe restreint de même niveau, ils pourront profiter d'un environnement sain propice pour assouvir leurs ambitions.  
-Suivi par une équipe de professeur de qualité, le contrôle de leur avancement constituera leur priorité numéro 1.
-
 ### Les objectifs
 
 * Voir le programme en avance pour aborder l'année sereinement.
@@ -26,10 +23,10 @@ Suivi par une équipe de professeur de qualité, le contrôle de leur avancement
 
 **Français**
 
-### Les détail du programme
+### Les détails du programme
 
 * Programme sur-mesure en fonction des besoins des étudiants
-* Nombre de cours par semaine à déterminer en fonction des objectifs de carrières des élèves (médecins, avocats, dentistes, chirurgiens, finance, actuaire, classes préparatoires françaises... )
+* Nombre de cours par semaine à déterminer en fonction des objectifs visés de l'élève.
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
