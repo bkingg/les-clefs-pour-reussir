@@ -17816,9 +17816,8 @@ footer {
     visibility: visible;
     opacity: 1; }
   .slideshow .slide {
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: inherit;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
     height: 500px; }
   .slideshow .slide__text {
     display: table;
