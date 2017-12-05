@@ -15,6 +15,7 @@ $white: #FFFFFF;
 @import 'vendor/owl.carousel';
 @import 'vendor/font-awesome.min';
 @import 'vendor/bootstrap';
+@import 'vendor/slick';
 @import 'main';
 
 
@@ -96,5 +97,52 @@ footer{
     }
     .copyright{
         border-top: 1px solid $white;
+    }
+    .footer-description {
+        padding-top: 0;
+    }
+}
+
+.About_Us{
+    .about-content{
+        padding: 4% 2%;
+    }
+}
+
+.slideshow{
+    visibility: hidden;
+    opacity: 0;
+    &.slick-initialized{
+        visibility: visible;
+        opacity: 1;
+    }
+    .slide{
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: inherit;
+        height: 500px;
+    }
+    .slide__text{
+        display: table;
+        height: 100%;
+        width: 100%;
+        .slide__text--wrapper{
+            display: table-cell;
+            vertical-align: middle;
+            .slide__title{
+                padding-left: 20%;
+                color: white;
+            }
+            .slide__description{
+                padding-left: 20%;
+                margin-bottom: 40px;
+                p{
+                    color: white;
+                }
+            }
+            .slide__button{
+                padding-left: 20%;
+            }
+        }
     }
 }

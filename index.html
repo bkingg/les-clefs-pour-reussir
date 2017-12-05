@@ -1,5 +1,6 @@
 ---
 layout: default
+handle: accueil
 ---
 {% include slider.html %}
 
@@ -55,10 +56,10 @@ layout: default
 <section class="About_Us">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12 col-lg-7">
+      <div class="col-md-12 col-lg-6">
         <img class="img-responsive" src="/uploads/about-us.jpg" alt="">
       </div>
-      <div class="col-md-12 col-lg-5 about-content">
+      <div class="col-md-12 col-lg-6 about-content">
         <h2>L’apprentissage chez les clefs du succès</h2>
 
         <br>
@@ -165,7 +166,14 @@ layout: default
             {% for temoignage in site.temoignages %}
               <div>
                 <div class="media">
-    
+                  <div class="media-left testimonials-img col-md-4">
+                  <a href="#">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image | default: 'http://placehold.it/96x96' }}" alt="{{ temoignage.auteur }}">
+                  </a>
+                  <h5>{{ temoignage.auteur | default: 'Auteur' }}</h5>
+                  <span>{{ temoignage.description | default: 'Description Auteur' }}</span>
+                  </div>
+
                   <div class="media-body  testimonials-body">
                   <p>{{ temoignage.content | markdownify }}</p>
                   <img class="quotation" src="/uploads/quotation.png" alt="">
