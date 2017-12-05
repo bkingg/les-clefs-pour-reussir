@@ -5,6 +5,6 @@ titre: Lycée français de Montréal
 image: "/uploads/slide-1.jpg"
 sous-titre: 'Soutien scolaire '
 description: 'Stanislas et Marie de France '
-texte-boutton: Découvrez les clefs du succès
+texte-boutton: En savoir plus
 lien-boutton: "/a_propos.html"
 ---
