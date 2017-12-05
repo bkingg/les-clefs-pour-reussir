@@ -234,9 +234,9 @@
   });
 
 
-  $('.rex-slider').DrSlider({
-    transitionSpeed: 1500,
-    showNavigation: false
+  $('.slideshow').slick({
+    // fade: true,
+    arrows: false
   }); //Yes! that's it!
 
   $('[data-toggle="tooltip"]').tooltip();
