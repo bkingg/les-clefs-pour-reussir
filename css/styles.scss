@@ -117,9 +117,8 @@ footer{
         opacity: 1;
     }
     .slide{
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: inherit;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
         height: 500px;
     }
     .slide__text{
