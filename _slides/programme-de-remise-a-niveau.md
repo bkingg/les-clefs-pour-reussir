@@ -2,10 +2,9 @@
 title: Programme de remise à niveau
 date: 2017-12-04 22:48:00 +0000
 image: "/uploads/programme.jpg"
-sous-titre: 'Préparation méthodique des examens '
-description: "Test en condition réelle d’examen et correction approfondie  \nApprendre
-  à gérer son temps "
+sous-titre: 'Techniques de gestion du stress '
+description: "Apprendre comment aborder un examen \nMaximiser ses résultats  "
 texte-boutton: 'En savoir plus '
-lien-boutton: "/programmes/cours"
-titre: ''
+lien-boutton: "/programmes/programme-de-remise-a-n"
+titre: Programme de remise a niveau
 ---
