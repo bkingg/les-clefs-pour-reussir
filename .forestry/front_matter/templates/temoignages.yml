@@ -2,4 +2,7 @@
 pages:
 - _temoignages/test-1.md
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: auteur
+  label: auteur
