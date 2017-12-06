@@ -7,7 +7,6 @@ pages:
 - _temoignages/rhita.md
 - _temoignages/moha.md
 - _temoignages/teta.md
-- _temoignages/test-1.md
 hide_body: false
 fields:
 - type: text
