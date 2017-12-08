@@ -4,7 +4,7 @@ layout: programme
 date: 2017-12-03 00:00:00 +0000
 image: "/uploads/about-us.jpg"
 ---
-### Nos cours particuliers en petit groupe de même niveaux
+### Nos cours particuliers en petit groupe de même niveau
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.  L'apprentissage en petit groupe d'élèves permet à chacun d'apprendre des erreurs des autres et de comprendre plus rapidement les concepts du programme français.
 
