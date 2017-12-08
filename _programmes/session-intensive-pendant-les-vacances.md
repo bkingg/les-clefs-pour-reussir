@@ -12,7 +12,7 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 
 * Réviser de manière efficace le programme .
 * Apprendre les méthodes de résolutions d'exercices types.
-* Préparer des examens.
+* Apprendre à préparer des examens.
 * Gagner en autonomie
 * Apprendre à mieux gérer son stress.
 * Apprendre à aborder des sujets d'examens.
