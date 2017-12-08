@@ -6,20 +6,24 @@ image: "/uploads/about-us.jpg"
 ---
 ### Nos cours particuliers en petit groupe de même niveau
 
-Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.  L'apprentissage en petit groupe d'élèves permet à chacun d'apprendre des erreurs des autres et de comprendre plus rapidement les concepts du programme français.
+Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
+
+Les cours particuliers chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer. 
 
 ### Les avantages 
 
-* Apprendre des erreurs des autres élèves
-* Avancer dans un groupe motivé
-* Apprendre à s'exprimer en public
-* Profiter de cours moins chers que des cours individuels
+* Apprendre des erreurs des autres élèves.
+* Avoir moins peur de poser plus de questions
+* Avancer dans un groupe motivé.
+* Apprendre à s'exprimer en public.
+* Partage de connaissances, d'opinions et d'expériences. 
+* Profiter de cours de tutorat moins chers que des cours individuels.
 
 ### La méthodologie
 
 1. Utilisation de fiches méthodes du cours par l'enseignant : résumé de chaque chapitre en points clés dès le premier cours avec le tuteur. De ce fait, l'élève sera en avance sur sa classe et pourra suivre le cours avec plus d'assurance et reprendre confiance en lui.
-2. Apprentissage des méthodes clés de résolution d’exercices types avec l'enseignant
-3. Consolider les connaissances de l'élève grâce aux corpus d'exercices utilisés par l'enseignant. Ces exercices ont été minutieusement sélectionnés pour couvrir tous les aspects du cours
+2. Apprentissage des méthodes clés de résolution d’exercices types avec l'enseignant.
+3. Consolider les connaissances de l'élève grâce aux corpus d'exercices utilisés par l'enseignant. Ces exercices ont été minutieusement sélectionnés pour couvrir tous les aspects du cours.
 4. Une préparation méthodique des examens qui consiste à: apprendre à gérer son temps, à diminuer son stress et à savoir comment aborder un examen. De plus, des examens d’anciens élèves sont utilisés comme référence ainsi que des copies d’anciens élèves pour souligner les erreurs les plus communes à éviter.
 5. Un examen récapitulatif de fin de chapitre en condition réelle.
 
