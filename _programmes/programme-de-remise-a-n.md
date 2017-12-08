@@ -45,7 +45,7 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 * Fiches de cours récapitulatives en points clés.
 * Test récapitulatif de fin de stage.
 
-### Le niveaux des classes
+### Le niveau des classes
 
 * Les classes sont organisées par niveau allant de la **6e à la terminale (S, ES/L).**
 
