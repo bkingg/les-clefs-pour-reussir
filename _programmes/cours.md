@@ -13,7 +13,7 @@ Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: cré
 ### Les avantages 
 
 * Apprendre des erreurs des autres élèves.
-* Avoir moins peur de poser plus de questions
+* Avoir moins peur de poser plus de questions.
 * Avancer dans un groupe motivé.
 * Apprendre à s'exprimer en public.
 * Partage de connaissances, d'opinions et d'expériences. 
