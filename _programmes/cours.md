@@ -2,7 +2,7 @@
 title: Cours hebdomadaires
 layout: programme
 date: 2017-12-03 00:00:00 +0000
-image: "/uploads/about-us.jpg"
+image: "/uploads/IMG_3235.jpg"
 ---
 ### Nos cours hebdomadaires en petit groupe de même niveau
 
