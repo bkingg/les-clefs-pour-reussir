@@ -37,7 +37,7 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 
 **Complément québécois (Mathématiques, Physique-chimie).**
 
-### Le détail des programmes 
+### Le détail des programmes
 
 * 1 matière enseignée par programme.
 * Durée : variable en fonction des besoins de l'élève.
@@ -51,4 +51,4 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessous et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
