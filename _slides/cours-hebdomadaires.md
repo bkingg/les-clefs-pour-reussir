@@ -7,6 +7,6 @@ description: |-
   Corpus de 50 exercices par chapitre
 lien-boutton: "/programmes.html"
 texte-boutton: Découvrez nos programmes
-sous-titre: 'Préparation méthodique des examens  '
+sous-titre: ''
 titre: Programme de remise à niveau
 ---
