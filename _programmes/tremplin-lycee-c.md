@@ -35,4 +35,4 @@ Etant dans une situation d'urgence et de remise en question, le programme se doi
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessous et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
