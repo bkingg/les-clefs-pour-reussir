@@ -8,5 +8,5 @@ description: |-
 lien-boutton: "/programmes.html"
 texte-boutton: Découvrez nos programmes
 sous-titre: 'Préparation méthodique des examens  '
-titre: Programme de remise a niveau
+titre: Programme de remise à niveau
 ---
