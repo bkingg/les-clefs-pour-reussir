@@ -8,15 +8,17 @@ image: "/uploads/about-us.jpg"
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
 
-Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer. 
+Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer.
 
-### Les avantages 
+### Les avantages
 
 * Apprendre des erreurs des autres élèves.
+* Apprendre plus rapidement et approfondir ses connaissances.
+* Prendre connaissance de ses forces et faiblesses.
 * Avoir moins peur de poser plus de questions.
 * Avancer dans un groupe motivé.
 * Apprendre à s'exprimer en public.
-* Partage de connaissances, d'opinions et d'expériences. 
+* Partage de connaissances, d'opinions et d'expériences.
 * Profiter de cours de tutorat moins chers que des cours individuels.
 
 ### La méthodologie
@@ -33,11 +35,11 @@ Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: cré
 
 **Mathématiques.**
 
- **Physique-chimie.**
+**Physique-chimie.**
 
 **complément québécois (Mathématiques, Physique-chimie).**
 
- **Français.**
+**Français.**
 
 **SES.**
 
