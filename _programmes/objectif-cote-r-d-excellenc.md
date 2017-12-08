@@ -6,16 +6,16 @@ image: "/uploads/slide-3.jpg"
 ---
 ### Objectif mention bac et cote R d'excellence en petit groupe de même niveaux (places limitées)
 
-Ce programme s'adresse uniquement aux élèves exigeants des classes de  2nd ,1er et terminale S et ES. . Un entretien sur les motivations de l'élève sera réalisé avant toute admission.
+Ce programme s'adresse uniquement aux élèves exigeants des classes de  2nd ,1er et terminale S et ES/L. Un entretien sur les motivations de l'élève sera réalisé avant toute admission.
 
-Au sein d'un groupe restreint de même niveau, ils pourront profiter d'un environnement sain propice pour assouvir leurs ambitions.
+Au sein d'un groupe restreint de même niveau, ils pourront profiter d'un environnement sain, propice pour assouvir leurs ambitions.
 
 Suivi par une équipe de professeur de qualité,  le contrôle de leur avancement constituera leur priorité numéro 1.
 
 ### Les objectifs
 
 * Voir le programme en avance pour aborder l'année sereinement.
-* Permettre aux élèves d'obtenir la meilleure mention possible.
+* Permettre aux élèves d'obtenir la meilleure mention et cote R possible.
 * Permettre aux élèves d'être admis dans les meilleurs programmes universitaires.
 * Renforcer sa méthodologie pour gagner en rapidité et clarté.
 
@@ -27,9 +27,11 @@ Suivi par une équipe de professeur de qualité,  le contrôle de leur avancemen
 
 **Complément québécois (Mathématiques, Physique-chimie).**
 
-### Le niveaux des classes
+**SES.**
 
-* Les classes sont organisées par niveaux allant de la **2nd à la terminale {S, ES}.**
+### Le niveau des classes
+
+* Les classes sont organisées par niveaux allant de la **2nd à la terminale {S, ES/L}.**
 
 ### Les détails du programme
 
@@ -38,4 +40,4 @@ Suivi par une équipe de professeur de qualité,  le contrôle de leur avancemen
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessous et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
