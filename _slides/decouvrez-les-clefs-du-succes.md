@@ -5,6 +5,6 @@ titre: Collèges français de Montréal
 image: "/uploads/slide-1.jpg"
 sous-titre: 'Soutien scolaire '
 description: ''
-texte-boutton: En savoir plus
+texte-boutton: Découvrez les clefs du succès
 lien-boutton: "/a_propos.html"
 ---
