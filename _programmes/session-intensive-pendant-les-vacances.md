@@ -1,5 +1,5 @@
 ---
-title: Session intensive pendant les vacances
+title: Sessions intensives pendant les vacances
 layout: programme
 date: 2017-12-01 00:00:00 +0000
 image: "/uploads/IMG_3499.JPG"
@@ -23,6 +23,13 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 * Classe de même niveau de la 6e à la terminale (S, ES/L).
 * Partage d'expériences entre élèves.
 * Test récapitulatif de fin de stage
+
+### Les sessions de révisions de trimestre/semestre (10h)
+
+* 1 matière enseignée par stage.
+* Classe de la 6e à la terminale S, ES/L.
+* Test récapitulatif de fin session.
+* Partage d'expériences entre élèves.
 
 ### Les sessions intensives du brevet (12h)
 
@@ -54,4 +61,4 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessous et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
