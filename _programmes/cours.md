@@ -4,11 +4,11 @@ layout: programme
 date: 2017-12-03 00:00:00 +0000
 image: "/uploads/about-us.jpg"
 ---
-### Nos cours particuliers en petit groupe de même niveau
+### Nos cours hebdomadaires en petit groupe de même niveau
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
 
-Les cours particuliers chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer. 
+Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer. 
 
 ### Les avantages 
 
