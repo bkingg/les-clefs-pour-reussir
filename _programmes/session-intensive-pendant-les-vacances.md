@@ -55,7 +55,7 @@ Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de
 
 **Complément québécois (Mathématiques, Physique-chimie).**
 
-### Le niveaux des classes
+### Le niveau des classes
 
 * Les classes sont organisées par niveau allant de la **6e à la terminale (S, ES/L).**
 
