@@ -30,4 +30,4 @@ Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un 
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
-Pour ce faire, remplissez le formulaire ci-dessus et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
+Pour ce faire, remplissez le formulaire ci-dessous et nous nous ferons un plaisir de vous recontacter dans les plus brefs délais.
