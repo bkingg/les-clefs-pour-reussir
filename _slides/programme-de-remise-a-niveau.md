@@ -6,5 +6,5 @@ sous-titre: 'Techniques de gestion du stress '
 description: "Apprendre comment aborder un examen \nMaximiser ses résultats  "
 texte-boutton: 'Découvrez les clefs du succès '
 lien-boutton: "/programmes/programme-de-remise-a-n"
-titre: Programme de remise a niveau
+titre: Apprendre à gérer son temps
 ---
