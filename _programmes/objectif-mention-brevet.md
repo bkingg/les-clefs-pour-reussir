@@ -21,7 +21,9 @@ Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un 
 
 **Physique-chimie.**
 
-**Français**
+**Français.**
+
+**compléments québécois.**
 
 ### Les détails du programme
 
