@@ -16,4 +16,4 @@ La deuxième étape consiste à consolider les connaissances de l’élève gr�
 
 Pour finir, la dernière étape consiste à tester l’élève avec un test récapitulatif en condition réel d’examen afin de préparer l’élève à apprendre à gérer son stress, cause numéro 1 d’échec d’examen. Même si l’élève se sent prêt et travaille assidûment, le stress est le facteur qui fera en sorte que ces notes ne décollent pas. C’est pourquoi dans cette étape, l'enseignant montrera à l’élève comment aborder un sujet, comment faire pour diminuer son stress  et par la même occasion comment maximiser son travail pour avoir la meilleur note possible.
 
-Les cours  enseignés sont organisés par niveaux. En ce qui concerne le détail des cours enseignés, veuillez consulter la section programmes.
+Les cours  enseignés sont organisés par niveau. En ce qui concerne le détail des cours enseignés, veuillez consulter la section programmes.
