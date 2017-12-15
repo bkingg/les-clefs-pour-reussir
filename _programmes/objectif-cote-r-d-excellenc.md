@@ -4,7 +4,7 @@ layout: programme
 date: 2017-12-03 00:00:00 +0000
 image: "/uploads/slide-3.jpg"
 ---
-### Objectif mention bac et cote R d'excellence en petit groupe de même niveaux (places limitées)
+### Objectif mention bac et cote R d'excellence en petit groupe de même niveau (places limitées)
 
 Ce programme s'adresse uniquement aux élèves exigeants des classes de  2nd ,1er et terminale S et ES/L. Un entretien sur les motivations de l'élève sera réalisé avant toute admission.
 
