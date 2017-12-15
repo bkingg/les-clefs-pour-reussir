@@ -2,7 +2,7 @@
 title: Programme de remise à niveau
 date: 2017-12-04 22:48:00 +0000
 image: "/uploads/programme.jpg"
-sous-titre: ''
+sous-titre: Apprendre à gérer son stress
 description: "Apprendre à gérer son temps \nApprendre comment aborder un examen \nMaximiser
   ses résultats  "
 texte-boutton: En savoir plus
