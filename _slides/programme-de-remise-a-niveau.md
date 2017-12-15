@@ -7,5 +7,5 @@ description: "Apprendre à gérer son temps \nApprendre comment aborder un exame
   ses résultats  "
 texte-boutton: En savoir plus
 lien-boutton: "/programmes/cours"
-titre: 'Techniques de gestion du stress '
+titre: 'Gestion du stress '
 ---
