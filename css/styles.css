@@ -17809,6 +17809,42 @@ footer {
 .About_Us .about-content {
   padding: 4% 2%; }
 
+.silder {
+  position: relative; }
+  .silder .button-previous,
+  .silder .button-next {
+    z-index: 10;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    line-height: 40px;
+    height: 40px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid white;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    top: 50%;
+    margin-top: -20px;
+    display: none;
+    opacity: 0;
+    transition: all 0.4s; }
+  .silder .button-previous {
+    left: 10px; }
+  .silder .button-next {
+    right: 10px; }
+  .silder:hover .button-previous,
+  .silder:hover .button-next {
+    opacity: 1; }
+    .silder:hover .button-previous:hover,
+    .silder:hover .button-next:hover {
+      background-color: #fbae39;
+      color: white;
+      border-color: transparent; }
+
 .slideshow {
   visibility: hidden;
   opacity: 0; }
@@ -17828,11 +17864,16 @@ footer {
       vertical-align: middle; }
       .slideshow .slide__text .slide__text--wrapper .slide__title {
         padding-left: 20%;
+        padding-right: 20%;
         color: white; }
       .slideshow .slide__text .slide__text--wrapper .slide__description {
         padding-left: 20%;
+        padding-right: 20%;
         margin-bottom: 40px; }
         .slideshow .slide__text .slide__text--wrapper .slide__description p {
+          font-size: 24px;
+          line-height: 34px;
           color: white; }
       .slideshow .slide__text .slide__text--wrapper .slide__button {
-        padding-left: 20%; }
+        padding-left: 20%;
+        padding-right: 20%; }
