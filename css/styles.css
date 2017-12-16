@@ -17783,13 +17783,9 @@ ul.main-ul {
     background: transparent; }
 #products .content,
 #popular_courses .content {
-  padding: 20px 10px; }
-  #products .content .block-content h6,
-  #popular_courses .content .block-content h6 {
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    display: block;
-    overflow: hidden; }
+  padding: 6px 10px;
+  height: 56px;
+  line-height: 22px; }
 
 footer {
   background: #FB7D39; }
@@ -17819,7 +17815,7 @@ footer {
     font-size: 25px;
     line-height: 40px;
     height: 40px;
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     text-align: center;
     background-color: transparent;
     border: 1px solid white;
@@ -17877,3 +17873,6 @@ footer {
       .slideshow .slide__text .slide__text--wrapper .slide__button {
         padding-left: 20%;
         padding-right: 20%; }
+
+.features-list {
+  min-height: 400px; }
