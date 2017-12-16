@@ -236,7 +236,10 @@
 
   $('.slideshow').slick({
     // fade: true,
-    arrows: false
+    autoplay: true,
+    autoplaySpeed: 3000,
+    prevArrow: '<div class="button-previous">‹</div>',
+    nextArrow: '<div class="button-next">›</div>'
   }); //Yes! that's it!
 
   $('[data-toggle="tooltip"]').tooltip();

@@ -17,7 +17,7 @@ handle: accueil
             </div>
             <h5>Programme de remise à niveau</h5>
             <div class="features-content">
-            <p>Identifier et combler les lacunes de l’étudiant<br>Suivre un programme sur-mesure<br><span style="font-size: 1rem;">Revoir les bases du trimestre</span></p>
+            <p>Identifier et combler les lacunes de l’étudiant<br>Suivre un programme sur-mesure<br>Revoir les bases du trimestre</p>
             </div>
           </div>
         </div>
@@ -168,7 +168,7 @@ handle: accueil
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7C%20default:%20'http://placehold.it/96x96'%20%7D%7D" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image | default: 'http://placehold.it/96x96' }}" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur | default: 'Auteur' }}</h5>
                   <span>{{ temoignage.description | default: 'Description Auteur' }}</span>
