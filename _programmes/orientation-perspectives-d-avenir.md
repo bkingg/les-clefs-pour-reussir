@@ -10,10 +10,10 @@ Ayant une expérience de tutorat de plus de 13 années, Les clefs du succès pos
 
 ### Objectifs
 
-* Orienter et aider l'élève à trouver sa voie.
-* Echange d'expériences entre étudiants.
-* Réaliser un plan de carrière.
-* Développer les forces de l'élève.
+* Orienter et aider l'élève à trouver sa voie
+* Echange d'expériences entre étudiants
+* Réaliser un plan de carrière
+* Développer les forces de l'élève
 
 ### La durée du cours
 
