@@ -10,10 +10,10 @@ Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un 
 
 ### Les objectifs
 
-* Voir le programme en avance pour aborder l'année sereinement.
-* Permettre aux élèves d'obtenir la meilleure mention possible.
-* Renforcer sa méthodologie pour gagner en rapidité et clarté.
-* Préparer l'élève aux attentes du lycée.
+* Voir le programme en avance pour aborder l'année sereinement
+* Permettre aux élèves d'obtenir la meilleure mention possible
+* Renforcer sa méthodologie pour gagner en rapidité et clarté
+* Préparer l'élève aux attentes du lycée
 
 ### Les matières enseignées
 
@@ -28,7 +28,7 @@ Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un 
 ### Les détails du programme
 
 * Programme sur-mesure en fonction des besoins des étudiants
-* Nombre de cours par semaine à déterminer en fonction des objectifs visés de l'élève.
+* Nombre de cours par semaine à déterminer en fonction des objectifs visés de l'élève
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
