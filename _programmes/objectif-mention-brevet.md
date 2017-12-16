@@ -17,13 +17,13 @@ Ce programme s'adresse uniquement aux élèves exigeants des classes de  3e. Un 
 
 ### Les matières enseignées
 
-**Mathématiques.**
+**Mathématiques**
 
-**Physique-chimie.**
+**Physique-chimie**
 
-**Français.**
+**Français**
 
-**compléments québécois.**
+**compléments québécois**
 
 ### Les détails du programme
 
