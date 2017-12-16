@@ -71,13 +71,9 @@ ul.main-ul{
         }
     }
     .content{
-        padding: 20px 10px;
-        .block-content h6{
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            display: block;
-            overflow: hidden;
-        }
+        padding: 6px 10px;
+        height: 56px;
+        line-height: 22px;
     }
 }
 
@@ -119,7 +115,7 @@ footer{
         font-size: 25px;
         line-height: 40px;
         height: 40px;
-        font-family: Arial, sans-serif;
+        font-family: Helvetica, sans-serif;
         text-align: center;
         background-color: transparent;
         border: 1px solid white;
@@ -193,4 +189,8 @@ footer{
             }
         }
     }
+}
+
+.features-list{
+    min-height: 400px;
 }
