@@ -1,7 +1,7 @@
 {
-  header: {
-    url: "/api",
-    title: "API Documentation",
-    identifier: "api"
+  "header": {
+    "url": "/api",
+    "title": "API Documentation",
+    "identifier": "api"
   }
 }
