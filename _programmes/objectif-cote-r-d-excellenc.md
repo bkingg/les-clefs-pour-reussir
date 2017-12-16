@@ -21,13 +21,13 @@ Suivi par une équipe de professeur de qualité,  le contrôle de leur avancemen
 
 ### Les matières enseignées
 
-**Mathématiques.**
+**Mathématiques**
 
-**Physique-chimie.**
+**Physique-chimie**
 
-**Complément québécois (Mathématiques, Physique-chimie).**
+**Complément québécois (Mathématiques, Physique-chimie)**
 
-**SES.**
+**SES**
 
 ### Le niveau des classes
 
