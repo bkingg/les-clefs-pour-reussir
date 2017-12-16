@@ -12,26 +12,26 @@ Afin de favoriser une adaptation réussie, le programme Tremplin lycée-Cégep p
 
 ### Les objectifs
 
-* Comprendre les exigences du Cégep.
-* Permettre aux élèves d'obtenir les pré-requis aux admissions des Cégep.
-* Préparer les examens à venir.
+* Comprendre les exigences du Cégep
+* Permettre aux élèves d'obtenir les pré-requis aux admissions des Cégep
+* Préparer les examens à venir
 
 ### Les matières enseignées
 
-**Mathématiques.**
+**Mathématiques**
 
-**Physique-chimie.**
+**Physique-chimie**
 
-**Français.**
+**Français**
 
-**Complément québécois (Mathématiques, Physique-chimie).**
+**Complément québécois (Mathématiques, Physique-chimie)**
 
 ### Les détails du programme
 
 Etant dans une situation d'urgence et de remise en question, le programme se doit de répondre aux besoins très spécifique de l'étudiant.
 
 * Programme sur-mesure en fonction des besoins des étudiants
-* Nombre de cours par semaine à déterminer en fonction des objectifs visés de l'élève.
+* Nombre de cours par semaine à déterminer en fonction des objectifs visés de l'élève
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
