@@ -12,42 +12,42 @@ Les programmes de remise à niveau chez Les clefs du succès utilisent le métho
 
 ### Les objectifs
 
-* Révision et approfondissement du trimestre/semestre.
-* Comprendre et apprendre les méthodes de réflexion.
-* Combler ses lacunes au sein d'un petit groupe encadré par un professeur.
-* Apprendre comment rédiger un contrôle.
-* Améliorer ses techniques d'apprentissages.
-* Gagner en autonomie.
-* Apprendre à répondre aux questions classiques d'examens.
-* Reprendre  confiance en soi.
+* Révision et approfondissement du trimestre/semestre
+* Comprendre et apprendre les méthodes de réflexion
+* Combler ses lacunes au sein d'un petit groupe encadré par un professeur
+* Apprendre comment rédiger un contrôle
+* Améliorer ses techniques d'apprentissages
+* Gagner en autonomie
+* Apprendre à répondre aux questions classiques d'examens
+* Reprendre  confiance en soi
 
 ### Nos comptes-rendues
 
-* Bilan des progrès de l'étudiant.
-* Récapitulatif des points à approfondir.
-* Elaboration d'un plan d'action post-programme.
+* Bilan des progrès de l'étudiant
+* Récapitulatif des points à approfondir
+* Elaboration d'un plan d'action post-programme
 
 ### Les matières enseignées
 
-**Mathématiques.**
+**Mathématiques**
 
-**Physique-chimie.**
+**Physique-chimie**
 
-**Français.**
+**Français**
 
-**Complément québécois (Mathématiques, Physique-chimie).**
+**Complément québécois (Mathématiques, Physique-chimie)**
 
 ### Le détail des programmes
 
-* 1 matière enseignée par programme.
-* Durée : variable en fonction des besoins de l'élève.
-* Classe de même niveau de la 6e à la terminale (S, ES/L).
-* Fiches de cours récapitulatives en points clés.
-* Test récapitulatif de fin de stage.
+* 1 matière enseignée par programme
+* Durée : variable en fonction des besoins de l'élève
+* Classe de même niveau de la 6e à la terminale (S, ES/L)
+* Fiches de cours récapitulatives en points clés
+* Test récapitulatif de fin de stage
 
 ### Le niveau des classes
 
-* Les classes sont organisées par niveau allant de la **6e à la terminale (S, ES/L).**
+* Les classes sont organisées par niveau allant de la **6e à la terminale (S, ES/L)**
 
 ### **Les inscriptions sont possibles tout au long de l’année**
 
