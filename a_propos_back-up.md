@@ -2,6 +2,7 @@
 layout: a_propos
 handle: a-propos
 ---
+
 Les clefs du succès offre un service de tutorat de haute qualité spécialisé dans les mathématiques, physique-chimie (complément et régulier) ainsi que le français  des lycées français de Montréal, à savoir le collège **Stanislas** et le **Collège international Marie de France.**
 
 Les professeurs des clefs du succès sont entièrement  au service de l’élève et ont pour mission de faire ressortir le plein potentiel de ce dernier. Tous les enseignants sont sélectionnés pour leur capacité à savoir transmettre les notions importantes de manière simple et efficace. Ayant tous étudiés dans le système Français, ils seront capables de faire progresser l’élève et consolider ses bases de la 6e à la terminale S, ES ou L.

@@ -201,14 +201,19 @@
    * Google Map
    */
   if ( $('#googleMap').length ) {
+    var location = new google.maps.LatLng(45.5032983,-73.6390964);
     var mapProp = {
-      center: new google.maps.LatLng(51.508742,-0.120850),
-      zoom:9,
+      center: location,
+      zoom: 15,
       scrollwheel: false,
       draggable: false,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     };
     var map = new google.maps.Map(document.getElementById('googleMap'), mapProp);
+    var marker = new google.maps.Marker({
+      position: location,
+      map: map
+    });
   }
 
   function count(options) {
