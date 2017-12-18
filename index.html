@@ -17,7 +17,7 @@ handle: accueil
             </div>
             <h5>Programme de remise à niveau</h5>
             <div class="features-content">
-            <p>Identifier et combler les lacunes de l’étudiant<br>Suivre un programme sur-mesure<br><span style="font-size: 1rem;">Revoir les bases du trimestre</span></p>
+            <p>Identifier et combler les lacunes de l’étudiant<br>Suivre un programme sur-mesure<br>Revoir les bases du trimestre</p>
             </div>
           </div>
         </div>
@@ -168,7 +168,7 @@ handle: accueil
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7C%20default:%20'http://placehold.it/96x96'%20%7D%7D" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur | default: 'Auteur' }}</h5>
                   <span>{{ temoignage.description | default: 'Description Auteur' }}</span>
@@ -188,6 +188,23 @@ handle: accueil
     </div>
   </section>
 {% endif %}
+
+<!-- Call To Action html 
+====================-->
+<section class="call_to_action" data-parallax="scroll" data-image-src="/uploads/programmes.jpg">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Soutien de Mathématiques, Physique-chimie et Français</h1>
+        <h4>Des programmes adaptés à vos besoins&nbsp;<br>Les cours de compléments sont également enseignés</h4>
+        <a href="/programmes.html" target="_self" class="rex-bottom-medium rex-btn-icon">
+          <span class="rex-btn-text">Voir Nos Programmes</span>
+          <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <!-- newsletter html 
