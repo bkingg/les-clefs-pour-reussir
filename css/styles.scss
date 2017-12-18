@@ -2,7 +2,7 @@
 ---
 @charset "UTF-8";
 
-$color-brand:  #1e90ff;
+$color-brand:  #00b3ee;
 $color-brand-light: lighten($color-brand, 10%);
 $color-purple:  #673ab7; 
 $color-green: #4caf50;
@@ -162,7 +162,13 @@ footer{
     .slide{
         background-size: cover !important;
         background-repeat: no-repeat !important;
-        height: 500px;
+        height: 504px;
+        &.slick-current{
+            .slide__text--wrapper{
+                opacity: 1;
+                visibility: visible;
+            }
+        }
     }
     .slide__text{
         display: table;
@@ -171,6 +177,9 @@ footer{
         .slide__text--wrapper{
             display: table-cell;
             vertical-align: middle;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 3.5s;
             .slide__title{
                 padding-left: 20%;
                 padding-right: 20%;
