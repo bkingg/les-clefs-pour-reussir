@@ -1,7 +1,7 @@
 ---
 title: teta
 date: 2017-12-06 00:42:03 +0000
-description: Elève de Stanislas
+description: Elève du collège Stanislas
 auteur: T. Katanda
 image: "/uploads/teta.jpg"
 ---
