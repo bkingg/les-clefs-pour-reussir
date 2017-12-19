@@ -1,5 +1,6 @@
 ---
 pages:
+- _temoignages/moha.md
 - _temoignages/pape.md
 - _temoignages/fatou.md
 - _temoignages/oumou.md
@@ -8,7 +9,6 @@ pages:
 - _temoignages/saron.md
 - _temoignages/sabrina.md
 - _temoignages/rhita.md
-- _temoignages/moha.md
 - _temoignages/teta.md
 hide_body: false
 fields:
