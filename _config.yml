@@ -16,9 +16,7 @@
 title: Les Clefs du Succès
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+"Les Clefs du succès offre un service de soutien scolaire spécialisé pour les étudiants scolarisés dans les établissements du système français à Montréal : à savoir le collège Stanislas et le Collège International Marie de France. Avec une expérience dans le tutorat de plus de 15 années, les Clefs du succès offre des programmes variés qui répondent aux besoins de vos enfants allant d’un programme de remise à niveau à un programme d’objectif mention bac et brevet. Des cours de Mathématiques, Physique-chimie et Français sont enseignés ainsi que les cours de complément Québécois."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

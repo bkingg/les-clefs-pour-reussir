@@ -138,6 +138,8 @@
       paginationSpeed : 1600,
       rewindSpeed : 1500,
       navigation: true,
+      autoplay: true,
+      autoplayTimeout: 1000,
       navigationText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
     });
 

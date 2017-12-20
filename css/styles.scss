@@ -164,9 +164,15 @@ footer{
         background-repeat: no-repeat !important;
         height: 504px;
         &.slick-current{
-            .slide__text--wrapper{
-                opacity: 1;
-                visibility: visible;
+            .slide__text{
+                .slide__text--wrapper{
+                    .slide__title,
+                    .slide__description,
+                    .slide__button{
+                        opacity: 1;
+                        visibility: visible;
+                    }
+                }
             }
         }
     }
@@ -177,15 +183,18 @@ footer{
         .slide__text--wrapper{
             display: table-cell;
             vertical-align: middle;
-            opacity: 0;
-            visibility: hidden;
-            transition: all 3.5s;
             .slide__title{
                 padding-left: 20%;
                 padding-right: 20%;
                 color: white;
+                opacity: 0;
+                visibility: hidden;
+                transition: visibility 2s;
                 .highlight-text{
                     color: $color-brand;
+                    opacity: 0;
+                    visibility: hidden;
+                    transition: opacity 2s;
                 }
                 &.green{
                     .highlight-text{
@@ -212,6 +221,9 @@ footer{
                 padding-left: 20%;
                 padding-right: 20%;
                 margin-bottom: 40px;
+                opacity: 0;
+                visibility: hidden;
+                transition: opacity 4s;
                 p{
                     font-size: 24px;
                     line-height: 34px;
@@ -219,6 +231,9 @@ footer{
                 }
             }
             .slide__button{
+                opacity: 0;
+                visibility: hidden;
+                transition: opacity 6s;
                 padding-left: 20%;
                 padding-right: 20%;
             }
