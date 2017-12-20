@@ -46,7 +46,7 @@ Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: cré
 ### Le niveau des classes
 
 * Les classes sont organisées par niveaux allant de la **6e à la terminale**
-* Les cours de français sont offerts pour les élèves de la **primaire à la terminale**
+* Les classes de français sont offertes pour les élèves de la **primaire à la terminale**
 
 ### La durée du cours
 
