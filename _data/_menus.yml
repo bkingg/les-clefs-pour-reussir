@@ -1,14 +1,14 @@
 ---
 main-menu:
 - url: "/"
-  title: "Accueil"
-  identifier: "a-propos"
+  title: Accueil
+  identifier: a-propos
 - url: "/a_propos.html"
-  title: "A Propos"
-  identifier: "a-propos"
+  title: A Propos
+  identifier: a-propos
 - programmes: "/programmes.html"
-  title: "Programmes"
-  identifier: "programmes"
+  title: Programmes
+  identifier: programmes
 - url: "/contact.html"
-  title: "Contact"
-  identifier: "contact"
+  title: Contact
+  identifier: contact
