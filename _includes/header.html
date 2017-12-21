@@ -5,9 +5,15 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.title != undefined %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, height=device-height, minimum-scale=1">
+		<link rel="canonical" href="{{ site.production_url }}{{ page.url | replace:'index.html',''}}">
+		{% if page.description %}
+			<meta name="description" content="{{ page.description | escape }}">
+		{% else %}
+      <meta name="description" content="{{ site.description | escape }}">
+		{% endif %}
+
     <!-- Place favicon.ico in the root directory -->
     <link rel="icon" href="/uploads/favicon.ico" />
     
