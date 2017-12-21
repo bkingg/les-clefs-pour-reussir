@@ -17950,4 +17950,14 @@ footer {
     position: absolute;
     z-index: 1;
     padding-left: 40px;
-    padding-right: 40px; } }
+    padding-right: 40px; }
+
+  footer .footer-section {
+    border: none;
+    margin-bottom: 30px; }
+    footer .footer-section p, footer .footer-section ul, footer .footer-section li, footer .footer-section h6, footer .footer-section .phone-number {
+      display: block;
+      text-align: center; }
+
+  .content .description {
+    display: none; } }
