@@ -13,6 +13,9 @@
                 <div class="menu-container">
                     <div class="menu">
                         <ul class="main-ul">
+                            <!-- {% for link in site.menus.main-menu %}
+                                <li><a class="{% if link.identifier == page.title | handleize %}active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
+                            {% endfor %} -->
                             <li><a class="active" href="/index.html">Accueil</a></li>
                             <li><a href="/a_propos.html">A propos</a>
                             <li><a href="/programmes.html">Programmes</a></li>

@@ -13,7 +13,7 @@
 					<div class="slide__text--wrapper">
 						<h1 class="slide__title">
 							{%- if slide.sous-titre -%}<span class="highlight-text">{{ slide.sous-titre }}</span>{%- endif -%}
-							{{ slide.titre }}
+							{{ slide.titre | newline_to_br | trim }}
 						</h1>
 						<div class="slide__description">
 							<p>{{ slide.description | newline_to_br | trim }}</p>

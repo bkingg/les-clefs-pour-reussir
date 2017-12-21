@@ -203,18 +203,24 @@
    * Google Map
    */
   if ( $('#googleMap').length ) {
-    var location = new google.maps.LatLng(45.5032983,-73.6390964);
-    var mapProp = {
-      center: location,
+    var geocoder = new google.maps.Geocoder();
+    var address = '6767 Chemin de la Côte-des-Neiges, Montréal (QC), H3S 2T6, Canada';
+    var map = new google.maps.Map(document.getElementById('googleMap'), {
       zoom: 15,
       scrollwheel: false,
       draggable: false,
       mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
-    var map = new google.maps.Map(document.getElementById('googleMap'), mapProp);
-    var marker = new google.maps.Marker({
-      position: location,
-      map: map
+    });
+    geocoder.geocode({'address': address}, function(results, status) {
+      if (status === 'OK') {
+        map.setCenter(results[0].geometry.location);
+        var marker = new google.maps.Marker({
+          map: map,
+          position: results[0].geometry.location
+        });
+      } else {
+        alert('Geocode was not successful for the following reason: ' + status);
+      }
     });
   }
 
