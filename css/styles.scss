@@ -97,7 +97,8 @@ footer{
     .copyright{
         border-top: 1px solid $white;
     }
-    .footer-description {
+    .footer-description, .footer-section:first-child {
+        margin-top: 20px;
         padding-top: 0;
     }
 }
