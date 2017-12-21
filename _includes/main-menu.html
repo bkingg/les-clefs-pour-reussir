@@ -16,10 +16,10 @@
                             <!-- {% for link in site.menus.main-menu %}
                                 <li><a class="{% if link.identifier == page.title | handleize %}active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
                             {% endfor %} -->
-                            <li><a class="active" href="/index.html">Accueil</a></li>
-                            <li><a href="/a_propos.html">A propos</a>
-                            <li><a href="/programmes.html">Programmes</a></li>
-                            <li><a href="/contact.html">Contact</a>
+                            <li><a class="{% if page.handle == 'accueil' %}active{% endif %}" href="/index.html">Accueil</a></li>
+                            <li><a class="{% if page.handle == 'a-propos' %}active{% endif %}" href="/a-propos.html">À propos</a>
+                            <li><a class="{% if page.handle contains 'programmes' %}active{% endif %}" href="/programmes.html">Programmes</a></li>
+                            <li><a class="{% if page.handle == 'contact' %}active{% endif %}" href="/contact.html">Contact</a>
                         </ul>
                     </div>
                     <!-- <div class="menu-search" >
