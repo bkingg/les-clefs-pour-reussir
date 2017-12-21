@@ -17801,7 +17801,8 @@ footer {
     color: #FFFFFF !important; }
   footer .copyright {
     border-top: 1px solid #FFFFFF; }
-  footer .footer-description {
+  footer .footer-description, footer .footer-section:first-child {
+    margin-top: 20px;
     padding-top: 0; }
 
 .About_Us .about-content {
