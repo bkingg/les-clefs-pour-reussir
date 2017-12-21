@@ -136,8 +136,8 @@ image-apprentissage: /uploads/about-us.jpg
             <div>
               <div class="col-md-12">
                 <div class="block-content">
-                  <a class="courses-img" href="{{ programme.url }}" style="background-image: url({% if programme.image %}{{ programme.image }}{% else %}/uploads/programme.png{% endif %});">
-                    <img src="%7B%%20if%20programme.image%20%%7D%7B%7B%20programme.image%20%7D%7D%7B%%20else%20%%7D/uploads/programme.png%7B%%20endif%20%%7D" alt="{{ programme.title | escape }}">
+                  <a class="courses-img" href="{{ programme.url }}" style="background-image: url({{ programme.image }});">
+                    <img src="{{ programme.image }}" alt="{{ programme.title | escape }}">
                   </a>
                   <div class="content">
                     <a href="{{ programme.url }}"><h6>{{ programme.title }}</h6></a>
@@ -176,8 +176,8 @@ image-apprentissage: /uploads/about-us.jpg
                   <a href="#">
                     <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
                   </a>
-                  <h5>{{ temoignage.auteur | default: 'Auteur' }}</h5>
-                  <span>{{ temoignage.description | default: 'Description Auteur' }}</span>
+                  <h5>{{ temoignage.auteur }}</h5>
+                  <span>{{ temoignage.description}}</span>
                   </div>
 
                   <div class="media-body  testimonials-body">
