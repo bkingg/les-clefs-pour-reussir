@@ -303,4 +303,16 @@ footer{
         padding-left: 40px;
         padding-right: 40px;
     }
+    footer .footer-section{
+        border: none;
+        margin-bottom: 30px;
+        p, ul, li, h6, .phone-number{
+            display: block;
+            text-align: center;
+        }
+    }
+
+    .content .description{
+        display: none;
+    }
 }
