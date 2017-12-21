@@ -17922,3 +17922,31 @@ footer {
   background-color: #bcaaa4; }
   .rex-btn-icon.grey .rex-btn-text-icon {
     border-left: 1px solid #d2c5c1; }
+
+.About_Us {
+  margin-bottom: 85px;
+  z-index: 1; }
+
+.popular_courses {
+  z-index: 1; }
+
+@media only screen and (max-width: 959px) {
+  .main-menu {
+    position: fixed;
+    width: 100%;
+    background: white;
+    z-index: 1; }
+    .main-menu + * {
+      padding-top: 100px; }
+
+  .menu-mobile {
+    padding: 28px 15px; }
+
+  .menu-container {
+    z-index: 3; }
+
+  .logo {
+    position: absolute;
+    z-index: 1;
+    padding-left: 40px;
+    padding-right: 40px; } }
