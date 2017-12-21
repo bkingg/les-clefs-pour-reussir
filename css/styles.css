@@ -17116,6 +17116,10 @@ div.loading .wrapper {
   .usefull-link {
     display: block; }
 
+  .out_mission .col-md-6,
+  .out_mission .col-md-12 {
+    margin-bottom: 30px; }
+
   /*=========
 			* Instructors
 		===========*/
