@@ -168,6 +168,7 @@ footer{
             .slide__text{
                 .slide__text--wrapper{
                     .slide__title,
+                    .slide__title .highlight-text,
                     .slide__description,
                     .slide__button{
                         opacity: 1;
@@ -314,5 +315,18 @@ footer{
 
     .content .description{
         display: none;
+    }
+
+    .slide__title{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .slide__description{
+       padding-left: 15px;
+       padding-right: 15px; 
+    }
+    .slide__button{
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
