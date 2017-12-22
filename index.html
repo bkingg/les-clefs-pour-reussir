@@ -1,8 +1,6 @@
 ---
 layout: default
 handle: accueil
-image-1: "/uploads/4.jpg"
-image-2: "/uploads/7.jpg"
 image-apprentissage: "/uploads/thumb_IMG_3188_1024-1.jpg"
 image-parallax-1: "/uploads/4-1.jpg"
 image-parallax-2: "/uploads/7.jpg"
@@ -28,8 +26,8 @@ image-parallax-2: "/uploads/7.jpg"
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class="">
-            <div class="features-university">
-              <i class="fa fa-book"></i>
+            <div class="features-icon">
+              <i class="fa fa-university"></i>
             </div>
             <h5>Objectif Mention Bac et Cote R d’excellence</h5>
             <div class="features-content">
@@ -107,7 +105,7 @@ image-parallax-2: "/uploads/7.jpg"
 
 <!-- Call To Action html 
 ====================-->
-<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-1 }}">
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-1 }}">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -157,6 +155,26 @@ image-parallax-2: "/uploads/7.jpg"
   </div>
 </section>
 
+
+<!-- Call To Action html 
+====================-->
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-2 }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>De la primaire à la terminale (S,ES/L)</h1>
+        <h4>Des programmes adaptés à vos besoins&nbsp;<br>Les cours de compléments sont également enseignés</h4>
+        <a href="/programmes.html" target="_self" class="rex-bottom-medium rex-btn-icon">
+          <span class="rex-btn-text">Voir Nos Programmes</span>
+          <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
 <!-- Testimonials html 
 ====================-->
 {% if site.temoignages %}
@@ -196,23 +214,6 @@ image-parallax-2: "/uploads/7.jpg"
     </div>
   </section>
 {% endif %}
-
-<!-- Call To Action html 
-====================-->
-<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-2 }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>De la primaire à la terminale (S,ES/L)</h1>
-        <h4>Des programmes adaptés à vos besoins&nbsp;<br>Les cours de compléments sont également enseignés</h4>
-        <a href="/programmes.html" target="_self" class="rex-bottom-medium rex-btn-icon">
-          <span class="rex-btn-text">Voir Nos Programmes</span>
-          <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
 
 
 <!-- newsletter html 
