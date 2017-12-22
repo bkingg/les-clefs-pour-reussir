@@ -18,7 +18,7 @@ image-parallax-2: "/uploads/7.jpg"
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class="">
             <div class="features-icon">
-              <i class="fa fa-graduation-cap"></i>
+              <i class="fa fa-line-chart"></i>
             </div>
             <h5>Programme de remise à niveau</h5>
             <div class="features-content">
@@ -28,7 +28,7 @@ image-parallax-2: "/uploads/7.jpg"
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class="">
-            <div class="features-icon">
+            <div class="features-university">
               <i class="fa fa-book"></i>
             </div>
             <h5>Objectif Mention Bac et Cote R d’excellence</h5>
@@ -41,7 +41,7 @@ image-parallax-2: "/uploads/7.jpg"
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class=" features-last-child">
             <div class="features-icon">
-              <i class="fa fa-briefcase"></i>
+              <i class="fa fa-users"></i>
             </div>
             <h5>Réseaux d’anciens étudiants </h5>
             <div class="features-content">
@@ -62,7 +62,7 @@ image-parallax-2: "/uploads/7.jpg"
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 col-lg-6">
-        <img class="img-responsive" src="%7B%7B%20page.image-apprentissage%20%7D%7D" alt="">
+        <img class="img-responsive" src="{{ page.image-apprentissage }}" alt="">
       </div>
       <div class="col-md-12 col-lg-6 about-content">
         <h2>L’apprentissage chez les clefs du succès</h2>
@@ -176,7 +176,7 @@ image-parallax-2: "/uploads/7.jpg"
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7D%7D" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur }}</h5>
                   <span>{{ temoignage.description }}</span>
