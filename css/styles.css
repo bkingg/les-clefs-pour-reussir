@@ -17792,7 +17792,8 @@ ul.main-ul {
 footer {
   background: #00b3ee; }
   footer h3 {
-    font-weight: bold; }
+    font-weight: bold;
+    padding-bottom: 10px; }
   footer a {
     text-decoration: underline; }
   footer li {
@@ -17804,6 +17805,9 @@ footer {
   footer .footer-description, footer .footer-section:first-child {
     margin-top: 20px;
     padding-top: 0; }
+  footer .usefull-link > li > a:hover {
+    color: white !important;
+    text-decoration: underline !important; }
 
 .About_Us .about-content {
   padding: 4% 2%; }
