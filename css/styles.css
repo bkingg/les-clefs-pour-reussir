@@ -17855,6 +17855,7 @@ footer {
     background-repeat: no-repeat !important;
     height: 504px; }
     .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__title,
+    .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__title .highlight-text,
     .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__description,
     .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__button {
       opacity: 1;
@@ -17960,4 +17961,16 @@ footer {
       text-align: center; }
 
   .content .description {
-    display: none; } }
+    display: none; }
+
+  .slide__title {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .slide__description {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .slide__button {
+    padding-left: 15px;
+    padding-right: 15px; } }
