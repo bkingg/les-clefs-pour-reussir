@@ -1,8 +1,6 @@
 ---
 layout: default
 handle: accueil
-image-1: "/uploads/4.jpg"
-image-2: "/uploads/7.jpg"
 image-apprentissage: "/uploads/thumb_IMG_3188_1024-1.jpg"
 image-parallax-1: "/uploads/4-1.jpg"
 image-parallax-2: "/uploads/7.jpg"
@@ -18,7 +16,7 @@ image-parallax-2: "/uploads/7.jpg"
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class="">
             <div class="features-icon">
-              <i class="fa fa-graduation-cap"></i>
+              <i class="fa fa-line-chart"></i>
             </div>
             <h5>Programme de remise à niveau</h5>
             <div class="features-content">
@@ -29,7 +27,7 @@ image-parallax-2: "/uploads/7.jpg"
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class="">
             <div class="features-icon">
-              <i class="fa fa-book"></i>
+              <i class="fa fa-university"></i>
             </div>
             <h5>Objectif Mention Bac et Cote R d’excellence</h5>
             <div class="features-content">
@@ -41,7 +39,7 @@ image-parallax-2: "/uploads/7.jpg"
         <div class="col-lg-4 col-md-4 col-sm-12 features-list">
           <div class=" features-last-child">
             <div class="features-icon">
-              <i class="fa fa-briefcase"></i>
+              <i class="fa fa-users"></i>
             </div>
             <h5>Réseaux d’anciens étudiants </h5>
             <div class="features-content">
@@ -56,13 +54,34 @@ image-parallax-2: "/uploads/7.jpg"
   </div>
 </section>
 
+
+
+<!-- Call To Action html 
+====================-->
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-1 }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Soutien de Mathématiques, Physique-chimie et Français</h1>
+        <h4>Des programmes adaptés à vos besoins&nbsp;<br>Les cours de compléments sont également enseignés</h4>
+        <a href="/programmes.html" target="_self" class="rex-bottom-medium rex-btn-icon">
+          <span class="rex-btn-text">Voir Nos Programmes</span>
+          <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
 <!-- About_Us html 
 ====================-->
 <section class="About_Us">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 col-lg-6">
-        <img class="img-responsive" src="%7B%7B%20page.image-apprentissage%20%7D%7D" alt="">
+        <img class="img-responsive" src="{{ page.image-apprentissage }}" alt="">
       </div>
       <div class="col-md-12 col-lg-6 about-content">
         <h2>L’apprentissage chez les clefs du succès</h2>
@@ -98,25 +117,6 @@ image-parallax-2: "/uploads/7.jpg"
           </div>
         </div>
         <!-- end about list -->
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-<!-- Call To Action html 
-====================-->
-<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-1 }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>Soutien de Mathématiques, Physique-chimie et Français</h1>
-        <h4>Des programmes adaptés à vos besoins&nbsp;<br>Les cours de compléments sont également enseignés</h4>
-        <a href="/programmes.html" target="_self" class="rex-bottom-medium rex-btn-icon">
-          <span class="rex-btn-text">Voir Nos Programmes</span>
-          <span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-        </a>
       </div>
     </div>
   </div>
@@ -176,7 +176,7 @@ image-parallax-2: "/uploads/7.jpg"
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7D%7D" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur }}</h5>
                   <span>{{ temoignage.description }}</span>
@@ -199,7 +199,7 @@ image-parallax-2: "/uploads/7.jpg"
 
 <!-- Call To Action html 
 ====================-->
-<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-2 }}">
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-2 }}">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
