@@ -1,10 +1,10 @@
 ---
-title: Tremplin lycée- cegep
+title: Tremplin collège- cegep
 layout: programme
 date: 2017-12-03 00:00:00 +0000
 image: "/uploads/14.jpg"
 ---
-### Notre programme Tremplin lycée-Cégep
+### Notre programme Tremplin collège-Cégep
 
 Le sytème français ne vous convient plus ? Vous envisagez d'envoyer votre enfant au Cégep ? Ce programme est fait pour vous!
 
