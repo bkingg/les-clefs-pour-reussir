@@ -111,9 +111,15 @@ footer{
 }
 
 .About_Us{
+    margin-top: 85px;
+    z-index: 1;
     .about-content{
         padding: 4% 2%;
     }
+}
+
+.course_detail{
+    padding-top: 60px;
 }
 
 .silder{
@@ -281,10 +287,6 @@ footer{
     }
 }
 
-.About_Us{
-    margin-bottom: 85px;
-    z-index: 1;
-}
 .popular_courses{
     z-index: 1;
 }
