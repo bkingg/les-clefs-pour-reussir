@@ -33,7 +33,7 @@ ul.main-ul{
 .logo{
     padding: 0;
     img{
-        height: 80px;
+        max-height: 80px;
         width: auto;
     }
 }
@@ -298,7 +298,7 @@ footer{
         background: white;
         z-index: 1;
         + *{
-            padding-top: 100px;
+            padding-top: 80px;
         }
     }
     .menu-mobile {
@@ -312,6 +312,10 @@ footer{
         z-index: 1;
         padding-left: 40px;
         padding-right: 40px;
+        height: 100%;
+        img{
+            max-height: 80px;
+        }
     }
     footer .footer-section{
         border: none;
@@ -326,16 +330,37 @@ footer{
         display: none;
     }
 
-    .slide__title{
-        padding-left: 15px;
-        padding-right: 15px;
-    }
-    .slide__description{
-       padding-left: 15px;
-       padding-right: 15px; 
-    }
-    .slide__button{
-        padding-left: 15px;
-        padding-right: 15px;
+    .slideshow{
+        .slide{
+            height: 340px;
+        }
+        .slide__text .slide__text--wrapper{
+            .slide__title{
+                font-size: 30px;
+                padding-left: 55px;
+                padding-right: 55px;
+                .highlight-text{
+                    font-size: 20px;
+                }
+            }
+            .slide__description{
+               padding-left: 55px;
+               padding-right: 55px; 
+               p{
+                   font-size: 15px;
+               }
+            }
+            .slide__button{
+                padding-left: 55px;
+                padding-right: 55px;
+                .rex-btn-text{
+                    font-size: 12px;
+                    padding: 0 15px;
+                }
+                .rex-btn-text-icon{
+                    width: 30px;
+                }
+            }
+        }
     }
 }
