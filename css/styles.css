@@ -17751,7 +17751,7 @@ ul.main-ul {
 .logo {
   padding: 0; }
   .logo img {
-    height: 80px;
+    max-height: 80px;
     width: auto; }
 
 .main-menu ul.main-ul {
@@ -17945,7 +17945,7 @@ footer {
     background: white;
     z-index: 1; }
     .main-menu + * {
-      padding-top: 100px; }
+      padding-top: 80px; }
 
   .menu-mobile {
     padding: 28px 15px; }
@@ -17957,7 +17957,10 @@ footer {
     position: absolute;
     z-index: 1;
     padding-left: 40px;
-    padding-right: 40px; }
+    padding-right: 40px;
+    height: 100%; }
+    .logo img {
+      max-height: 80px; }
 
   footer .footer-section {
     border: none;
@@ -17969,14 +17972,24 @@ footer {
   .content .description {
     display: none; }
 
-  .slide__title {
-    padding-left: 15px;
-    padding-right: 15px; }
-
-  .slide__description {
-    padding-left: 15px;
-    padding-right: 15px; }
-
-  .slide__button {
-    padding-left: 15px;
-    padding-right: 15px; } }
+  .slideshow .slide {
+    height: 340px; }
+  .slideshow .slide__text .slide__text--wrapper .slide__title {
+    font-size: 30px;
+    padding-left: 55px;
+    padding-right: 55px; }
+    .slideshow .slide__text .slide__text--wrapper .slide__title .highlight-text {
+      font-size: 20px; }
+  .slideshow .slide__text .slide__text--wrapper .slide__description {
+    padding-left: 55px;
+    padding-right: 55px; }
+    .slideshow .slide__text .slide__text--wrapper .slide__description p {
+      font-size: 15px; }
+  .slideshow .slide__text .slide__text--wrapper .slide__button {
+    padding-left: 55px;
+    padding-right: 55px; }
+    .slideshow .slide__text .slide__text--wrapper .slide__button .rex-btn-text {
+      font-size: 12px;
+      padding: 0 15px; }
+    .slideshow .slide__text .slide__text--wrapper .slide__button .rex-btn-text-icon {
+      width: 30px; } }
