@@ -17809,8 +17809,14 @@ footer {
     color: white !important;
     text-decoration: underline !important; }
 
-.About_Us .about-content {
-  padding: 4% 2%; }
+.About_Us {
+  margin-top: 85px;
+  z-index: 1; }
+  .About_Us .about-content {
+    padding: 4% 2%; }
+
+.course_detail {
+  padding-top: 60px; }
 
 .silder {
   position: relative; }
@@ -17928,10 +17934,6 @@ footer {
   background-color: #bcaaa4; }
   .rex-btn-icon.grey .rex-btn-text-icon {
     border-left: 1px solid #d2c5c1; }
-
-.About_Us {
-  margin-bottom: 85px;
-  z-index: 1; }
 
 .popular_courses {
   z-index: 1; }
