@@ -6,5 +6,5 @@ image: "/uploads/slide-1.jpg"
 sous-titre: 'Soutien scolaire '
 description: ''
 texte-boutton: Découvrez les clefs du succès
-lien-boutton: "/a_propos.html"
+lien-boutton: "/a-propos.html"
 ---
