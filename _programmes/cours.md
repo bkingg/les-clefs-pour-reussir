@@ -29,8 +29,6 @@ Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: cré
 4. Une préparation méthodique des examens qui consiste à: apprendre à gérer son temps, à diminuer son stress et à savoir comment aborder un examen. De plus, des examens d’anciens élèves sont utilisés comme référence ainsi que des copies d’anciens élèves pour souligner les erreurs les plus communes à éviter
 5. Un examen récapitulatif de fin de chapitre en condition réelle
 
-##### [TerminaleS.pdf](/uploads/TerminaleS.pdf "TerminaleS.pdf")
-
 ### Les matières enseignées
 
 **Mathématiques**
