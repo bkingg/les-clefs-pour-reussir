@@ -58,7 +58,7 @@ ul.main-ul{
 .silder,
 .call_to_action,
 .breadcum,
-.features-list{
+.single-img img{
     border-bottom: 4px solid $color-secondary;
 }
 
@@ -72,6 +72,12 @@ ul.main-ul{
 
 h1, h2, h3, h4, h5{
     color: #38beef;
+}
+
+.rex-forms input,
+.rex-forms textarea,
+.rex-forms select{
+    background-color: #cbe6f0;
 }
 
 #contact-programme,
@@ -151,7 +157,7 @@ footer{
 }
 
 .course_detail{
-    padding-top: 60px;
+    padding-top: 0px;
 }
 
 .silder{

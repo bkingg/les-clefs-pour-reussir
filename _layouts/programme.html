@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>{{ page.title }}</h4>
+                        <h1>{{ page.title }}</h1>
                         <div class="pages">
                             <a href="/index.html">Accueil</a> 
                             <span>&#47;</span>
@@ -22,6 +22,11 @@
                 </div>
             </div>
         </section>
+
+        <!-- Single courses img section -->
+        <div class="single-img">
+            <img class="img-responsive" src="{% if page.image %}{{ page.image }}{% else %}/uploads/programme.png{% endif %}" alt="{{ page.title | escape }}">
+        </div><!-- end -->
         
         <!-- course_detail -->
         
@@ -29,15 +34,6 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <!-- title section -->
-                        <div class="sidebar-title-section">
-                            <h2>{{ page.title }}</h2>
-                        </div><!-- end -->
-        
-                        <!-- Single courses img section -->
-                        <div class="single-img">
-                            <img class="img-responsive" src="{% if page.image %}{{ page.image }}{% else %}/uploads/programme.png{% endif %}" alt="{{ page.title | escape }}">
-                        </div><!-- end -->
         
                         <!-- description section -->
                         <div class="description">
