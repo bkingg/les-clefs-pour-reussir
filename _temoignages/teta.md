@@ -5,4 +5,5 @@ description: Elève du collège Stanislas
 auteur: T. Kabanda
 image: "/uploads/teta.jpg"
 ---
-J'ai commencé à suivre des cours de mathématique en 3e parce que j'avais des lacunes qui me suivait. Ce qui m'a frappé, c'est qu'il arrive à expliquer  tous les chapitres très simplement. On a juste l'essentiel et ensuite en faisant les exercices, il nous montre les astuces, les méthodes les plus rapides et il nous explique comment on doit faire pour avoir de bonnes notes.
+J'ai commencé à prendre des cours de mathématiques en 3e et je suis maintenant en terminale parce que j'avais des lacunes qui me suivaient.  La méthode unique d’apprentissage et leurs devoirs de préparation aux examens assez long m'ont fait  énormément progresser. Je le vois dans mes résultats de tous les jours.  
+ Objectif 18 en maths au bac !
