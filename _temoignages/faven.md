@@ -5,3 +5,4 @@ image: "/uploads/faven_2.jpg"
 auteur: F.Mersha
 description: Elève du collège Stanislas
 ---
+Les cours sont très efficaces et aident à mieux comprendre les leçons. On peut de plus s'améliorer sur nos points faibles et mieux réussir!
