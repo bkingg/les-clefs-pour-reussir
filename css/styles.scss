@@ -2,7 +2,8 @@
 ---
 @charset "UTF-8";
 
-$color-brand:  #00b3ee;
+$color-brand:  #38beef;
+$color-secondary:  #f89938;
 $color-brand-light: lighten($color-brand, 10%);
 $color-purple:  #673ab7; 
 $color-green: #4caf50;
@@ -38,8 +39,39 @@ ul.main-ul{
     }
 }
 
-.main-menu ul.main-ul{
-    padding-left: 0;
+
+.main-menu{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#094458+0,ffffff+100 */
+    background: rgb(9,68,88); /* Old browsers */
+    background: -moz-linear-gradient(left, rgba(9,68,88,1) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(9,68,88,1) 0%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(9,68,88,1) 0%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: "progid:DXImageTransform.Microsoft.gradient( startColorstr='#094458', endColorstr='#ffffff',GradientType=1)"; /* IE6-9 */
+    ul.main-ul{
+        padding-left: 0;
+        a{
+            color: rgba(9,68,88,1);
+        }
+    }
+}
+
+.silder,
+.call_to_action,
+.breadcum,
+.features-list{
+    border-bottom: 4px solid $color-secondary;
+}
+
+.breadcum {
+    padding-bottom: 20px;
+    padding-top: 80px;
+    h4, .pages{
+        text-align: left;
+    }
+}
+
+h1, h2, h3, h4, h5{
+    color: #38beef;
 }
 
 #contact-programme,
@@ -260,7 +292,15 @@ footer{
     min-height: 400px;
 }
 
+.features-icon i{
+    color: $color-brand;
+}
+
 .rex-btn-icon{
+    background-color: $color-secondary;
+    .rex-btn-text-icon{
+        border-left: 1px solid lighten($color-secondary, 10%);
+    }
     &.green{
         background-color: $color-green;
         .rex-btn-text-icon{
@@ -315,6 +355,14 @@ footer{
         height: 100%;
         img{
             max-height: 80px;
+        }
+    }
+
+    .breadcum {
+        padding-bottom: 20px;
+        padding-top: 100px;
+        h4, .pages{
+            text-align: center;
         }
     }
     footer .footer-section{
