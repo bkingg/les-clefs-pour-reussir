@@ -381,7 +381,7 @@
     }
   
     $.ajax({
-      url: 'https:' + '//formspree.io/' + 'cle7dor23' + '@' + 'gmail' + '.' + 'com', 
+      url: 'https:' + '//formspree.io/' + 'cle7dor23' + '@' + 'hotmail' + '.' + 'com', 
       method: 'POST',
       data: $(form).serialize(),
       dataType: 'json',
