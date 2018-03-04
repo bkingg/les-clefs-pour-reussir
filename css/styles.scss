@@ -64,7 +64,11 @@ ul.main-ul{
 
 .breadcum {
     padding-bottom: 20px;
-    padding-top: 80px;
+    padding-top: 100px;
+    height: 350px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
     h4, .pages{
         text-align: left;
     }
@@ -72,6 +76,7 @@ ul.main-ul{
 
 h1, h2, h3, h4, h5{
     color: #38beef;
+    font-family: 'Roboto', sans-serif;
 }
 
 .rex-forms input,
@@ -153,6 +158,13 @@ footer{
     z-index: 1;
     .about-content{
         padding: 4% 2%;
+    }
+}
+
+.out_mission span {
+    color: $color-secondary;
+    .content-list li:before {
+        color: $color-secondary;
     }
 }
 
