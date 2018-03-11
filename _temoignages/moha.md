@@ -1,7 +1,7 @@
 ---
 title: moha
 date: 2017-12-06 17:11:46 +0000
-image: "/uploads/IMG_0161.JPG"
+image: "/uploads/IMG_0161-1.JPG"
 description: Elève du collège Stanislas
 auteur: M.Lounis
 ---
