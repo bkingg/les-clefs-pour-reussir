@@ -2,7 +2,7 @@
 title: Objectif mention bac et cote R d’excellence
 layout: programme
 date: 2017-12-03 00:00:00 +0000
-image: "/uploads/slide-3.jpg"
+image: "/uploads/1.jpg"
 ---
 ### Objectif mention bac et cote R d'excellence en petits groupes de même niveau (places limitées)
 
