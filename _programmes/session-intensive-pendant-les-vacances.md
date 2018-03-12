@@ -2,7 +2,7 @@
 title: Sessions intensives pendant les vacances
 layout: programme
 date: 2017-12-01 00:00:00 +0000
-image: "/uploads/about-us.jpg"
+image: "/uploads/caro_7.jpg"
 ---
 ### Nos sessions intensives pour les lycées ou collèges français
 
