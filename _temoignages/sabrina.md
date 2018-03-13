@@ -5,3 +5,4 @@ image: "/uploads/S_lounis_2.jpg"
 auteur: S.Lounis
 description: Elève du collège Stanislas
 ---
+Les cours de soutien chez les clefs de succès ont été bénéfique à mon année de première. Grâce à eux, j'ai pu améliorer mes notes, déjà satisfaisantes, et passer à un niveau supérieur. Ma cote R ne s'en porte que mieux, je vous le recommande fortement.
