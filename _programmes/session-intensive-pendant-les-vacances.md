@@ -1,16 +1,16 @@
 ---
-title: Sessions intensives pendant les vacances
+title: Sessions de révisions intensives pendant les vacances
 layout: programme
 date: 2017-12-01 00:00:00 +0000
 image: "/uploads/caro_8.jpg"
 ---
-### Nos sessions intensives pour les lycées ou collèges français
+### Nos sessions de révisions intensives pour les lycées ou collèges français
 
 Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs du succès se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
 
 ### Les objectifs
 
-* Réviser de manière efficace le programme 
+* Réviser de manière efficace le programme
 * Apprendre les méthodes de résolutions d'exercices types
 * Apprendre à préparer des examens
 * Gagner en autonomie
