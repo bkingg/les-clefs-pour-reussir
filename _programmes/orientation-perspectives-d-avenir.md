@@ -6,7 +6,7 @@ layout: programme
 ---
 ### Notre programme Orientation-perspectives d'avenir
 
-Ayant une expérience de tutorat de plus de 13 années, Les clefs du succès possèdent un réseau d'anciens étudiants très varié. Ainsi ce programme a pour but d'orienter les nouveaux étudiants en leur faisant rencontrer d'anciens étudiants qui étudient ou travaillent dans les domaines qui les intéressent. De cette façon certains stages pourront être envisagés ou des journées découvertes.
+Ayant une expérience de tutorat de plus de 13 années, Les clefs pour réussir possèdent un réseau d'anciens étudiants très varié. Ainsi ce programme a pour but d'orienter les nouveaux étudiants en leur faisant rencontrer d'anciens étudiants qui étudient ou travaillent dans les domaines qui les intéressent. De cette façon certains stages pourront être envisagés ou des journées découvertes.
 
 ### Objectifs
 
