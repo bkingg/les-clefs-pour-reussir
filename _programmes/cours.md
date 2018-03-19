@@ -8,7 +8,7 @@ image: "/uploads/IMG_3235.jpg"
 
 Afin de maximiser les résultats de votre enfant, il est essentiel de faire un travail de fond tout au long de l'année.
 
-Les cours hebdomadaires chez Les clefs du succès se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer.
+Les cours hebdomadaires chez Les clefs pour réussir se base sur un fondement: créer un environnement où chaque élève peut s'exprimer pleinement. Faire comprendre à l'élève qu'aucune question est stupide et qu'il faut en poser pour pouvoir avancer.
 
 ### Les avantages
 
