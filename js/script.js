@@ -385,7 +385,6 @@
       url: 'https:' + '//formspree.io/' + 'cle7dor23' + '@' + 'hotmail' + '.' + 'com', 
       method: 'POST',
       data: $(form).serialize(),
-      dataType: 'json',
       success: function(data){
         console.log('success', data);
         $(form).find('.status__failure').slideUp();
@@ -398,6 +397,13 @@
         $(form).find('.status__success').slideUp();
       }
     });
+  });
+
+  $(document).on('click', '.inscrivez-vous', function(e){
+    e.preventDefault();
+    $('html, body').animate({
+        scrollTop: $($.attr(this, 'href')).offset().top - 60
+    }, 700);
   });
 
 

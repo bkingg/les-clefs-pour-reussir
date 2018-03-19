@@ -4,8 +4,34 @@ handle: accueil
 image-apprentissage: "/uploads/caro_8.jpg"
 image-parallax-1: "/uploads/caro_1.jpg"
 image-parallax-2: "/uploads/fille.jpg"
+image-fiches: "/uploads/fiches.png"
 ---
 {% include slider.html %}
+
+<!-- Fiches Html 
+====================-->
+<section class="fiches">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="fiches-images-wrapper">
+          <div class="fiches-images">
+            <img src="{{ page.image-fiches }}" alt="Fiches" class="img-responsive">
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="fiches-text-wrapper">
+          <div class="fiches-text">
+            <h2>Lorem ipsum dolor, sit amet</h2>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui nihil alias commodi sed, laboriosam excepturi aut maxime. At culpa, rerum debitis eligendi voluptatem labore, minus saepe quae ipsam dolor rem?</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- Features Html 
 ====================-->

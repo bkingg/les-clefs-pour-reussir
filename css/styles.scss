@@ -123,6 +123,7 @@ h1, h2, h3, h4, h5{
     }
 }
 
+
 footer{
     background: $color-brand;
     h3{
@@ -144,6 +145,9 @@ footer{
     .footer-description, .footer-section:first-child {
         margin-top: 20px;
         padding-top: 0;
+        p{
+            text-align: justify !important;
+        }
     }
     .usefull-link{
         > li > a:hover{
@@ -306,8 +310,39 @@ footer{
     }
 }
 
+.fiches{
+    .row > div{
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .fiches-images-wrapper,
+    .fiches-text-wrapper{
+        height: 100%;
+        display: table;
+        width: 100%;
+        .fiches-images,
+        .fiches-text{
+            display: table-cell;
+            vertical-align: middle;
+            height: 100%;
+            p{
+                text-align: justify;
+            }
+            img{
+                margin: 0 auto;
+                max-width: 100%;
+                height: auto;
+                max-height: 100%;
+            }
+        }
+    }
+}
+
 .features-list{
     min-height: 400px;
+    p{
+        text-align: justify;
+    }
 }
 
 .features-icon i{
