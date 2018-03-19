@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Les Clefs du Succès
-email: your-email@domain.com
-description: "Les Clefs du succès offre un service de soutien scolaire en Mathématiques, Physique-chimie, Français et complément Québécois  spécialisé pour les étudiants scolarisés dans les établissements du système français à Montréal : à savoir le collège Stanislas et le Collège International Marie de France."
+title: Les Clefs pour Réussir
+email: cle7dor23@hotmail.com
+description: "Les Clefs pour réussir offre un service de soutien scolaire en Mathématiques, Physique-chimie, Français et complément Québécois  spécialisé pour les étudiants scolarisés dans les établissements du système français à Montréal : à savoir le collège Stanislas et le Collège International Marie de France."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
