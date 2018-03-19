@@ -120,6 +120,7 @@
       paginationSpeed : 1600,
       rewindSpeed : 1500,
       navigation: true,
+      autoPlay: true,
       navigationText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
     });
 
@@ -337,7 +338,7 @@
     $(this).parent().toggleClass('open');
   });
 
-  $(document).on('submit', '#contact-programme, #contact', function(){
+  $(document).on('submit', '#contact-programme, #contact', function(event){
     event.preventDefault();
   
     var errors = false;

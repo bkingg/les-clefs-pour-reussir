@@ -13,10 +13,10 @@
                 <div class="menu-container">
                     <div class="menu">
                         <ul class="main-ul">
-                            <li><a class="{% if page.handle == 'accueil' %}active{% endif %}" href="/index.html">Accueil</a></li>
-                            <li><a class="{% if page.handle == 'a-propos' %}active{% endif %}" href="/a-propos.html">À propos</a>
-                            <li><a class="{% if page.handle contains 'programmes' %}active{% endif %}" href="/programmes.html">Programmes</a></li>
-                            <li><a class="{% if page.handle == 'contact' %}active{% endif %}" href="/contact.html">Contact</a>
+                            {% for link in site.data.menus.menu-principal.links %}
+                                {% assign link_handle = link.title | slugify %}
+                                <li><a class="{% if page.handle == link_handle %} {{ link_handle }} active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
+                            {% endfor %}
                         </ul>
                     </div>
                 </div>
