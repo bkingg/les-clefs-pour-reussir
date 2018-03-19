@@ -6,7 +6,7 @@ image: "/uploads/caro_8.jpg"
 ---
 ### Nos sessions de révisions intensives pour les lycées ou collèges français
 
-Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs du succès se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
+Idéal pour la préparation du brevet, du baccalauréat ou pour une révision de pré-rentrée afin de débuter l'année sur de bonnes bases, les stages intensifs chez Les clefs pour réussir se répartissent par niveaux et ont pour but de revoir toutes les méthodes et résolutions des exercices classiques de chaque matière pendant les vacances ou les quelques jours de révision juste avant les examens.
 
 ### Les objectifs
 
