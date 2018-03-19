@@ -16,16 +16,16 @@ image-fiches: "/uploads/fiches.png"
       <div class="col-sm-6">
         <div class="fiches-images-wrapper">
           <div class="fiches-images">
-            <img src="{{ page.image-fiches }}" alt="Fiches" class="img-responsive">
+            <img src="%7B%7B%20page.image-fiches%20%7D%7D" alt="Fiches" class="img-responsive">
           </div>
         </div>
       </div>
       <div class="col-sm-6">
         <div class="fiches-text-wrapper">
           <div class="fiches-text">
-            <h2>Lorem ipsum dolor, sit amet</h2>
+            <h2>Les fiches méthodes du cours  en points clés</h2>
             <br>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui nihil alias commodi sed, laboriosam excepturi aut maxime. At culpa, rerum debitis eligendi voluptatem labore, minus saepe quae ipsam dolor rem?</p>
+            <p>Des résumés en quelques points clés (<b>maximum 7</b>) de <b>chaque chapitre</b> sont donnés aux étudiants pour faciliter leur compréhension de la matière vue en classe. <br>Un corpus de<b> 50 exercices par chapitre</b> est aussi utilisé comme exemple de référence pour permettre aux étudiants de reprendre <b>confiance</b> en eux</p>
           </div>
         </div>
       </div>
@@ -107,10 +107,10 @@ image-fiches: "/uploads/fiches.png"
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 col-lg-6">
-        <img class="img-responsive" src="{{ page.image-apprentissage }}" alt="">
+        <img class="img-responsive" src="%7B%7B%20page.image-apprentissage%20%7D%7D" alt="">
       </div>
       <div class="col-md-12 col-lg-6 about-content">
-        <h2>L’apprentissage chez les clefs du succès</h2>
+        <h2>L’apprentissage chez les clefs pour réussir</h2>
 
         <br>
         <!-- About list -->
@@ -221,7 +221,7 @@ image-fiches: "/uploads/fiches.png"
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7D%7D" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur }}</h5>
                   <span>{{ temoignage.description }}</span>
