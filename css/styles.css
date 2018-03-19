@@ -17844,6 +17844,8 @@ footer {
   footer .footer-description, footer .footer-section:first-child {
     margin-top: 20px;
     padding-top: 0; }
+    footer .footer-description p, footer .footer-section:first-child p {
+      text-align: justify !important; }
   footer .usefull-link > li > a:hover {
     color: white !important;
     text-decoration: underline !important; }
@@ -17959,8 +17961,39 @@ footer {
         padding-left: 20%;
         padding-right: 20%; }
 
+.fiches .row > div {
+  height: 300px;
+  margin-bottom: 20px; }
+.fiches .fiches-images-wrapper,
+.fiches .fiches-text-wrapper {
+  height: 100%;
+  display: table;
+  width: 100%; }
+  .fiches .fiches-images-wrapper .fiches-images,
+  .fiches .fiches-images-wrapper .fiches-text,
+  .fiches .fiches-text-wrapper .fiches-images,
+  .fiches .fiches-text-wrapper .fiches-text {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%; }
+    .fiches .fiches-images-wrapper .fiches-images p,
+    .fiches .fiches-images-wrapper .fiches-text p,
+    .fiches .fiches-text-wrapper .fiches-images p,
+    .fiches .fiches-text-wrapper .fiches-text p {
+      text-align: justify; }
+    .fiches .fiches-images-wrapper .fiches-images img,
+    .fiches .fiches-images-wrapper .fiches-text img,
+    .fiches .fiches-text-wrapper .fiches-images img,
+    .fiches .fiches-text-wrapper .fiches-text img {
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+      max-height: 100%; }
+
 .features-list {
   min-height: 400px; }
+  .features-list p {
+    text-align: justify; }
 
 .features-icon i {
   color: #38beef; }
