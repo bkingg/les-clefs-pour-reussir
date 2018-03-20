@@ -16,7 +16,7 @@ image-fiches: "/uploads/fiches.png"
       <div class="col-sm-6">
         <div class="fiches-images-wrapper">
           <div class="fiches-images">
-            <img src="%7B%7B%20page.image-fiches%20%7D%7D" alt="Fiches" class="img-responsive">
+            <img src="{{ page.image-fiches }}" alt="Fiches" class="img-responsive">
           </div>
         </div>
       </div>
@@ -107,7 +107,7 @@ image-fiches: "/uploads/fiches.png"
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 col-lg-6">
-        <img class="img-responsive" src="%7B%7B%20page.image-apprentissage%20%7D%7D" alt="">
+        <img class="img-responsive" src="{{ page.image-apprentissage }}" alt="">
       </div>
       <div class="col-md-12 col-lg-6 about-content">
         <h2>L’apprentissage chez les clefs pour réussir</h2>
@@ -165,7 +165,7 @@ image-fiches: "/uploads/fiches.png"
               <div class="col-md-12">
                 <div class="block-content">
                   <a class="courses-img" href="{{ programme.url }}" style="background-image: url({{ programme.image }});">
-                    <img src="%7B%7B%20programme.image%20%7D%7D" alt="{{ programme.title | escape }}">
+                    <img src="{{ programme.image }}" alt="{{ programme.title | escape }}">
                   </a>
                   <div class="content">
                     <a href="{{ programme.url }}"><h6>{{ programme.title }}</h6></a>
@@ -221,7 +221,7 @@ image-fiches: "/uploads/fiches.png"
                 <div class="media">
                   <div class="media-left testimonials-img col-md-4">
                   <a href="#">
-                    <img class="media-object testimonial-author" src="%7B%7B%20temoignage.image%20%7D%7D" alt="{{ temoignage.auteur }}">
+                    <img class="media-object testimonial-author" src="{{ temoignage.image }}" alt="{{ temoignage.auteur }}">
                   </a>
                   <h5>{{ temoignage.auteur }}</h5>
                   <span>{{ temoignage.description }}</span>
