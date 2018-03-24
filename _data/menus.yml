@@ -1,5 +1,5 @@
 ---
-menu-principal:
+menu_principal:
 - url: "/"
   weight: 0
   title: Accueil

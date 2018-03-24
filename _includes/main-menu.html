@@ -7,13 +7,13 @@
             <div class="col-md-12">
                 <div class="logo">
                     <a href="/index.html">
-                        <img class="img-responsive" src="/uploads/logo.png" alt="">
+                        <img class="img-responsive" src="{{ site.data.info.logo }}" alt="{{ site.title }}">
                     </a>
                 </div>
                 <div class="menu-container">
                     <div class="menu">
                         <ul class="main-ul">
-                            {% for link in site.data.menus.menu-principal.links %}
+                            {% for link in site.menus.menu_principal %}
                                 {% assign link_handle = link.title | slugify %}
                                 <li><a class="{% if page.handle == link_handle %} {{ link_handle }} active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
                             {% endfor %}
