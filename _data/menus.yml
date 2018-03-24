@@ -1,15 +1,5 @@
 ---
 menu-principal:
-- identifier: 
-  url: 
-  weight: -1
-  links:
-  - title: Accueil
-    url: "/"
-  - title: "À Propos"
-    url: "/a-propos"
-  - title: Programmes
-    url: "/programmes"
-  - title: Contact
-    url: "/contact"
-  title: Menu Principal
+- url: "/"
+  weight: 0
+  title: Accueil
