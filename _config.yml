@@ -38,7 +38,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-menus
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -13,7 +13,7 @@
                 <div class="menu-container">
                     <div class="menu">
                         <ul class="main-ul">
-                            {% for link in site.menus.menu-principal.links %}
+                            {% for link in site.data.menus.menu-principal.links %}
                                 {% assign link_handle = link.title | slugify %}
                                 <li><a class="{% if page.handle == link_handle %} {{ link_handle }} active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
                             {% endfor %}

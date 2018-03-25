@@ -165,10 +165,17 @@ footer{
     }
 }
 
-.out_mission span {
-    color: $color-secondary;
-    .content-list li:before {
+p,
+ul li{
+    text-align: justify;
+}
+
+.out_mission {
+    span {
         color: $color-secondary;
+        .content-list li:before {
+            color: $color-secondary;
+        }
     }
 }
 
@@ -410,14 +417,16 @@ footer{
         }
     }
     .menu-container{
-        z-index: 3;
+        left: 0;
+        margin: 0;
     }
     .logo{
         position: absolute;
         z-index: 1;
-        padding-left: 40px;
-        padding-right: 40px;
+        left: 50px;
+        right: 50px;
         height: 100%;
+        margin: 0 auto;
         img{
             max-height: 80px;
         }

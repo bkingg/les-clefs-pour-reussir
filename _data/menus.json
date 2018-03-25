@@ -1,5 +1,23 @@
 {
-    "menu-principal": {
-
-    }
+  "menu-principal": {
+    "title": "Menu Principal",
+    "links": [
+      {
+        "title": "Accueil",
+        "url": "/"
+      },
+      {
+        "title": "À Propos",
+        "url": "/a-propos"
+      },
+      {
+        "title": "Programmes",
+        "url": "/programmes"
+      },
+      {
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
+  }
 }
