@@ -385,17 +385,29 @@ footer{
 }
 
 @media only screen and (max-width: 959px) {
+    #products,
+    #popular_courses{
+        .content{
+            height: auto;
+        }
+    }
     .main-menu{
         position: fixed;
         width: 100%;
-        background: white;
         z-index: 1;
+        background: rgb(9,68,88); /* Old browsers */
         + *{
             padding-top: 80px;
+        }
+        a{
+            color: white !important;
         }
     }
     .menu-mobile {
         padding: 28px 15px;
+        &:after{
+            color: white;
+        }
     }
     .menu-container{
         z-index: 3;
@@ -414,6 +426,7 @@ footer{
     .breadcum {
         padding-bottom: 20px;
         padding-top: 100px;
+        height: auto;
         h4, .pages{
             text-align: center;
         }
