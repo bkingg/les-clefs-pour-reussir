@@ -18023,16 +18023,25 @@ footer {
   z-index: 1; }
 
 @media only screen and (max-width: 959px) {
+  #products .content,
+  #popular_courses .content {
+    height: auto; }
+
   .main-menu {
     position: fixed;
     width: 100%;
-    background: white;
-    z-index: 1; }
+    z-index: 1;
+    background: #094458;
+    /* Old browsers */ }
     .main-menu + * {
       padding-top: 80px; }
+    .main-menu a {
+      color: white !important; }
 
   .menu-mobile {
     padding: 28px 15px; }
+    .menu-mobile:after {
+      color: white; }
 
   .menu-container {
     z-index: 3; }
@@ -18048,7 +18057,8 @@ footer {
 
   .breadcum {
     padding-bottom: 20px;
-    padding-top: 100px; }
+    padding-top: 100px;
+    height: auto; }
     .breadcum h4, .breadcum .pages {
       text-align: center; }
 

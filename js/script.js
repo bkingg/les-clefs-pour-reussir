@@ -188,11 +188,6 @@
       $('#group-btn a').toggleClass('active');
     });
 
-  $('.counter').counterUp({
-    delay: 10,
-    time: 1000
-  });
-
   });// DOM Ready
 
 
@@ -238,15 +233,6 @@
     }
   });
 
-  var waypoints = $('#achievment').waypoint({
-    handler: function(down) {
-      // start all the timers
-      $('.timer').each(count);
-      this.destroy();
-    },
-    offset: 600
-  });
-
 
   $('.slideshow').slick({
     // fade: true,
@@ -283,13 +269,6 @@
         zIndex: 2147483647           // Z-Index for the overlay
     });
   }
-
-  var slider = $('.mis-stage').miSlider({
-      slidesOnStage: false,
-      slidePosition: 'center',
-      slideScaling: 150,
-      pause: 40000000000
-  });
 
 
 
