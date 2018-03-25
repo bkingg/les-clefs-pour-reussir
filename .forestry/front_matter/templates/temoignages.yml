@@ -1,14 +1,14 @@
 ---
 pages:
-- _temoignages/moha.md
-- _temoignages/sabrina.md
-- _temoignages/pape.md
-- _temoignages/aida.md
-- _temoignages/teta.md
-- _temoignages/rhita.md
-- _temoignages/toufic.md
-- _temoignages/faven.md
 - _temoignages/saron.md
+- _temoignages/faven.md
+- _temoignages/toufic.md
+- _temoignages/rhita.md
+- _temoignages/teta.md
+- _temoignages/aida.md
+- _temoignages/pape.md
+- _temoignages/sabrina.md
+- _temoignages/moha.md
 hide_body: false
 fields:
 - type: text
