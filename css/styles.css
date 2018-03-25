@@ -17856,6 +17856,10 @@ footer {
   .About_Us .about-content {
     padding: 4% 2%; }
 
+p,
+ul li {
+  text-align: justify; }
+
 .out_mission span {
   color: #f89938; }
   .out_mission span .content-list li:before {
@@ -18044,14 +18048,16 @@ footer {
       color: white; }
 
   .menu-container {
-    z-index: 3; }
+    left: 0;
+    margin: 0; }
 
   .logo {
     position: absolute;
     z-index: 1;
-    padding-left: 40px;
-    padding-right: 40px;
-    height: 100%; }
+    left: 50px;
+    right: 50px;
+    height: 100%;
+    margin: 0 auto; }
     .logo img {
       max-height: 80px; }
 
