@@ -5,6 +5,10 @@ image-apprentissage: "/uploads/caro_8.jpg"
 image-parallax-1: "/uploads/caro_1.jpg"
 image-parallax-2: "/uploads/fille.jpg"
 image-fiches: "/uploads/fiches.png"
+menu:
+  menu-principal:
+    weight: 1
+    title: Accueil
 ---
 {% include slider.html %}
 
@@ -84,7 +88,7 @@ image-fiches: "/uploads/fiches.png"
 
 <!-- Call To Action html 
 ====================-->
-<section class="call_to_action parallax" style"background-image: url({{ page.image-parallax-1 | escape }});">
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-1 }}">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -186,7 +190,7 @@ image-fiches: "/uploads/fiches.png"
 
 <!-- Call To Action html 
 ====================-->
-<section class="call_to_action parallax" style"background-image: url({{ page.image-parallax-2 }});">
+<section class="call_to_action" data-parallax="scroll" data-image-src="{{ page.image-parallax-2 }}">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
