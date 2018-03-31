@@ -1,3 +1,6 @@
+---
+---
+
 // IIFE with jQuery Wrapper
 (function($) {
   'use strict';
@@ -317,72 +320,66 @@
     $(this).parent().toggleClass('open');
   });
 
-  $(document).on('submit', '#contact-programme, #contact', function(event){
-    event.preventDefault();
-  
-    var errors = false;
-  
-    var form = this;
-  
-    $(form).find('.status__failure').slideUp();
-    $(form).find('.status__success').slideUp();
-  
-    // Clear out errors
-    var errField = 'input.error, select.error, textarea.error';
-    var msgField = 'p.error';
-    var errClass = 'error';
-    $(errField, form).removeClass(errClass);
-  
-    if ( !form.nom.value ) {
-      $(form.nom).addClass(errClass)
-        .siblings(msgField).slideDown();
-      errors = true;
-    } else {
-      $(this.nom).siblings(msgField).slideUp();
-    }
+  $(document).on('submit', '.formspree-form', function(event){
+      event.preventDefault();
     
-    if ( /[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}/.test(form.email.value) == false ) {
-      $(form.email).addClass(errClass).siblings(msgField).slideDown();
-      errors = true;
-    } else {
-      $(form.email).siblings(msgField).slideUp();
-    }
+      var errors = false;
+    
+      var form = this;
+    
+      $(form).find('.status__failure').slideUp();
+      $(form).find('.status__success').slideUp();
+    
+      // Clear out errors
+      var errField = 'input.error, select.error, textarea.error';
+      var msgField = 'p.error';
+      var errClass = 'error';
+      $(errField, form).removeClass(errClass);
 
-    if ( !form.message.value ) {
-      $(form.message).addClass(errClass)
-        .siblings(msgField).slideDown();
-      errors = true;
-    } else {
-      $(this.message).siblings(msgField).slideUp();
-    }
-  
-    if (errors) {
-      return false;
-    }
-  
-    $.ajax({
-      url: 'https:' + '//formspree.io/' + 'info' + '@' + 'lesclefspourreussir' + '.' + 'com', 
-      method: 'POST',
-      data: $(form).serialize(),
-      dataType: 'json',
-      success: function(data){
-        console.log('success', data);
-        $(form).find('.status__failure').slideUp();
-        $(form).find('.status__success').slideDown();
-        $(form)[0].reset();
-
-        // Conversion Inscription
-        if($(form).attr('id') == 'contact-programme'){
-          // Event snippet for Inscription conversion page
-          gtag('event', 'inscription', {'send_to': 'AW-811137886/s9miCOigsX8Q3vbjggM'});
-        }
-      },
-      error: function(data){
-        console.log('error', data);
-        $(form).find('.status__failure').slideDown();
-        $(form).find('.status__success').slideUp();
+      $(form).find('input:required, select:required, textarea:required').each(function(){
+          if (!$(this).val()) {
+            $(this).addClass(errClass)
+              .siblings(msgField).slideDown();
+            errors = true;
+          } else {
+            $(this).siblings(msgField).slideUp();
+          }
+      });
+      
+      if ( /[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}/.test(form.email.value) == false ) {
+        $(form.email).addClass(errClass).siblings(msgField).slideDown();
+        errors = true;
+      } else {
+        $(form.email).siblings(msgField).slideUp();
       }
-    });
+    
+      if (errors) {
+        return false;
+      }
+    
+      $.ajax({
+        url: 'https:' + '//formspree.io/' + '{{ site.data.info.email | split: '@' | first }}' + '@' + '{{ site.data.info.email | split: '@' | last | split: '.' | first }}' + '.' + '{{ site.data.info.email | split: '@' | last | split: '.' | last }}', 
+        method: $(form).attr('method'),
+        data: $(form).serialize(),
+        dataType: 'json',
+        success: function(data){
+          console.log('success', data);
+          $(form).find('.status__failure').slideUp();
+          $(form).find('.status__success').slideDown();
+          $(form)[0].reset();
+
+          // Conversion Inscription
+          if($(form).attr('id') == 'contact-programme'){
+            // Event snippet for Inscription conversion page
+            gtag('event', 'inscription', {'send_to': 'AW-811137886/s9miCOigsX8Q3vbjggM'});
+          }
+        },
+        error: function(data){
+          console.log('error', data);
+          $(form).find('.status__failure').slideDown();
+          $(form).find('.status__success').slideUp();
+        }
+      });
   });
 
   $(document).on('click', '.inscrivez-vous', function(e){
