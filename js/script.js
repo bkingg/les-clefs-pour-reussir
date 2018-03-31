@@ -364,6 +364,7 @@
       url: 'https:' + '//formspree.io/' + 'info' + '@' + 'lesclefspourreussir' + '.' + 'com', 
       method: 'POST',
       data: $(form).serialize(),
+      dataType: 'json',
       success: function(data){
         console.log('success', data);
         $(form).find('.status__failure').slideUp();
