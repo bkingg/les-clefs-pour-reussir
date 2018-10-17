@@ -364,7 +364,7 @@
       if($(form).attr('id') == 'contact-programme'){
         // Event snippet for Inscription conversion page
         gtag('event', 'inscription', {'send_to': 'AW-811137886/s9miCOigsX8Q3vbjggM'});
-      }
+      } 
   });
 
   $(document).on('click', '.inscrivez-vous', function(e){
