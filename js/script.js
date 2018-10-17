@@ -356,30 +356,15 @@
       if (errors) {
         return false;
       }
-    
-      $.ajax({
-        url: 'https:' + '//formspree.io/' + '{{ site.data.info.email | split: '@' | first }}' + '@' + '{{ site.data.info.email | split: '@' | last | split: '.' | first }}' + '.' + '{{ site.data.info.email | split: '@' | last | split: '.' | last }}', 
-        method: $(form).attr('method'),
-        data: $(form).serialize(),
-        dataType: 'json',
-        success: function(data){
-          console.log('success', data);
-          $(form).find('.status__failure').slideUp();
-          $(form).find('.status__success').slideDown();
-          $(form)[0].reset();
 
-          // Conversion Inscription
-          if($(form).attr('id') == 'contact-programme'){
-            // Event snippet for Inscription conversion page
-            gtag('event', 'inscription', {'send_to': 'AW-811137886/s9miCOigsX8Q3vbjggM'});
-          }
-        },
-        error: function(data){
-          console.log('error', data);
-          $(form).find('.status__failure').slideDown();
-          $(form).find('.status__success').slideUp();
-        }
-      });
+      $(form).attr('action', 'https:' + '//formspree.io/' + '{{ site.data.info.email | split: '@' | first }}' + '@' + '{{ site.data.info.email | split: '@' | last | split: '.' | first }}' + '.' + '{{ site.data.info.email | split: '@' | last | split: '.' | last }}');
+      $(form)[0].submit();
+
+      // Conversion Inscription
+      if($(form).attr('id') == 'contact-programme'){
+        // Event snippet for Inscription conversion page
+        gtag('event', 'inscription', {'send_to': 'AW-811137886/s9miCOigsX8Q3vbjggM'});
+      }
   });
 
   $(document).on('click', '.inscrivez-vous', function(e){
