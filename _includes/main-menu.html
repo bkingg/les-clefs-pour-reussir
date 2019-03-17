@@ -2,25 +2,20 @@
 <!-- Navigation Html
 =================== -->
 <div class="main-menu">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="logo">
-                    <a href="/index.html">
-                        <img class="img-responsive" src="{{ site.data.info.logo }}" alt="{{ site.title }}">
-                    </a>
-                </div>
-                <div class="menu-container">
-                    <div class="menu">
-                        <ul class="main-ul">
-                            {% for link in site.data.menus.menu-principal.links %}
-                                {% assign link_handle = link.title | slugify %}
-                                <li><a class="{% if page.handle == link_handle %} {{ link_handle }} active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
+    <div class="main-menu-wrapper container">
+        <button type="button" class="menu-mobile">Menu</button>
+        <div class="main-menu__logo">
+            <a href="/index.html">
+                <img class="img-responsive" src="{{ site.data.info.logo }}" alt="{{ site.title }}">
+            </a>
+        </div>
+        <div class="main-menu__nav">
+            <ul class="main-ul">
+                {% for link in site.data.menus.menu-principal.links %}
+                    {% assign link_handle = link.title | slugify %}
+                    <li><a class="{% if page.handle == link_handle %} {{ link_handle }} active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
+                {% endfor %}
+            </ul>
         </div>
     </div>
 </div>
