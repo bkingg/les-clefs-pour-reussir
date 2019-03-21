@@ -1,0 +1,19 @@
+---
+label: A Propos
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: handle
+  label: handle
+- type: file
+  name: banniere
+  label: banniere
+- type: file
+  name: image
+  label: image
