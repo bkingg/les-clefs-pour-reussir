@@ -24,6 +24,11 @@ $white: #FFFFFF;
 
 
 .main-menu {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transform: translate(0, 0, 0);
+    z-index: 11;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#094458+0,ffffff+100 */
     background: rgb(9,68,88); /* Old browsers */
     background: -moz-linear-gradient(left, rgba(9,68,88,1) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
@@ -463,7 +468,6 @@ ul li{
     .main-menu{
         position: fixed;
         width: 100%;
-        z-index: 1;
         background: rgb(9,68,88); /* Old browsers */
         + *{
             padding-top: 80px;
