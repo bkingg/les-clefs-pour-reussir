@@ -3533,7 +3533,14 @@ div.loading .wrapper {
     float: right; }
   /*=======
 			Contact page		
-		=========*/
+    =========*/
+  .contact-us label {
+    display: block;
+    text-align: left;
+  }
+  .contact-us .form-check label {
+    display: inline-block;
+  }
   .contact-us .contact-from {
     padding-top: 50px; }
   .rex-map {

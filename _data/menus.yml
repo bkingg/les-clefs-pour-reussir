@@ -10,6 +10,8 @@ menu-principal:
     url: "/a-propos"
   - title: Programmes
     url: "/programmes"
+  - title: Devenir Tuteur
+    url: "/devenir-tuteur"
   - title: Contact
     url: "/contact"
   title: Menu Principal
