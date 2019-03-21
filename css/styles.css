@@ -15242,6 +15242,13 @@ aside.coures-reat {
   border-bottom: 0;
   margin: 0; }
 
+.contact-us label {
+  display: block;
+  text-align: left; }
+
+.contact-us .form-check label {
+  display: inline-block; }
+
 .contact-us .title-section h3 {
   margin: 0;
   padding-top: 0; }
