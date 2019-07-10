@@ -198,7 +198,7 @@
    */
   if ( $('#googleMap').length ) {
     var geocoder = new google.maps.Geocoder();
-    var address = '6767 Chemin de la Côte-des-Neiges, Montréal (QC), H3S 2T6, Canada';
+    var address = "4950 Chemin Queen Mary #333, Montréal QC, H3W 1X2, Canada";
     var map = new google.maps.Map(document.getElementById('googleMap'), {
       zoom: 15,
       scrollwheel: false,
