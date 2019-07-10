@@ -201,7 +201,7 @@
    */
   if ( $('#googleMap').length ) {
     var geocoder = new google.maps.Geocoder();
-    var address = '6767 Chemin de la Côte-des-Neiges, Montréal (QC), H3S 2T6, Canada';
+    var address = "{{ site.data.info.adresse.adresse }}, {{ site.data.info.adresse.ville }} {{ site.data.info.adresse.province }}, {{ site.data.info.adresse.code_postal }}, {{ site.data.info.adresse.pays }}";
     var map = new google.maps.Map(document.getElementById('googleMap'), {
       zoom: 15,
       scrollwheel: false,
