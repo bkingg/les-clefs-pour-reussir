@@ -12,12 +12,12 @@ fields:
   name: image
   label: image
 pages:
-- _temoignages/pape.md
-- _temoignages/toufic.md
 - _temoignages/aida.md
 - _temoignages/faven.md
-- _temoignages/saron.md
 - _temoignages/teta.md
-- _temoignages/rhita.md
 - _temoignages/sabrina.md
+- _temoignages/pape.md
+- _temoignages/toufic.md
+- _temoignages/saron.md
+- _temoignages/rhita.md
 - _temoignages/moha.md
