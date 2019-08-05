@@ -39,6 +39,16 @@ banniere: "/uploads/banniere_3.jpg"
               <a href="mailto:{{ site.data.info.email }}">{{ site.data.info.email }}</a></div><div class="addres-content address-phone"><br>
             </div>
           </div>
+          {%- if site.data.info.tel != '' -%}
+            <div class="addres">
+              <div class="addres-icon">
+                <i class="fa fa-phone"></i>
+              </div>
+              <div class="addres-content address-phone">
+                <a href="mailto:{{ site.data.info.tel }}">{{ site.data.info.tel }}</a></div><div class="addres-content address-phone"><br>
+              </div>
+            </div>
+          {%- endif -%}
           <div class="addres">
             <div class="addres-icon">
               <i class="fa fa-home"></i>

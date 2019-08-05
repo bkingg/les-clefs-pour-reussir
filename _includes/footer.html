@@ -23,12 +23,14 @@
 							<p>{{ site.data.info.adresse.adresse }}, {{ site.data.info.adresse.ville }} ({{ site.data.info.adresse.province }}), <br>
 								{{ site.data.info.adresse.code_postal }}, {{ site.data.info.adresse.pays }}</p>
 						</div>
-						<!-- <div class="phone">
-							<h6>Tel</h6>
-							<div class="phone-number">
-								<a href="tel:0015145186101 ">+1 (514) 518 6101 </a><br>
+						{%- if site.data.info.tel != '' -%}
+							<div class="phone">
+								<h6>Tel</h6>
+								<div class="phone-number">
+									<a href="tel:{{ site.data.info.tel }}">{{ site.data.info.tel }}</a><br>
+								</div>
 							</div>
-						</div> -->
+						{%- endif -%}
 					</div>
 				</div>
 				<div class="col-md-3 footer-section">
