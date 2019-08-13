@@ -15,6 +15,7 @@ fields:
   name: banniere
   label: banniere
 pages:
+- _posts/la-gestion-du-stress-chez-l-étudiant.html
 - _posts/les-conséquences-réelles-de-l-accumulation-des-lacunes-durant-la-scolarité.html
 - _posts/soutien-scolaire-et-cours-particulier-pour-les-lycées-ou-collège-français-de-montréal.html
 - _posts/les-lycées-de-français-de-montréal.html
