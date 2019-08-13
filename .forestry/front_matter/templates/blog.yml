@@ -15,4 +15,5 @@ fields:
   name: banniere
   label: banniere
 pages:
+- _posts/les-lycées-de-français-de-montréal.html
 - blog.html
