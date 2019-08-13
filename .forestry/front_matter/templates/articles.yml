@@ -15,6 +15,7 @@ fields:
   name: image
   label: image
 pages:
+- _posts/la-nouvelle-réforme-du-baccalauréat.html
 - _posts/soutien-scolaire-et-cours-particulier-pour-les-lycées-ou-collèges-français-de-montréal.html
 - _posts/les-troubles-du-déficit-de-l-attention-et-les-solutions-1.html
 - _posts/les-lycées-et-collèges-français-de-montréal.html
