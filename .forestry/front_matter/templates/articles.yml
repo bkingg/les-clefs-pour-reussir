@@ -15,6 +15,7 @@ fields:
   name: image
   label: image
 pages:
+- _posts/les-troubles-du-déficit-de-l-attention-et-les-solutions-1.html
 - _posts/les-lycées-et-collèges-français-de-montréal.html
 - _posts/les-conséquences-réelles-de-l-accumulation-des-lacunes-durant-la-scolarité-1.html
 - _posts/la-gestion-du-stress-chez-l-étudiant-1.html
