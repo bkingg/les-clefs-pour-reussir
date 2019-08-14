@@ -19,6 +19,7 @@ fields:
   config: {}
   label: image
 pages:
+- _posts/la-gestion-du-stress-chez-l-étudiant.html
 - _posts/la-nouvelle-réforme-du-baccalauréat.html
 - _posts/les-lycées-et-collèges-français-de-montréal.html
 - _posts/soutien-scolaire-et-cours-particulier-pour-les-lycées-ou-collèges-français-de-montréal.html
