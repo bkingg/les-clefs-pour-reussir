@@ -17266,7 +17266,12 @@ div.loading .wrapper {
     =========*/
   .contact-us label {
     display: block;
-    text-align: left; }
+    text-align: left;
+    cursor: pointer; }
+
+  .contact-us .form-check input {
+    margin-right: 10px;
+    height: auto !important; }
 
   .contact-us .form-check label {
     display: inline-block; }
