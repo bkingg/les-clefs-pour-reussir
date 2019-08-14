@@ -5,8 +5,10 @@ admin_path: "/admin"
 webhook_url: ''
 sections:
 - type: jekyll-posts
-  label: Posts
+  label: Articles
   create: all
+  templates:
+  - articles
 - type: directory
   path: _programmes
   label: Programmes
@@ -17,11 +19,15 @@ sections:
   label: Slides
   create: all
   match: "**/*"
+  templates:
+  - slide
 - type: directory
   path: _temoignages
   label: Temoignages
   create: all
   match: "**/*"
+  templates:
+  - temoignages
 - type: jekyll-pages
   label: Pages
   create: all
