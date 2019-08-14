@@ -6,7 +6,7 @@ webhook_url: ''
 sections:
 - type: jekyll-posts
   label: Articles
-  create: all
+  create: documents
   templates:
   - articles
 - type: directory
