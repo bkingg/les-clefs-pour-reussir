@@ -1,7 +1,47 @@
 ---
 title: Blog
-layout: programmes
+layout: default
 handle: blog
 banniere: "/uploads/slide-1.jpg"
 
 ---
+
+{% include breadcrumbs.html %}
+
+
+<!-- courses_page -->
+
+<section class="courses_page">
+	<div class="container">
+			
+		<div id="articles" class="row list-group">
+			{% for post in site.posts %}
+				<div class="item  col-sm-12 col-md-6 col-lg-4">
+					<div class="block-content">
+						
+						<a class="courses-img" href="{{ post.url }}" style="background-image: url('{% if post.image %}{{ post.image }}{% else %}/uploads/programme.png{% endif %}');">
+							<img src="{% if post.image %}{{ post.image }}{% else %}/uploads/programme.png{% endif %}" alt="{{ post.title | escape }}">
+						</a>
+						
+						<div class="content">
+							<a href="{{ post.url }}"><h6>{{ post.title }}</h6></a>
+							<p class="description">{{ post.content | strip_html | truncatewords: 20, '...' }}</p>
+						</div>
+					</div>
+				</div>
+			{% endfor %}	
+		</div>
+
+		<!-- end about list -->
+		{% comment %} <div class="col-md-12 courses_page_btn2">
+			<nav>
+				<ul class="pagination">
+					<li><a href="#" aria-label="Previous"><span aria-hidden="true"><i class="fa fa-angle-left"></i></span></a></li>
+					<li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+				</ul>
+			</nav>
+		</div> {% endcomment %}
+	</div>
+</section>
