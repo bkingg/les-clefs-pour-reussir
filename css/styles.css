@@ -17864,6 +17864,7 @@ h1, h2, h3, h4, h5 {
   width: auto; }
 
 #products .courses-img,
+#articles .courses-img,
 #popular_courses .courses-img {
   display: block;
   height: 200px;
@@ -17871,17 +17872,20 @@ h1, h2, h3, h4, h5 {
   background-repeat: no-repeat;
   background-size: cover; }
   #products .courses-img img,
+  #articles .courses-img img,
   #popular_courses .courses-img img {
     position: absolute;
     opacity: 0;
     visibility: hidden; }
   #products .courses-img:before,
+  #articles .courses-img:before,
   #popular_courses .courses-img:before {
     background: transparent; }
 #products .content,
+#articles .content,
 #popular_courses .content {
   padding: 6px 10px;
-  height: 56px;
+  height: 80px;
   line-height: 22px; }
 
 footer {
@@ -17902,6 +17906,8 @@ footer {
     padding-top: 0; }
     footer .footer-description p, footer .footer-section:first-child p {
       text-align: justify !important; }
+  footer .usefull-link > li {
+    display: block; }
   footer .usefull-link > li > a:hover {
     color: white !important;
     text-decoration: underline !important; }
@@ -17975,7 +17981,8 @@ ul li {
     .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__description,
     .slideshow .slide.slick-current .slide__text .slide__text--wrapper .slide__button {
       opacity: 1;
-      visibility: visible; }
+      visibility: visible;
+      transform: translateY(0px); }
   .slideshow .slide__text {
     display: table;
     height: 100%;
@@ -17989,12 +17996,13 @@ ul li {
         color: white;
         opacity: 0;
         visibility: hidden;
-        transition: visibility 2s; }
+        transition: all 2s;
+        transform: translateY(30px); }
         .slideshow .slide__text .slide__text--wrapper .slide__title .highlight-text {
           color: #38beef;
           opacity: 0;
           visibility: hidden;
-          transition: opacity 2s; }
+          transition: all 2s; }
         .slideshow .slide__text .slide__text--wrapper .slide__title.green .highlight-text {
           color: #4caf50; }
         .slideshow .slide__text .slide__text--wrapper .slide__title.red .highlight-text {
@@ -18009,7 +18017,8 @@ ul li {
         margin-bottom: 40px;
         opacity: 0;
         visibility: hidden;
-        transition: opacity 4s; }
+        transition: all 2s;
+        transform: translateY(30px); }
         .slideshow .slide__text .slide__text--wrapper .slide__description p {
           font-size: 24px;
           line-height: 34px;
@@ -18017,7 +18026,8 @@ ul li {
       .slideshow .slide__text .slide__text--wrapper .slide__button {
         opacity: 0;
         visibility: hidden;
-        transition: opacity 6s;
+        transform: translateY(30px);
+        transition: all 2s;
         padding-left: 20%;
         padding-right: 20%; }
 
@@ -18084,6 +18094,7 @@ ul li {
 
 @media only screen and (max-width: 959px) {
   #products .content,
+  #articles .content,
   #popular_courses .content {
     height: auto; }
 
