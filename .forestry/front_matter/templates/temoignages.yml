@@ -12,6 +12,7 @@ fields:
   name: image
   label: image
 pages:
+- _temoignages/Zemen.html
 - _temoignages/aida.md
 - _temoignages/toufic.md
 - _temoignages/pape.md
