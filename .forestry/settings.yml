@@ -1,12 +1,12 @@
 ---
-new_page_extension: html
+new_page_extension: md
 auto_deploy: true
 admin_path: "/admin"
 webhook_url: ''
 sections:
 - type: jekyll-posts
   label: Articles
-  create: all
+  create: documents
   templates:
   - articles
 - type: directory
