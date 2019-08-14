@@ -12,6 +12,7 @@ fields:
   name: image
   label: image
 pages:
+- _temoignages/CIMF.html
 - _temoignages/Stanislas.html
 - _temoignages/Aminata.html
 - _temoignages/Steven.html
