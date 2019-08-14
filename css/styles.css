@@ -18149,3 +18149,8 @@ ul li {
       padding: 0 15px; }
     .slideshow .slide__text .slide__text--wrapper .slide__button .rex-btn-text-icon {
       width: 30px; } }
+#article {
+  padding-top: 0; }
+  @media only screen and (max-width: 958px) {
+    #article {
+      padding-top: 30px; } }
