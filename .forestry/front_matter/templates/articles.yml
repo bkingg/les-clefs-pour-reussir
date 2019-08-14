@@ -18,10 +18,6 @@ fields:
 - type: file
   name: image
   label: image
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: image
 pages:
 - _posts/2019-08-14-les-lycées-et-collèges-français-de-montréal.html
 - _posts/2019-08-14-la-gestion-du-stress-chez-l-étudiant-1.html
