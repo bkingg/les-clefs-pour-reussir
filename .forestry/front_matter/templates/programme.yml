@@ -13,7 +13,7 @@ fields:
   hidden: false
   default: ''
 - type: datetime
-  default: Invalid date
+  default: now
   label: date
   name: date
   hidden: true
