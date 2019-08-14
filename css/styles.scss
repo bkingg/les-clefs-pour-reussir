@@ -542,7 +542,7 @@ ul li{
 #article {
     padding-top: 0;
 
-    @media only screen and (max-width: 958px) { 
+    @media only screen and (min-width: 959px) { 
         padding-top: 30px;
     }
 }
