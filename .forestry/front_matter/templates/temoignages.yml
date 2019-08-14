@@ -12,14 +12,12 @@ fields:
   name: image
   label: image
 pages:
-- _temoignages/Stanislas.html
-- _temoignages/CIMF.html
-- _temoignages/Abdou.html
-- _temoignages/CIMF-1.html
-- _temoignages/Steven.html
-- _temoignages/Stanislas-1.html
-- _temoignages/Aminata.html
-- _temoignages/Zemen.html
+- _temoignages/Stanislas.md
+- _temoignages/CIMF.md
+- _temoignages/Abdou.md
+- _temoignages/Steven.md
+- _temoignages/Aminata.md
+- _temoignages/Zemen.md
 - _temoignages/aida.md
 - _temoignages/toufic.md
 - _temoignages/pape.md
