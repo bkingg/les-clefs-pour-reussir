@@ -18,6 +18,11 @@ fields:
 - type: file
   name: image
   label: image
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: image
+  hidden: false
 pages:
 - _posts/2019-08-14-les-conséquences-réelles-de-l-accumulation-des-lacunes-durant-la-scolarité-1.md
 - _posts/2019-08-14-soutien-scolaire-et-cours-particulier-pour-les-lycées-ou-collèges-français-de-montréal.md
