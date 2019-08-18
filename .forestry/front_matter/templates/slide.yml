@@ -8,19 +8,19 @@ fields:
   description: 1000px x 400px
 - type: text
   name: titre
-  label: titre
+  label: Titre
 - type: textarea
   name: sous-titre
-  label: sous-titre
+  label: Sous-Titre
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: texte-boutton
-  label: texte-boutton
+  label: Texte Bouton
 - type: text
   name: lien-boutton
-  label: lien-boutton
+  label: URL Boutton
 pages:
 - _slides/Rentrée scolaire.md
 - _slides/decouvrez-les-clefs-du-succes.md
