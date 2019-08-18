@@ -11,6 +11,7 @@ fields:
 - type: file
   name: image
   label: image
+  description: 400px x 400px
 pages:
 - _temoignages/Aminata.md
 - _temoignages/Steven.md
