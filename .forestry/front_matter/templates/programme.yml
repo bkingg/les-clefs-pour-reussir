@@ -22,6 +22,7 @@ fields:
   type: file
   hidden: false
   default: ''
+  description: 1000px x 400px
 pages:
 - _programmes/tremplin-lycee-c.md
 - _programmes/programme-de-remise-a-n.md
