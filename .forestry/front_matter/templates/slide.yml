@@ -4,8 +4,8 @@ hide_body: true
 fields:
 - type: file
   name: image
-  label: image
-  description: Image arrière plan
+  label: Image Arrière Plan
+  description: 1000px x 400px
 - type: text
   name: titre
   label: titre
