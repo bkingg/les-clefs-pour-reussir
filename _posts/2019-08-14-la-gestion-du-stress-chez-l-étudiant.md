@@ -16,13 +16,13 @@ Selye est l’un des pionniers de la recherche sur le stress et a démontré son
 **_-Nouveauté_** : Quelque chose de nouveau que vous n’avez jamais expérimenté se produit.
 **_-Égo menacé_** : Vos compétences et votre égo sont mis à l’épreuve. On doute de vos capacités.
 
-D’autre part on distingue deux types de stress : le stress aigu et le stress chronique. Le premier résulte de situation imprévue et ponctuelle. Le stress aigu n’est nécessairement pas nuisible puisqu’il stimule la sécrétion d’hormones qui nous aident à gérer la situation, par exemple pour un étudiant c’est partir faire un exercice au tableau devant l’ensemble de la classe ou quelques heures avant le début d’un examen.
+D’autre part on distingue **deux types de stress** : **le stress aigu et le stress chronique**. Le premier résulte de situation imprévue et ponctuelle. Le stress aigu n’est nécessairement pas nuisible puisqu’il stimule la sécrétion d’hormones qui nous aident à gérer la situation, par exemple pour un étudiant c’est partir faire un exercice au tableau devant l’ensemble de la classe ou quelques heures avant le début d’un examen.
 Par contre le stress chronique découle d’une exposition prolongée et répétée et c’est cette exposition continue qui est nocif pour la santé de l’individu comme par exemple un élève qui subit un harcèlement quotidien de la part de ses camarades. Les chercheurs s’accordent sur le fait que notre système de réponse au stress n’est pas fait pour être activé constamment. Il peut causer à la longue un épuisement de l’organisme ainsi que d’autres impacts plus graves comme des maladies cardiaques, de la pression artérielle élevée, des taux de cholestérol élevés et de la dépression.
 
-Il y’a divers manières d’aborder le stress et le gérer mais tout d’abord il faut accepter quelques principes de base comme apprendre à vivre avec le stress parce qu’au final c’est impossible d’éliminer le stress de nos vies et les solutions pour gérer le stress ne sont ni faciles, ni universelles. Tout d’abord une situation est stressante qu’à partir du moment que vous l’interprétez comme étant stressante autrement dit sentir qu’on est en train de perdre le contrôle, que la situation est imprévisible ou nouvelle et que quelque chose menace notre égo. Étant donné que ce qui est nouveau pour un individu ne l’est pas forcement pour un autre, le stress est une expérience purement individuelle et personnelle.
+Il y’a **divers manières d’aborder le stress** et le gérer mais tout d’abord il faut accepter quelques principes de base comme apprendre à vivre avec le stress parce qu’au final c’est impossible d’éliminer le stress de nos vies et les solutions pour gérer le stress ne sont ni faciles, ni universelles. Tout d’abord une situation est stressante qu’à partir du moment que vous l’interprétez comme étant stressante autrement dit sentir qu’on est en train de perdre le contrôle, que la situation est imprévisible ou nouvelle et que quelque chose menace notre égo. Étant donné que ce qui est nouveau pour un individu ne l’est pas forcement pour un autre, le stress est une expérience purement individuelle et personnelle.
 Face à la réalité qu’on ne peut pas malheureusement pas supprimer purement le stress de nos vies , la seule solution et de s’adapter. L’adaptation est l’ensemble des pensées et comportement d’une personne par rapport à une situation menaçante afin d’éviter les effets négatifs. Étant donné nos différences concernant les raisons de nos stress chaque individu choisira sa propre stratégie d’adaptation. Il existe deux types d’adaptation possible :
 
-1. L’adaptation centrée sur les problèmes.
+1. **_L’adaptation centrée sur les problèmes._**
 
 Cette stratégie implique le changement actif de la situation qui est à la source du stress en se concentrant sur les problèmes :
 ·         Analyser la situation, par exemple faire attention, éviter de prendre trop de responsabilités lorsque vous en avez déjà plusieurs.
@@ -31,7 +31,7 @@ Cette stratégie implique le changement actif de la situation qui est à la sour
 ·         Parler à une personne qui peut avoir un impact direct sur votre situation (discuter avec le professeur qui dispense les cours de soutien scolaire afin qu’il vous oriente sur la manière de mieux aborder le chapitre ou l’examen qui causent le stress)
 Développer une autodiscipline et un contrôle de soi, par exemple étudier davantage en vue de votre préparation à l’examen final ou établissez-vous un horaire de révision.
 
-1. L’adaptation centrée sur les émotions.
+2. **_L’adaptation centrée sur les émotions._**
 
 Cette approche plus passive, consiste à changer notre réaction émotionnelle face à la situation: vous vous concentrez sur vos émotions.
 ·         Tout d’abord il faut avoir un esprit positif devant les obstacles qui se dressent devant nous et regarder ça comme une expérience d’apprentissage. Par exemple même si vous n’avez pas réussi votre examen de mi-session, cela vous motivera à étudier plus fort pour l’examen final.
@@ -39,7 +39,7 @@ Cette approche plus passive, consiste à changer notre réaction émotionnelle f
 ·         Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens.
 ·         Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces derniers et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
 
-1. Gérer son stress sur le long terme.
+3. **_Gérer son stress sur le long terme._**
 
 Bien que les solutions rapides soient très utiles, le meilleur moyen de gérer son stress est de développer des stratégies à long-terme. De cette façon, nous deviendrons de plus en plus outillés pour faire face à des situations stressantes et bien les négocier.
 Pour identifier et évaluer correctement une situation, nous devons prendre le temps qu’il faut pour comprendre pourquoi notre corps s’active en réponse à notre stress.
@@ -51,7 +51,7 @@ Renforcer sa résilience est autre moyen de gérer son stress sur le long terme.
 Pour recourir à un plan B, nous devons d’abord identifier et analyser la situation qui nous stresse et comme on dit un problème défini est déjà à moitié résolu. Recourir à un plan B, peut parfois provoquer de l’anxiété, car encore faut-il le mettre en branle! Mais la réalité est un peu différente. C’est-à-dire qu’il est assez rare que le plan B voit le jour. Le simple fait d’élaborer le plan B peut faire la différence.
 Le simple fait d’imaginer un plan B vous donnera la sensation de contrôler la situation, et diminuera l’importance de l’agent stressant, dans ce cas-ci l’imprévisibilité. Même si l’agent stressant est toujours présent, vous aurez développé votre résilience. Par exemple si vous avez échoué à l’examen de mi-session vous pouvez vous dire que vous pouvez mieux étudier et vous rattraper à l’examen final
 
-Voici les principaux points à retenir pour une gestion du stress optimale!
+Voici **les principaux points à retenir pour une gestion du stress optimale!**
 
 1. Nous devons démanteler notre stress
    Écouter notre corps et reconnaître les signes qui indiquent une réponse de stress.
