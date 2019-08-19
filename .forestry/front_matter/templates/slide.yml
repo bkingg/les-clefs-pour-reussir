@@ -22,7 +22,6 @@ fields:
   name: lien-boutton
   label: URL Boutton
 pages:
-- _slides/test.md
 - _slides/Rentrée scolaire.md
 - _slides/decouvrez-les-clefs-du-succes.md
 - _slides/programme-de-remise-a-niveau.md
