@@ -1,5 +1,5 @@
 ---
-image: ''
+image: "/uploads/rentree scolaire.jpg"
 titre: La rentrée des classes est là !  Pensez à démarrer du bon pied !
 sous-titre: ''
 description: ''
