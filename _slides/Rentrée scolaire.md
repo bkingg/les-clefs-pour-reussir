@@ -5,6 +5,5 @@ sous-titre: ''
 description: ''
 texte-boutton: Découvrez nos programmes
 lien-boutton: "/programmes.html"
-published: false
 
 ---
