@@ -2,7 +2,7 @@
 title: 'La nouvelle réforme du baccalauréat '
 layout: article
 date: 2019-08-14
-image: ''
+image: "/uploads/-EXAMEN-.jpg"
 gallery:
 - "/uploads/1sa.png"
 - "/uploads/1sb.png"
