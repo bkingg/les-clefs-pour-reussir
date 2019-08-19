@@ -2,7 +2,7 @@
 title: La gestion du stress chez l’étudiant
 layout: article
 date: 2019-08-14
-image: ''
+image: "/uploads/blog stress.jpg"
 
 ---
 **Le stress fait parti du quotidien de l’individu**, il constitue une réponse naturelle de notre corps à des situations désagréables et imprévues qui se présentent et dont on a des doutes par rapport à nos capacités à les surmonter.
