@@ -31,17 +31,12 @@ Ci-dessous un résumé des coefficients qui seront appliqués dans les différen
 
 ![](/uploads/1sd.png)
 
-Malgré ces changements en profondeur 4 principes restent inchangés :
+Malgré ces changements en profondeur 4 principes restent inchangés 
 
-1. 
+1\. Le bac est obtenu à partir d'une moyenne générale de 10/20
 
-        Le bac est obtenu à partir d'une moyenne générale de 10/20
-2. 
+2\. Il n'existe pas de note éliminatoire ou de note de plancher
 
-        Il n'existe pas de note éliminatoire ou de note de plancher
-3. 
+3\. Le système actuel de compensation et de mentions est maintenu
 
-        Le système actuel de compensation et de mentions est maintenu
-4. 
-
-        L'oral de rattrapage est maintenu en tant que seconde chance
+4\. L'oral de rattrapage est maintenu en tant que seconde chance
