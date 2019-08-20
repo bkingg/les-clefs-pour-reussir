@@ -7,7 +7,7 @@
 
         {%- for slide in site.slides -%}
             <!-- slider 1 -->
-            <div class="slide" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url({{ slide.image | default: 'http://placehold.it/1903x760' }});">
+            <div class="slide" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ slide.image | default: 'http://placehold.it/1903x760' }}');">
 				
 				<div class="slide__text">
 					<div class="slide__text--wrapper">

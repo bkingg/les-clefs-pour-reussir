@@ -164,7 +164,7 @@ image-fiches: "/uploads/fiches.png"
             <div>
               <div class="col-md-12">
                 <div class="block-content">
-                  <a class="courses-img" href="{{ programme.url }}" style="background-image: url({{ programme.image }});">
+                  <a class="courses-img" href="{{ programme.url }}" style="background-image: url('{{ programme.image }}');">
                     <img src="{{ programme.image }}" alt="{{ programme.title | escape }}">
                   </a>
                   <div class="content">
