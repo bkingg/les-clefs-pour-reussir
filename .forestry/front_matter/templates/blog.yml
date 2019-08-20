@@ -1,6 +1,6 @@
 ---
 label: Blog
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
@@ -8,9 +8,11 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: handle
   label: handle
+  hidden: true
 - type: file
   name: banniere
   label: banniere

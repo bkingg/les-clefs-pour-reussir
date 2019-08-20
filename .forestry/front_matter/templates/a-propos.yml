@@ -13,9 +13,11 @@ fields:
   label: handle
 - type: file
   name: banniere
-  label: banniere
+  label: Bannière
+  description: 1000px x 400px
 - type: file
   name: image
   label: image
+  description: 800px x 800px
 pages:
 - a-propos.html

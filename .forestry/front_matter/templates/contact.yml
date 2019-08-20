@@ -13,6 +13,7 @@ fields:
   label: handle
 - type: file
   name: banniere
-  label: banniere
+  label: Bannière
+  description: 1000px x 400px
 pages:
 - contact.html

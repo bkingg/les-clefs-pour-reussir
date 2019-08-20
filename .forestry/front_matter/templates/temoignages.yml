@@ -11,13 +11,13 @@ fields:
 - type: file
   name: image
   label: image
+  description: 400px x 400px
 pages:
 - _temoignages/Aminata.md
 - _temoignages/Steven.md
 - _temoignages/Abdou.md
 - _temoignages/CIMF.md
 - _temoignages/Stanislas.md
-- _temoignages/Zemen.html
 - _temoignages/aida.md
 - _temoignages/toufic.md
 - _temoignages/pape.md
