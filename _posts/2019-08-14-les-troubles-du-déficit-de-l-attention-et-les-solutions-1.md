@@ -13,9 +13,17 @@ Le TDAH peut se manifester de diverses manières, on peut citer entre autres les
 Au quotidien les parents peuvent remarquer certains de ces symptômes comme par exemple :
 
 * L’élève éprouve des difficultés à faire des taches qui demandent de l’attention
+
+
 * Il est tout le temps distrait par ce qui l’entoure et perd souvent ses objets personnels ou son matériel scolaire.
+
+
 * Il a de la difficulté à respecter les règles établies et/ou à organiser son travail
+
+
 * Il se laisse mener par ses émotions et agit sans réfléchir aux conséquences
+
+
 * L’enfant est tout le temps en activité et s’agite continuellement.
 
 C’est avec le temps qu’on peut différencier un enfant rêveur et très actif d’un enfant ayant le TDAH, en effet les enfants touchés par le TDAH montrent des comportements similaires à ceux manifestés par les enfants normaux. Par contre l’enfant atteint de TDAH va avoir des comportements exagérés et excessifs. Il est inattentif et parfois trop impulsif. Ce type d’enfant souffre d’un désordre neurobiologique ; ils ont souvent une mémoire à court terme problématique et ils montrent des comportements importuns.
