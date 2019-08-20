@@ -1,9 +1,9 @@
 ---
 image: "/uploads/bannieres retour_2.jpg"
-titre: La rentrée des classes est là !  Pensez à démarrer du bon pied !
-sous-titre: ''
+titre: Nouveau programme du baccalauréat
+sous-titre: La rentrée des classes est là !  Pensez à démarrer du bon pied !
 description: ''
-texte-boutton: Découvrez nos programmes
-lien-boutton: "/programmes.html"
+texte-boutton: En savoir plus
+lien-boutton: "/2019/08/14/la-nouvelle-réforme-du-baccalauréat.html"
 
 ---
