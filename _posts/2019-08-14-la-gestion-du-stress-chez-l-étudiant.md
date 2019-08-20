@@ -22,33 +22,33 @@ Par contre le stress chronique découle d’une exposition prolongée et répét
 Il y’a **divers manières d’aborder le stress** et le gérer mais tout d’abord il faut accepter quelques principes de base comme apprendre à vivre avec le stress parce qu’au final c’est impossible d’éliminer le stress de nos vies et les solutions pour gérer le stress ne sont ni faciles, ni universelles. Tout d’abord une situation est stressante qu’à partir du moment que vous l’interprétez comme étant stressante autrement dit sentir qu’on est en train de perdre le contrôle, que la situation est imprévisible ou nouvelle et que quelque chose menace notre égo. Étant donné que ce qui est nouveau pour un individu ne l’est pas forcement pour un autre, le stress est une expérience purement individuelle et personnelle.
 Face à la réalité qu’on ne peut pas malheureusement pas supprimer purement le stress de nos vies , la seule solution et de s’adapter. L’adaptation est l’ensemble des pensées et comportement d’une personne par rapport à une situation menaçante afin d’éviter les effets négatifs. Étant donné nos différences concernant les raisons de nos stress chaque individu choisira sa propre stratégie d’adaptation. Il existe deux types d’adaptation possible :
 
-1. **_L’adaptation centrée sur les problèmes._**
+**_1.L’adaptation centrée sur les problèmes._**
 
 Cette stratégie implique le changement actif de la situation qui est à la source du stress en se concentrant sur les problèmes :
 
-\-  Analyser la situation, par exemple faire attention, éviter de prendre trop de responsabilités lorsque vous en avez déjà plusieurs. 
+\-  Analyser la situation, par exemple faire attention, éviter de prendre trop de responsabilités lorsque vous en avez déjà plusieurs.
 
-\-  Travailler plus fort (rester éveillé une nuit complète afin d’étudier sur l’examen qui est la source du stress). 
+\-  Travailler plus fort (rester éveillé une nuit complète afin d’étudier sur l’examen qui est la source du stress).
 
-\-   Appliquer des leçons apprises lors d’expériences précédentes par exemple se focaliser sur les chapitres sur lesquels on a eu de la difficulté lors des exercices en classe. 
+\-   Appliquer des leçons apprises lors d’expériences précédentes par exemple se focaliser sur les chapitres sur lesquels on a eu de la difficulté lors des exercices en classe.
 
-\-   Parler à une personne qui peut avoir un impact direct sur votre situation (discuter avec le professeur qui dispense les cours de soutien scolaire afin qu’il vous oriente sur la manière de mieux aborder le chapitre ou l’examen qui causent le stress) 
+\-   Parler à une personne qui peut avoir un impact direct sur votre situation (discuter avec le professeur qui dispense les cours de soutien scolaire afin qu’il vous oriente sur la manière de mieux aborder le chapitre ou l’examen qui causent le stress)
 
 \-   Développer une autodiscipline et un contrôle de soi, par exemple étudier davantage en vue de votre préparation à l’examen final ou établissez-vous un horaire de révision.
 
-2. **_L’adaptation centrée sur les émotions._**
+**_2.L’adaptation centrée sur les émotions._**
 
-Cette approche plus passive, consiste à changer notre réaction émotionnelle face à la situation: vous vous concentrez sur vos émotions. 
+Cette approche plus passive, consiste à changer notre réaction émotionnelle face à la situation: vous vous concentrez sur vos émotions.
 
 \-   Tout d’abord il faut avoir un esprit positif devant les obstacles qui se dressent devant nous et regarder ça comme une expérience d’apprentissage. Par exemple même si vous n’avez pas réussi votre examen de mi-session, cela vous motivera à étudier plus fort pour l’examen final.
 
-\-    Faites le choix de ne pas réagir excessivement aux stresseurs et de composer avec un stresseur à la fois; prenez quelques grandes respirations et poursuivez. 
+\-    Faites le choix de ne pas réagir excessivement aux stresseurs et de composer avec un stresseur à la fois; prenez quelques grandes respirations et poursuivez.
 
-\-    Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens. 
+\-    Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens.
 
 \-    Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces derniers et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
 
-3. **_Gérer son stress sur le long terme._**
+**_3.Gérer son stress sur le long terme._**
 
 Bien que les solutions rapides soient très utiles, le meilleur moyen de gérer son stress est de développer des stratégies à long-terme. De cette façon, nous deviendrons de plus en plus outillés pour faire face à des situations stressantes et bien les négocier.
 Pour identifier et évaluer correctement une situation, nous devons prendre le temps qu’il faut pour comprendre pourquoi notre corps s’active en réponse à notre stress.
