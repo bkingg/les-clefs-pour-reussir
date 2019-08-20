@@ -12,19 +12,15 @@ Dans notre quotidien, nous avons tous des difficultés de temps à autres à dem
 Le TDAH peut se manifester de diverses manières, on peut citer entre autres les difficultés de concentration (l’inattention), l’hyperactivité (activité excessive) et l’impulsivité (agir sans réfléchir aux conséquences des actes). Le comportement en question doit présenter un caractère démesuré, se manifester avant les 7 ans de l’enfant et troubler de manière excessive au moins deux aspects de la vie de l’enfant (la vie à la maison et à l’école par exemple).
 Au quotidien les parents peuvent remarquer certains de ces symptômes comme par exemple :
 
-* L’élève éprouve des difficultés à faire des taches qui demandent de l’attention
+\-L’élève éprouve des difficultés à faire des taches qui demandent de l’attention
 
+\-Il est tout le temps distrait par ce qui l’entoure et perd souvent ses objets personnels ou son matériel scolaire.
 
-* Il est tout le temps distrait par ce qui l’entoure et perd souvent ses objets personnels ou son matériel scolaire.
+\-Il a de la difficulté à respecter les règles établies et/ou à organiser son travail
 
+\-Il se laisse mener par ses émotions et agit sans réfléchir aux conséquences
 
-* Il a de la difficulté à respecter les règles établies et/ou à organiser son travail
-
-
-* Il se laisse mener par ses émotions et agit sans réfléchir aux conséquences
-
-
-* L’enfant est tout le temps en activité et s’agite continuellement.
+\-L’enfant est tout le temps en activité et s’agite continuellement.
 
 C’est avec le temps qu’on peut différencier un enfant rêveur et très actif d’un enfant ayant le TDAH, en effet les enfants touchés par le TDAH montrent des comportements similaires à ceux manifestés par les enfants normaux. Par contre l’enfant atteint de TDAH va avoir des comportements exagérés et excessifs. Il est inattentif et parfois trop impulsif. Ce type d’enfant souffre d’un désordre neurobiologique ; ils ont souvent une mémoire à court terme problématique et ils montrent des comportements importuns.
 Des problèmes de sommeil sont aussi fréquents chez ces enfants. Les rêveurs tombent dans cette catégorie (trouble d’attention sans hyperactivité) et les problèmes qu’ils vivent à se concentrer peut avoir des conséquences graves sur leur rendement à l’école et étant donné que ces enfants ne sont pas perturbateurs, ils passent inaperçus et ne sont pas prise en charge à temps. Ils sont le plus souvent assis au fond de la classe et passent leur temps à regarder à l’extérieur de la classe. Les professeurs les qualifient souvent de lents et d’endormis.
