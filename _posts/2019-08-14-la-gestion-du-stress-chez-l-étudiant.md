@@ -25,19 +25,28 @@ Face à la réalité qu’on ne peut pas malheureusement pas supprimer purement 
 1. **_L’adaptation centrée sur les problèmes._**
 
 Cette stratégie implique le changement actif de la situation qui est à la source du stress en se concentrant sur les problèmes :
-·         Analyser la situation, par exemple faire attention, éviter de prendre trop de responsabilités lorsque vous en avez déjà plusieurs.
-·         Travailler plus fort (rester éveillé une nuit complète afin d’étudier sur l’examen qui est la source du stress).
-·         Appliquer des leçons apprises lors d’expériences précédentes par exemple se focaliser sur les chapitres sur lesquels on a eu de la difficulté lors des exercices en classe.
-·         Parler à une personne qui peut avoir un impact direct sur votre situation (discuter avec le professeur qui dispense les cours de soutien scolaire afin qu’il vous oriente sur la manière de mieux aborder le chapitre ou l’examen qui causent le stress)
-Développer une autodiscipline et un contrôle de soi, par exemple étudier davantage en vue de votre préparation à l’examen final ou établissez-vous un horaire de révision.
+
+\-  Analyser la situation, par exemple faire attention, éviter de prendre trop de responsabilités lorsque vous en avez déjà plusieurs. 
+
+\-  Travailler plus fort (rester éveillé une nuit complète afin d’étudier sur l’examen qui est la source du stress). 
+
+\-   Appliquer des leçons apprises lors d’expériences précédentes par exemple se focaliser sur les chapitres sur lesquels on a eu de la difficulté lors des exercices en classe. 
+
+\-   Parler à une personne qui peut avoir un impact direct sur votre situation (discuter avec le professeur qui dispense les cours de soutien scolaire afin qu’il vous oriente sur la manière de mieux aborder le chapitre ou l’examen qui causent le stress) 
+
+\-   Développer une autodiscipline et un contrôle de soi, par exemple étudier davantage en vue de votre préparation à l’examen final ou établissez-vous un horaire de révision.
 
 2. **_L’adaptation centrée sur les émotions._**
 
-Cette approche plus passive, consiste à changer notre réaction émotionnelle face à la situation: vous vous concentrez sur vos émotions.
-·         Tout d’abord il faut avoir un esprit positif devant les obstacles qui se dressent devant nous et regarder ça comme une expérience d’apprentissage. Par exemple même si vous n’avez pas réussi votre examen de mi-session, cela vous motivera à étudier plus fort pour l’examen final.
-·         Faites le choix de ne pas réagir excessivement aux stresseurs et de composer avec un stresseur à la fois; prenez quelques grandes respirations et poursuivez.
-·         Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens.
-·         Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces derniers et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
+Cette approche plus passive, consiste à changer notre réaction émotionnelle face à la situation: vous vous concentrez sur vos émotions. 
+
+\-   Tout d’abord il faut avoir un esprit positif devant les obstacles qui se dressent devant nous et regarder ça comme une expérience d’apprentissage. Par exemple même si vous n’avez pas réussi votre examen de mi-session, cela vous motivera à étudier plus fort pour l’examen final.
+
+\-    Faites le choix de ne pas réagir excessivement aux stresseurs et de composer avec un stresseur à la fois; prenez quelques grandes respirations et poursuivez. 
+
+\-    Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens. 
+
+\-    Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces derniers et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
 
 3. **_Gérer son stress sur le long terme._**
 
