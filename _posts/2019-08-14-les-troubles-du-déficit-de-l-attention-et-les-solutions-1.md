@@ -12,7 +12,7 @@ Dans notre quotidien, nous avons tous des difficultés de temps à autres à dem
 Le TDAH peut se manifester de diverses manières, on peut citer entre autres les difficultés de concentration (l’inattention), l’hyperactivité (activité excessive) et l’impulsivité (agir sans réfléchir aux conséquences des actes). Le comportement en question doit présenter un caractère démesuré, se manifester avant les 7 ans de l’enfant et troubler de manière excessive au moins deux aspects de la vie de l’enfant (la vie à la maison et à l’école par exemple).
 Au quotidien les parents peuvent remarquer certains de ces symptômes comme par exemple :
 
-\-  L’élève éprouve des difficultés à faire des taches qui demandent de l’attention
+\-  L’élève éprouve des difficultés à faire des tâches qui demandent de l’attention
 
 \-  Il est tout le temps distrait par ce qui l’entoure et perd souvent ses objets personnels ou son matériel scolaire.
 
