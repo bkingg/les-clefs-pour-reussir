@@ -2,7 +2,7 @@
 title: 'Les troubles du déficit de l’attention et les solutions '
 layout: article
 date: 2019-08-14
-image: "/uploads/TDAH-trouble-de-attention-hyperactivité-yukta.jpg"
+image: "/uploads/DSC_3511.jpg"
 
 ---
 Dans notre quotidien, nous avons tous des difficultés de temps à autres à demeurer immobile et/ou à contrôler nos impulsions. Toutefois, les personnes atteintes de troubles du déficit de l’attention avec ou sans hyperactivité (ou TDAH) sont confrontées à ce genre de problèmes tous les jours. Le TDAH peut saper sur le long terme l’estime de soi et la capacité d’apprentissage d’un étudiant ou élève.
