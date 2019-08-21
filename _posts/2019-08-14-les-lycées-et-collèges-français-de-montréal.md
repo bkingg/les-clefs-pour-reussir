@@ -2,7 +2,7 @@
 title: 'Les lycées et collèges français de Montréal  '
 layout: article
 date: 2019-08-14
-image: "/uploads/sortie ecole.jpg"
+image: "/uploads/DSC_3481.jpg"
 
 ---
 Chaque année, beaucoup de parents choisissent d’inscrire leurs enfants dans l’une des **_deux écoles québécoises proposant un enseignement basé sur la pédagogie française et menant à l’obtention d’un diplôme français._** La plupart d’entre eux optent pour ce choix à cause de leur origine française mais aussi parce qu’ils souhaitent un jour retourner en Europe. D’autres aussi le font à cause de la qualité de l’enseignement qu’on y donne.
