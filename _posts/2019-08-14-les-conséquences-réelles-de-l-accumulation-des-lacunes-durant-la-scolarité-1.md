@@ -2,7 +2,7 @@
 title: Les conséquences réelles de l’accumulation des lacunes durant la scolarité
 layout: article
 date: 2019-08-14
-image: ''
+image: "/uploads/DSC_3485.jpg"
 
 ---
 L’enfant le plus assidu au monde peut aussi traverser des périodes difficiles durant son année scolaire ; des faux pas qui peuvent avoir des conséquences désastreuses sur son bulletin scolaire même si c’est juste en début de scolarité. Si vous pensez que votre enfant n’a pas besoin de soutien scolaire vous devriez d’abord penser aux conséquences.
