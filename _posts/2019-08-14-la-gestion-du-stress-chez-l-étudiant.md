@@ -6,18 +6,17 @@ image: "/uploads/DSC_3463.jpg"
 
 ---
 **Le stress fait parti du quotidien de l’individu**, il constitue une réponse naturelle de notre corps à des situations désagréables et imprévues qui se présentent et dont on a des doutes par rapport à nos capacités à les surmonter.
-D’après la plus récente enquête du Programme international pour le suivi des acquis des élèves (PISA), de l’Organisation de coopération et de développement économiques (OCDE), qui compare les performances scolaires des élèves âgés de 15 ans dans 65 pays, **les collégiens français sont parmi les plus stressés au monde**. Ils se classent deuxième sur 31 pays, tout juste derrière les Japonais.
-Le stress agit sur nous de la même manière qu’une bougie qu’on brûle à partir de ses deux extrémités et malheureusement si la personne n’agit pas ce stress finit par complètement le consumer.
-Selon le dictionnaire Larousse le stress est un état réactionnel de l'organisme soumis à une agression brusque, ce stress résulte en une sécrétion d’hormones de stress dans le corps (adrénaline et le cortisol). Concrètement on peut ressentir ce stress à partir de quelques signes qui montrent que le corps est entrain de mobiliser de l’énergie pour affronter une situation: battements cardiaques élevés, respiration approfondie, sueurs etc.
-Selye est l’un des pionniers de la recherche sur le stress et a démontré son impact sur la santé. Tous les individus ne réagissent pas de la même façon mais les chercheurs se sont accordés sur **quatre caractéristiques qui induisent une réponse de stress** chez la majorité (sinon la totalité) des gens :
+D’après la plus récente enquête du Programme international pour le suivi des acquis des élèves (PISA), de l’Organisation de coopération et de développement économiques (OCDE), qui compare les performances scolaires des élèves âgés de 15 ans dans 65 pays, **les collégiens français sont parmi les plus stressés au monde**. Ils se classent deuxième sur 31 pays, tout juste derrière les Japonais. Le stress agit sur nous de la même manière qu’une bougie qu’on brûle à partir de ses deux extrémités et malheureusement si la personne n’agit pas, ce stress finit par complètement le consumer. 
 
-**_-C_**ontrôle : Vous sentez que vous n’avez aucun ou très peu de contrôle sur la situation.
+Selon le dictionnaire Larousse le stress est un état réactionnel de l'organisme soumis à une agression brusque, ce stress résulte en une sécrétion d’hormones de stress dans le corps (adrénaline et le cortisol). Concrètement on peut ressentir ce stress à partir de quelques signes qui montrent que le corps est entrain de mobiliser de l’énergie pour affronter une situation: battements cardiaques élevés, respiration approfondie, sueurs etc. Selye est l’un des pionniers de la recherche sur le stress et a démontré son impact sur la santé. Tous les individus ne réagissent pas de la même façon mais les chercheurs se sont accordés sur **quatre caractéristiques qui induisent une réponse de stress** chez la majorité (sinon la totalité) des gens :
 
-**_-I_**mprévisibilité : Quelque chose de complètement inattendu se produit ou encore, vous ne pouvez pas savoir à l’avance ce qui va se produire.
+\**_-C_**ontrôle : Vous sentez que vous n’avez aucun ou très peu de contrôle sur la situation.
 
-**_-N_**ouveauté : Quelque chose de nouveau que vous n’avez jamais expérimenté se produit.
+\**_-I_**mprévisibilité : Quelque chose de complètement inattendu se produit ou encore, vous ne pouvez pas savoir à l’avance ce qui va se produire.
 
-**_-É_**go menacé : Vos compétences et votre égo sont mis à l’épreuve. On doute de vos capacités.
+\**_-N_**ouveauté : Quelque chose de nouveau que vous n’avez jamais expérimenté se produit.
+
+\**_-É_**go menacé : Vos compétences et votre égo sont mis à l’épreuve. On doute de vos capacités.
 
 D’autre part on distingue **deux types de stress** : **le stress aigu et le stress chronique**. Le premier résulte de situation imprévue et ponctuelle. Le stress aigu n’est nécessairement pas nuisible puisqu’il stimule la sécrétion d’hormones qui nous aident à gérer la situation, par exemple pour un étudiant c’est partir faire un exercice au tableau devant l’ensemble de la classe ou quelques heures avant le début d’un examen.
 Par contre le stress chronique découle d’une exposition prolongée et répétée et c’est cette exposition continue qui est nocif pour la santé de l’individu comme par exemple un élève qui subit un harcèlement quotidien de la part de ses camarades. Les chercheurs s’accordent sur le fait que notre système de réponse au stress n’est pas fait pour être activé constamment. Il peut causer à la longue un épuisement de l’organisme ainsi que d’autres impacts plus graves comme des maladies cardiaques, de la pression artérielle élevée, des taux de cholestérol élevés et de la dépression.
