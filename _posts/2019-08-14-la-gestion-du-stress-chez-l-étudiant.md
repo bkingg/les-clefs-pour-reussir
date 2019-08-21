@@ -48,7 +48,7 @@ Cette approche plus passive, consiste à changer notre réaction émotionnelle f
 
 \-    Il faut surtout communiquer et éviter de ruminer ou de garder ses émotions pour soi, car cela peut mener éventuellement à une explosion. Le soutien social est la clé en créant des liens avec les gens.
 
-\-    Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces derniers et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
+\-    Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces dernières et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
 
 **_3.Gérer son stress sur le long terme._**
 
