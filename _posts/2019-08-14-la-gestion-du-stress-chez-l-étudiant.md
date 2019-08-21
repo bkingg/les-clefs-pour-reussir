@@ -50,7 +50,7 @@ Cette approche plus passive, consiste à changer notre réaction émotionnelle f
 
 \-    Il faut s’accepter soi-même, personne n’est parfait et il y’a toujours de la place pour les erreurs car on apprend beaucoup de ces dernières et il y’aura toujours une opportunité d’appliquer le tout dans le futur au moment de prendre des décisions.
 
-**_3.Gérer son stress sur le long terme._**
+**_Gérer son stress sur le long terme._**
 
 Bien que les solutions rapides soient très utiles, le meilleur moyen de gérer son stress est de développer des stratégies à long-terme. De cette façon, nous deviendrons de plus en plus outillés pour faire face à des situations stressantes et bien les négocier.
 Pour identifier et évaluer correctement une situation, nous devons prendre le temps qu’il faut pour comprendre pourquoi notre corps s’active en réponse à notre stress.
