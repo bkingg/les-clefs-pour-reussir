@@ -9,25 +9,25 @@
             <!-- slider 1 -->
             <div class="slide" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ slide.image | default: 'http://placehold.it/1903x760' }}');">
 				
-				<div class="slide__text">
-					<div class="slide__text--wrapper">
-						<h1 class="slide__title">
-							{%- if slide.sous-titre -%}<span class="highlight-text">{{ slide.sous-titre }}</span>{%- endif -%}
-							{{ slide.titre | newline_to_br | trim }}
-						</h1>
-						<div class="slide__description">
-							<p>{{ slide.description | newline_to_br | trim }}</p>
-						</div>
-						{%- if slide.lien-boutton -%}
-							<div class="slide__button">
-								<a href="{{ slide.lien-boutton }}" target="_self" class="rex-bottom-medium rex-btn-icon">
-									<span class="rex-btn-text">{{ slide.texte-boutton }}</span>
-									<span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
-								</a>
+							<div class="slide__text">
+								<div class="slide__text--wrapper">
+									<h1 class="slide__title">
+										{%- if slide.sous-titre -%}<span class="highlight-text">{{ slide.sous-titre }}</span>{%- endif -%}
+										{{ slide.titre | newline_to_br | trim }}
+									</h1>
+									<div class="slide__description">
+										<p>{{ slide.description | newline_to_br | trim }}</p>
+									</div>
+									{%- if slide.lien-boutton -%}
+										<div class="slide__button">
+											<a href="{{ slide.lien-boutton }}" target="_self" class="rex-bottom-medium rex-btn-icon">
+												<span class="rex-btn-text">{{ slide.texte-boutton }}</span>
+												<span class="rex-btn-text-icon"><i class="fa fa-arrow-circle-o-right"></i></span>
+											</a>
+										</div>
+									{%- endif -%}
+								</div>
 							</div>
-						{%- endif -%}
-					</div>
-				</div>
             </div>
 
         {%- endfor -%}    
