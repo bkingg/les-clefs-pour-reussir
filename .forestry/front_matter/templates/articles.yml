@@ -20,9 +20,9 @@ fields:
   label: image
   description: 1000px x 400px
 pages:
+- _posts/2019-08-14-la-nouvelle-réforme-du-baccalauréat.md
 - _posts/2019-08-14-la-gestion-du-stress-chez-l-étudiant.md
 - _posts/2019-08-14-les-troubles-du-déficit-de-l-attention-et-les-solutions-1.md
 - _posts/2019-08-14-les-lycées-et-collèges-français-de-montréal.md
-- _posts/2019-08-14-la-nouvelle-réforme-du-baccalauréat.md
 - _posts/2019-08-14-les-conséquences-réelles-de-l-accumulation-des-lacunes-durant-la-scolarité-1.md
 - _posts/2019-08-14-soutien-scolaire-et-cours-particulier-pour-les-lycées-ou-collèges-français-de-montréal.md

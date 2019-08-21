@@ -31,7 +31,7 @@ Ci-dessous un résumé des coefficients qui seront appliqués dans les différen
 
 ![](/uploads/1sd.png)
 
-Malgré ces changements en profondeur 4 principes restent inchangés 
+Malgré ces changements en profondeur 4 principes restent inchangés
 
 1\. Le bac est obtenu à partir d'une moyenne générale de 10/20
 
