@@ -6,6 +6,5 @@ description: "Apprendre les méthodes clés de résolution d’exercices \nCorpu
   exercices par chapitre"
 texte-boutton: Découvrez nos programmes
 lien-boutton: "/programmes.html"
-published: false
 
 ---
