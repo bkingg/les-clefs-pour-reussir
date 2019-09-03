@@ -22,4 +22,5 @@ fields:
   name: lien-boutton
   label: URL Boutton
 pages:
+- _slides/programme de remise à niveau.md
 - _slides/gestion stress.md
