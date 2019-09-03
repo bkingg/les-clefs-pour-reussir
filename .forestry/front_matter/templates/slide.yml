@@ -21,6 +21,3 @@ fields:
 - type: text
   name: lien-boutton
   label: URL Boutton
-pages:
-- _slides/Rentrée scolaire.md
-- _slides/promotion 1h de consultation.md
