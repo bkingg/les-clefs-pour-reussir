@@ -5,6 +5,5 @@ sous-titre: Nouveau et ancien programme
 description: ''
 texte-boutton: Prendre un rendez-vous
 lien-boutton: "/contact"
-published: false
 
 ---
