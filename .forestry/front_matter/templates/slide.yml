@@ -22,7 +22,6 @@ fields:
   name: lien-boutton
   label: URL Boutton
 pages:
-- _slides/A promotion 1h de consultation.md
 - _slides/B rentrée scolaire.md
 - _slides/C découvrez les clefs pour reussir.md
 - _slides/D programme de remise à niveau.md
