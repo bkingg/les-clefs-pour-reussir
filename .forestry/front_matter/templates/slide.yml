@@ -22,7 +22,6 @@ fields:
   name: lien-boutton
   label: URL Boutton
 pages:
-- _slides/A Programme pour l ete/test.md
 - _slides/A programme d ete.md
 - _slides/B rentrée scolaire.md
 - _slides/C découvrez les clefs pour reussir.md
