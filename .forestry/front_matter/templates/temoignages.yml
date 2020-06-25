@@ -13,17 +13,17 @@ fields:
   label: image
   description: 400px x 400px
 pages:
-- _temoignages/Aminata.md
-- _temoignages/Steven.md
 - _temoignages/Abdou.md
+- _temoignages/Aminata.md
 - _temoignages/CIMF.md
 - _temoignages/Stanislas.md
+- _temoignages/Steven.md
 - _temoignages/aida.md
-- _temoignages/toufic.md
-- _temoignages/pape.md
 - _temoignages/faven.md
-- _temoignages/sabrina.md
-- _temoignages/teta.md
-- _temoignages/saron.md
-- _temoignages/rhita.md
 - _temoignages/moha.md
+- _temoignages/pape.md
+- _temoignages/rhita.md
+- _temoignages/sabrina.md
+- _temoignages/saron.md
+- _temoignages/teta.md
+- _temoignages/toufic.md

@@ -22,7 +22,8 @@ fields:
   name: lien-boutton
   label: URL Boutton
 pages:
-- _slides/Rentrée Scolaire.md
-- _slides/decouvrez-les-clefs-du-succes.md
-- _slides/programme-de-remise-a-niveau.md
-- _slides/cours-hebdomadaires.md
+- _slides/A programme d ete.md
+- _slides/B rentrée scolaire.md
+- _slides/C découvrez les clefs pour reussir.md
+- _slides/D programme de remise à niveau.md
+- _slides/E gestion stress.md

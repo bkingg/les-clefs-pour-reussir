@@ -1,0 +1,25 @@
+---
+label: Accueil
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: handle
+  label: handle
+- type: file
+  name: image-apprentissage
+  label: image-apprentissage
+- type: file
+  name: image-parallax-1
+  label: image-parallax-1
+- type: file
+  name: image-parallax-2
+  label: image-parallax-2
+- type: file
+  name: image-fiches
+  label: image-fiches
+pages:
+- index.html

@@ -1,0 +1,18 @@
+---
+label: Programmes
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: handle
+  label: handle
+- type: file
+  name: banniere
+  label: banniere
+pages:
+- programmes.html
