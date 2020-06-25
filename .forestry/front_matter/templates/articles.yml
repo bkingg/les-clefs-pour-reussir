@@ -19,6 +19,8 @@ fields:
   name: image
   label: image
   description: 1000px x 400px
+  config:
+    maxSize: 2
 pages:
 - _posts/2019-08-14-la-gestion-du-stress-chez-l-étudiant.md
 - _posts/2019-08-14-la-nouvelle-réforme-du-baccalauréat.md
