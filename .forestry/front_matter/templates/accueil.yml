@@ -21,3 +21,5 @@ fields:
 - type: file
   name: image-fiches
   label: image-fiches
+pages:
+- index.html
