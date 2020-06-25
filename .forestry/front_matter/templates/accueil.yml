@@ -12,14 +12,22 @@ fields:
 - type: file
   name: image-apprentissage
   label: image-apprentissage
+  config:
+    maxSize: 2
 - type: file
   name: image-parallax-1
   label: image-parallax-1
+  config:
+    maxSize: 2
 - type: file
   name: image-parallax-2
   label: image-parallax-2
+  config:
+    maxSize: 2
 - type: file
   name: image-fiches
   label: image-fiches
+  config:
+    maxSize: 2
 pages:
 - index.html
