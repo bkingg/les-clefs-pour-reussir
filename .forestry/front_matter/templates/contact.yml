@@ -16,5 +16,7 @@ fields:
   name: banniere
   label: Bannière
   description: 1000px x 400px
+  config:
+    maxSize: 2
 pages:
 - contact.html
