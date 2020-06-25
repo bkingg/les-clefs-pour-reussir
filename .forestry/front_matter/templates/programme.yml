@@ -23,6 +23,8 @@ fields:
   hidden: false
   default: ''
   description: 1000px x 400px
+  config:
+    maxSize: 2
 pages:
 - _programmes/cours.md
 - _programmes/objectif-cote-r-d-excellenc.md
