@@ -41,7 +41,6 @@ sections:
 - type: document
   path: _config.yml
   label: Jekyll config
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
