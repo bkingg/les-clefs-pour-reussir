@@ -16,5 +16,7 @@ fields:
 - type: file
   name: banniere
   label: banniere
+  config:
+    maxSize: 2
 pages:
 - blog.html
