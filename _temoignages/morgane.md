@@ -1,6 +1,6 @@
 ---
 auteur: M.Rivière
-description: Stanislas
+description: Elève du collège Stanislas
 image: "/uploads/e79ec890-9f67-4ad0-bab6-18e2db57f9f7.JPG"
 
 ---
