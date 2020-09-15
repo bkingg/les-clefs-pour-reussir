@@ -3,7 +3,6 @@ layout: programme
 date: 2020-09-14 20:46:16 -0400
 title: Cours en ligne- à distance
 image: "/uploads/DSC_3452.jpg"
-published: false
 
 ---
 ### Nos cours à distance : individuels ou en petits groupe
