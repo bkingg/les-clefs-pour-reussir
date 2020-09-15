@@ -2,7 +2,6 @@
 auteur: C.Abondo
 description: Stanislas
 image: "/uploads/img_0154.jpeg"
-published: false
 
 ---
 Arrivant d’un lycée aefe de l’étranger, j’ai eu beaucoup de mal à m’adapter au système assez rigoureux et exigeant de Stanislas. Cependant, les clefs pour réussir ont su me venir en aide et me redonner confiance en moi.
