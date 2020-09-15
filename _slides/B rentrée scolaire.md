@@ -1,5 +1,5 @@
 ---
-image: "/uploads/bannieres retour_2.jpg"
+image: "/uploads/Untitled-1.jpg"
 titre: Nouveau programme du baccalauréat
 sous-titre: 'Rentrée: démarrez du bon pied !'
 description: ''
