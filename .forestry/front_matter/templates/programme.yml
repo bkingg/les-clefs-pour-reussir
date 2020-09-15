@@ -26,6 +26,7 @@ fields:
   config:
     maxSize: 2
 pages:
+- _programmes/cours-en-ligne.md
 - _programmes/cours.md
 - _programmes/objectif-cote-r-d-excellenc.md
 - _programmes/objectif-mention-brevet.md
