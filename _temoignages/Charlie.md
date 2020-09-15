@@ -1,6 +1,6 @@
 ---
 auteur: C.Abondo
-description: Stanislas
+description: Elève du collège Stanislas
 image: "/uploads/img_0154.jpeg"
 
 ---
