@@ -1,12 +1,13 @@
 ---
 title: Les Clefs pour Réussir
 email: cle7dor23@hotmail.com
-description: 'Les Clefs pour réussir offre un service de soutien scolaire en Mathématiques,
+description:
+  "Les Clefs pour réussir offre un service de soutien scolaire en Mathématiques,
   Physique-chimie, Français et complément Québécois  spécialisé pour les étudiants
   scolarisés dans les établissements du système français à Montréal : à savoir le
-  collège Stanislas et le Collège International Marie de France.'
-baseurl: ''
-url: ''
+  collège Stanislas et le Collège International Marie de France."
+baseurl: ""
+url: ""
 twitter_username: jekyllrb
 github_username: jekyll
 collections:
@@ -22,8 +23,8 @@ collections:
 markdown: kramdown
 theme: minima
 plugins:
-- jekyll-feed
+  - jekyll-feed
 exclude:
-- vendor/bundle
-- Gemfile
-- Gemfile.lock
+  - vendor/bundle
+  - Gemfile
+  - Gemfile.lock

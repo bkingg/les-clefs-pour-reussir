@@ -199,27 +199,31 @@
   /**
    * Google Map
    */
-  if ( $('#googleMap').length ) {
-    var geocoder = new google.maps.Geocoder();
-    var address = "{{ site.data.info.adresse.adresse }}, {{ site.data.info.adresse.ville }} {{ site.data.info.adresse.province }}, {{ site.data.info.adresse.code_postal }}, {{ site.data.info.adresse.pays }}";
-    var map = new google.maps.Map(document.getElementById('googleMap'), {
-      zoom: 15,
-      scrollwheel: false,
-      draggable: false,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    });
-    geocoder.geocode({'address': address}, function(results, status) {
-      if (status === 'OK') {
-        map.setCenter(results[0].geometry.location);
-        var marker = new google.maps.Marker({
-          map: map,
-          position: results[0].geometry.location
-        });
-      } else {
-        alert('Geocode was not successful for the following reason: ' + status);
-      }
-    });
-  }
+  window.initMap = function () {
+    if ($('#googleMap').length) {
+      var geocoder = new google.maps.Geocoder();
+      var address = "{{ site.data.info.adresse.adresse }}, {{ site.data.info.adresse.ville }} {{ site.data.info.adresse.province }}, {{ site.data.info.adresse.code_postal }}, {{ site.data.info.adresse.pays }}";
+
+      var map = new google.maps.Map(document.getElementById('googleMap'), {
+        zoom: 15,
+        scrollwheel: false,
+        draggable: false,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      });
+
+      geocoder.geocode({ 'address': address }, function (results, status) {
+        if (status === 'OK') {
+          map.setCenter(results[0].geometry.location);
+          new google.maps.Marker({
+            map: map,
+            position: results[0].geometry.location
+          });
+        } else {
+          alert('Geocode was not successful for the following reason: ' + status);
+        }
+      });
+    }
+  };
 
   function count(options) {
     var $this = $(this);
