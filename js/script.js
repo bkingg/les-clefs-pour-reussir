@@ -355,7 +355,7 @@
         return false;
       }
 
-      $(form).attr('action', 'https:' + '//formspree.io/' + '{{ site.data.info.email | split: '@' | first }}' + '@' + '{{ site.data.info.email | split: '@' | last | split: '.' | first }}' + '.' + '{{ site.data.info.email | split: '@' | last | split: '.' | last }}');
+      $(form).attr('action', 'https://formspree.io/{{ site.data.info.email }}');
       $(form)[0].submit();
 
       // Conversion Inscription
